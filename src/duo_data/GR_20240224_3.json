@@ -1,0 +1,453 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "δυνατός",
+            "translations": [
+                "strong",
+                "powerful"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c9670c9ebfdc37356e8f786a6ab0102d",
+            "isNew": false
+        },
+        {
+            "text": "μύτη",
+            "translations": [
+                "nose"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d54b35f31f97e727bdfa0d476cf57ec3",
+            "isNew": false
+        },
+        {
+            "text": "μαλλί",
+            "translations": [
+                "wool",
+                "hair"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/66a8b885fa379c62eee47cd6637301f8",
+            "isNew": false
+        },
+        {
+            "text": "αδύναμος",
+            "translations": [
+                "weak",
+                "powerless"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/04adfe069b1da5494cfd3b389a7ba00b",
+            "isNew": false
+        },
+        {
+            "text": "στόμα",
+            "translations": [
+                "mouth"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/99511cfea8e1a2097fef8c2490b2d0e0",
+            "isNew": false
+        },
+        {
+            "text": "χέρι",
+            "translations": [
+                "arm",
+                "hand"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/61f0c7f391fbe4f191d6fc2abef231d4",
+            "isNew": false
+        },
+        {
+            "text": "ψηλός",
+            "translations": [
+                "tall"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/872e62823b71b33cc85db2aefe895fdb",
+            "isNew": false
+        },
+        {
+            "text": "μελαχρινός",
+            "translations": [
+                "brunet",
+                "brunette",
+                "dark-haired"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/36ed13730be8833084b7af1687cfc692",
+            "isNew": false
+        },
+        {
+            "text": "κοντός",
+            "translations": [
+                "short"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c20b8601ad03a1c0dea9e63f22616ca1",
+            "isNew": false
+        },
+        {
+            "text": "πόδι",
+            "translations": [
+                "foot",
+                "leg"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ea06b4645fb954394b89b366d6b938e4",
+            "isNew": false
+        },
+        {
+            "text": "άσχημος",
+            "translations": [
+                "ugly",
+                "nasty",
+                "terrible"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1ee5ecc1e9ba2ca47cbe6ecea2439e6c",
+            "isNew": false
+        },
+        {
+            "text": "χείλος",
+            "translations": [
+                "lip"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/3a564fbb012d5c50017ae3ba4579bdf9",
+            "isNew": false
+        },
+        {
+            "text": "αυτί",
+            "translations": [
+                "ear"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9197abdd220a0d553bac86f02b4e6249",
+            "isNew": false
+        },
+        {
+            "text": "όμορφος",
+            "translations": [
+                "beautiful",
+                "handsome",
+                "pretty"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/3c54f88f38d63194e53930ba7aebb648",
+            "isNew": false
+        },
+        {
+            "text": "πρόσωπο",
+            "translations": [
+                "face",
+                "person"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/86f8255d405926feb31940694cdb5950",
+            "isNew": false
+        },
+        {
+            "text": "μεγάλος",
+            "translations": [
+                "great",
+                "old",
+                "big",
+                "large"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/385dd9913f0603e425ab19fe68a8a536",
+            "isNew": false
+        },
+        {
+            "text": "αδύνατος",
+            "translations": [
+                "thin"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ea2543184f68dcfc363789779938d46d",
+            "isNew": false
+        },
+        {
+            "text": "χοντρός",
+            "translations": [
+                "fat"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d711717fb5da3649cca8d15df079f194",
+            "isNew": false
+        },
+        {
+            "text": "νέος",
+            "translations": [
+                "new",
+                "young",
+                "modern",
+                "youth"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5bf955515a243f0b9365823bcb1715c5",
+            "isNew": false
+        },
+        {
+            "text": "μικρός",
+            "translations": [
+                "little",
+                "small",
+                "young"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/af1af1d14cb65886cc0011f850ba4bf2",
+            "isNew": false
+        },
+        {
+            "text": "μάτι",
+            "translations": [
+                "eye"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c66606ada29743cc0b06a2b318c5ec2f",
+            "isNew": false
+        },
+        {
+            "text": "πολλάκις",
+            "translations": [
+                "many times"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/621c8886f3a7295f327853a3e9da95b5",
+            "isNew": false
+        },
+        {
+            "text": "δις",
+            "translations": [
+                "twice",
+                "two times"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/2d59b67b505766cd3404071db822f783",
+            "isNew": false
+        },
+        {
+            "text": "τελευταίος",
+            "translations": [
+                "last",
+                "final"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/0bf16f0f8892874aec54da22c9f71cab",
+            "isNew": false
+        },
+        {
+            "text": "τρίτος",
+            "translations": [
+                "third",
+                "3rd"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a51f3978f17e858bac10f06d4b59482a",
+            "isNew": false
+        },
+        {
+            "text": "δεύτερος",
+            "translations": [
+                "second"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/0d7eb93b617a427b34108380e213a5f7",
+            "isNew": false
+        },
+        {
+            "text": "τέταρτος",
+            "translations": [
+                "fourth",
+                "4th"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4a6148f6dfc2aecf6349fd2216e60b07",
+            "isNew": false
+        },
+        {
+            "text": "πρώτος",
+            "translations": [
+                "first",
+                "1st"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c7a6b29d5abfe2f92eb6b41d0097ef45",
+            "isNew": false
+        },
+        {
+            "text": "φορά",
+            "translations": [
+                "(he/she/it) wears",
+                "is wearing",
+                "time"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6d586046d830b3fb53026c23e989d8b2",
+            "isNew": false
+        },
+        {
+            "text": "πέμπτος",
+            "translations": [
+                "fifth",
+                "fifth one",
+                "5th"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6994e63b67cc89c40f4bf2d45ac3dd73",
+            "isNew": false
+        },
+        {
+            "text": "νούμερο",
+            "translations": [
+                "number",
+                "figure",
+                "numeral",
+                "size"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1195d925165f4c554db0497281750b22",
+            "isNew": false
+        },
+        {
+            "text": "αριθμός",
+            "translations": [
+                "number",
+                "figure",
+                "numeral",
+                "digit",
+                "a number"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/7bf378164873ba98a2f2ca842c1dba3f",
+            "isNew": false
+        },
+        {
+            "text": "τέσσερις",
+            "translations": [
+                "four"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/623c24d0ca0cd227985e9fa3ba6034c6",
+            "isNew": false
+        },
+        {
+            "text": "εκατομμύριο",
+            "translations": [
+                "a million"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d2b70b8a9f62c860ceaed8beb23f5a8b",
+            "isNew": false
+        },
+        {
+            "text": "άπειρο",
+            "translations": [
+                "infinity",
+                "infinite"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/0ce4f32b7a692f5e569b1ca5948262a7",
+            "isNew": false
+        },
+        {
+            "text": "μηδέν",
+            "translations": [
+                "zero",
+                "nought",
+                "0"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/27d30eb334e1c4d7b720b6909313d209",
+            "isNew": false
+        },
+        {
+            "text": "ενενήντα",
+            "translations": [
+                "ninety"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9347d19c269201ec5b1784aae9a58c76",
+            "isNew": false
+        },
+        {
+            "text": "τριακόσιοι",
+            "translations": [
+                "three hundred"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/27a2774b1c17b0e9cb6dfa61d45fd399",
+            "isNew": false
+        },
+        {
+            "text": "τετρακόσιοι",
+            "translations": [
+                "four hundred"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ee42df484c2ec7cb800532447d619fa5",
+            "isNew": false
+        },
+        {
+            "text": "εκατό",
+            "translations": [
+                "one hundred",
+                "a hundred",
+                "hundred"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/7c363f297e8c7cbda4dce05fbc585ebe",
+            "isNew": false
+        },
+        {
+            "text": "διακόσιοι",
+            "translations": [
+                "two hundred"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4d857136b2af52f82b15e13435c0cebd",
+            "isNew": false
+        },
+        {
+            "text": "ογδόντα",
+            "translations": [
+                "eighty"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b3b31cf76b06d66467e175fe70b9d854",
+            "isNew": false
+        },
+        {
+            "text": "εβδομήντα",
+            "translations": [
+                "seventy"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/543c873f7985f98d249521deca73efbb",
+            "isNew": false
+        },
+        {
+            "text": "δεκαεννιά",
+            "translations": [
+                "nineteen"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e5dcd7ddf1e961bb83f67949f3eab2bb",
+            "isNew": false
+        },
+        {
+            "text": "τριάντα",
+            "translations": [
+                "thirty"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/7b2336c3958af6c96ba1b9977cb30841",
+            "isNew": false
+        },
+        {
+            "text": "εξήντα",
+            "translations": [
+                "sixty"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e5c4393fd3b66caf4d7625c0a6566875",
+            "isNew": false
+        },
+        {
+            "text": "πενήντα",
+            "translations": [
+                "fifty"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e8b35124169e522f3f12f29f010d83a5",
+            "isNew": false
+        },
+        {
+            "text": "είκοσι",
+            "translations": [
+                "twenty"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/827671a5ebb93be7a4078cb3c919287a",
+            "isNew": false
+        },
+        {
+            "text": "σαράντα",
+            "translations": [
+                "forty"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/85f34f24f72f096cf11f35106f12789b",
+            "isNew": false
+        },
+        {
+            "text": "χρονών",
+            "translations": [
+                "years of age",
+                "years old"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6a7998416386e4d84d59e41d7001e7b2",
+            "isNew": false
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 638,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 50,
+        "nextStartIndex": 150
+    }
+}

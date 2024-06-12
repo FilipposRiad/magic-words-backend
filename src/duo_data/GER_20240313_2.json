@@ -1,0 +1,482 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "Nachbarin",
+            "translations": [
+                "neighbor",
+                "neighbour"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/24379e97ef82cb6dd038ab616d16bbb8",
+            "isNew": true
+        },
+        {
+            "text": "unser",
+            "translations": [
+                "our"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fa09051df6911719269ba5eb0257df1e",
+            "isNew": true
+        },
+        {
+            "text": "weiß",
+            "translations": [
+                "white"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/41eeeb97475a27f13280ec367717f859",
+            "isNew": true
+        },
+        {
+            "text": "leise",
+            "translations": [
+                "quiet",
+                "silent"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d3c33166fdf932d9e9b1a29bcf46eadf",
+            "isNew": true
+        },
+        {
+            "text": "unsere",
+            "translations": [
+                "our",
+                "ours"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/55ce611e38cbaa574f61f0471be104bb",
+            "isNew": true
+        },
+        {
+            "text": "schwarz",
+            "translations": [
+                "black"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/be1be961781375e61fa9faf1dca6577e",
+            "isNew": true
+        },
+        {
+            "text": "Treppe",
+            "translations": [
+                "stairs",
+                "steps",
+                "staircase",
+                "stairway"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d480d73e28688806d4819373c2557f89",
+            "isNew": true
+        },
+        {
+            "text": "Mehrfamilienhaus",
+            "translations": [
+                "apartment building",
+                "multi-family residence",
+                "residential building"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7cc2ccc87fb8916b8fec24de624e00d8",
+            "isNew": true
+        },
+        {
+            "text": "Garten",
+            "translations": [
+                "garden",
+                "yard"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/229c0beef093098257291e8385c31b4b",
+            "isNew": true
+        },
+        {
+            "text": "zurzeit",
+            "translations": [
+                "currently",
+                "at the moment"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e4dab00ff0d094e1110c601d376e85df",
+            "isNew": true
+        },
+        {
+            "text": "allein",
+            "translations": [
+                "alone"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4be059284cde96fd7d9b65d7ac73693f",
+            "isNew": true
+        },
+        {
+            "text": "wohnen",
+            "translations": [
+                "live",
+                "lived",
+                "are living",
+                "living"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f15ad9a9b0dc4f5962832a9955abb3c5",
+            "isNew": true
+        },
+        {
+            "text": "sonntags",
+            "translations": [
+                "on Sundays"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5c5d7605a7ff02566fd57163cb4535e7",
+            "isNew": true
+        },
+        {
+            "text": "Reis",
+            "translations": [
+                "rice"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/12dade3b4854df4caff23587546a56fd",
+            "isNew": true
+        },
+        {
+            "text": "Hähnchen",
+            "translations": [
+                "chicken"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/47a035b4ad58b14004e076a364e1868f",
+            "isNew": true
+        },
+        {
+            "text": "Nudeln",
+            "translations": [
+                "noodles",
+                "pasta"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1de29679fe6c76977e1e90a44f70433c",
+            "isNew": true
+        },
+        {
+            "text": "freitags",
+            "translations": [
+                "on Fridays"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/56bce3bc94a3b1f53202280e895e12cc",
+            "isNew": true
+        },
+        {
+            "text": "Freundinnen",
+            "translations": [
+                "friends",
+                "girlfriends"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/372f2d774e04c2afce7a6b970ba4861b",
+            "isNew": true
+        },
+        {
+            "text": "zum Abendessen",
+            "translations": [
+                "to dinner",
+                "for dinner"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c487d8878d1054067f67e1aaf6244ced",
+            "isNew": true
+        },
+        {
+            "text": "Büro",
+            "translations": [
+                "office"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0098c3f0a5176c3d71bc1ef245152115",
+            "isNew": true
+        },
+        {
+            "text": "Kollegen",
+            "translations": [
+                "colleague",
+                "coworkers'",
+                "coworker",
+                "coworkers",
+                "colleagues",
+                "colleagues'"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/cd4835a654e8b02997824090821a4e0d",
+            "isNew": true
+        },
+        {
+            "text": "Schinken",
+            "translations": [
+                "ham"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f334b197e01360142ef2d2b505e27dfe",
+            "isNew": true
+        },
+        {
+            "text": "Tasse",
+            "translations": [
+                "cup",
+                "mug"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/016e03e24922e82dbc4c79b76454b3f1",
+            "isNew": true
+        },
+        {
+            "text": "Brötchen",
+            "translations": [
+                "roll",
+                "bread roll",
+                "bun",
+                "dinner roll"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b793c89dcce1e3e5f618ed66ee6b1fbf",
+            "isNew": true
+        },
+        {
+            "text": "zum Mittagessen",
+            "translations": [
+                "for lunch"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/12b81ca3ce5285d1e2bbc5cd25f10fda",
+            "isNew": true
+        },
+        {
+            "text": "treffe",
+            "translations": [
+                "am meeting",
+                "meeting",
+                "meet",
+                "hit"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f3be2fbe4c3699073240396dd13dc43f",
+            "isNew": true
+        },
+        {
+            "text": "jede",
+            "translations": [
+                "any",
+                "all",
+                "each",
+                "every",
+                "anyone"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/dfc159722da80c5a52067103fb020ca4",
+            "isNew": true
+        },
+        {
+            "text": "triffst",
+            "translations": [
+                "join",
+                "meet",
+                "hit"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4e7fbf4144027d05fd79040d0c2856f7",
+            "isNew": true
+        },
+        {
+            "text": "trifft",
+            "translations": [
+                "is meeting",
+                "join",
+                "meeting",
+                "will meet",
+                "meets",
+                "meet",
+                "hits"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6bd8b7b52d605ea27f0ae7820969f115",
+            "isNew": true
+        },
+        {
+            "text": "Donnerstag",
+            "translations": [
+                "Thursday"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6d75eebe871e9b3442b23cdd4e83b6c6",
+            "isNew": true
+        },
+        {
+            "text": "Banane",
+            "translations": [
+                "banana"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c67ac99a6c78df3b70edd9157c5716e7",
+            "isNew": true
+        },
+        {
+            "text": "morgens",
+            "translations": [
+                "in the mornings",
+                "in the morning"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/560ed4331cb9f48e806cfef25487a4fc",
+            "isNew": true
+        },
+        {
+            "text": "Joghurt",
+            "translations": [
+                "yogurt",
+                "yoghurt"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0df524724b78f917f2e7469b0c996e81",
+            "isNew": true
+        },
+        {
+            "text": "Müsli",
+            "translations": [
+                "muesli",
+                "cereal",
+                "granola"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fe9649c80e84213e7475e79d880ee1bf",
+            "isNew": true
+        },
+        {
+            "text": "zum Frühstück",
+            "translations": [
+                "for breakfast"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ee44067cec2bdd792c618384c997b6bd",
+            "isNew": true
+        },
+        {
+            "text": "isst",
+            "translations": [
+                "eats",
+                "is eating",
+                "eating",
+                "are eating",
+                "do eat",
+                "have",
+                "has",
+                "eat",
+                "having"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c0a7b69ef5f0f0a9c40b84469c03ee3c",
+            "isNew": true
+        },
+        {
+            "text": "pro",
+            "translations": [
+                "per"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4ce3f0688ab60c021b9222b9ac78139b",
+            "isNew": true
+        },
+        {
+            "text": "Yoga",
+            "translations": [
+                "yoga"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9779f8c061e4f0c54b8a9a46b48001cc",
+            "isNew": true
+        },
+        {
+            "text": "abends",
+            "translations": [
+                "in the evenings",
+                "in the evening"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8b5c560f0b9db4ee16629f26b23ddcd4",
+            "isNew": true
+        },
+        {
+            "text": "einmal",
+            "translations": [
+                "once"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/83916dfe672cb5a5db53d739ab886aa3",
+            "isNew": true
+        },
+        {
+            "text": "Sport",
+            "translations": [
+                "sports",
+                "exercise",
+                "sport"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/62e31d81d585e3161040d100417c6127",
+            "isNew": true
+        },
+        {
+            "text": "wie oft",
+            "translations": [
+                "how often"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4e0e52f9e632cbd8ecb7cf3e4112ec40",
+            "isNew": true
+        },
+        {
+            "text": "früh",
+            "translations": [
+                "early"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/dc473bee32731e4efc6568932edba925",
+            "isNew": true
+        },
+        {
+            "text": "noch",
+            "translations": [
+                "still"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d7606cc34b7830d4d14d9169af58b904",
+            "isNew": true
+        },
+        {
+            "text": "gute Nacht",
+            "translations": [
+                "good night"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d818f6ffa106f9e4f9890d0e82b9d8ff",
+            "isNew": true
+        },
+        {
+            "text": "Viertel",
+            "translations": [
+                "quarter"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8488e02375d639c5325d6eb72f83cd93",
+            "isNew": true
+        },
+        {
+            "text": "bis morgen",
+            "translations": [
+                "see you tomorrow"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b452927e5837675382a8d58ac33b5d3a",
+            "isNew": true
+        },
+        {
+            "text": "vor",
+            "translations": [
+                "to",
+                "in front of",
+                "of",
+                "front",
+                "ago",
+                "off",
+                "till",
+                "for",
+                "forward",
+                "before",
+                "planned",
+                "against",
+                "from",
+                "by",
+                "outside"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4c95fe92d8631b13adbb0c2d95b5988e",
+            "isNew": true
+        },
+        {
+            "text": "Leute",
+            "translations": [
+                "people"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/60d251d23351f564595e926503460769",
+            "isNew": true
+        },
+        {
+            "text": "Pommes",
+            "translations": [
+                "fries",
+                "french fries",
+                "chips"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/03794b8a5c56f218e1c4d90f953b0b86",
+            "isNew": true
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 741,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 0,
+        "nextStartIndex": 100
+    }
+}

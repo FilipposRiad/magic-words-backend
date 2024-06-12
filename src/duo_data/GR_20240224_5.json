@@ -1,0 +1,448 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "νερού",
+            "translations": [
+                "water"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c06c21d5a84fd9c8b822f1c85e744684",
+            "isNew": false
+        },
+        {
+            "text": "γεύματος",
+            "translations": [
+                "meal"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/bba57bac56b07b94399a391d317c8b2b",
+            "isNew": false
+        },
+        {
+            "text": "ζώου",
+            "translations": [
+                "The animal's bread.",
+                "The animal's meal",
+                "animal"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a4a42c3b92c1c9133d898a0726f930f2",
+            "isNew": false
+        },
+        {
+            "text": "εκείνου",
+            "translations": [
+                "that"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/11670f27d2da247cb90dd9fdf63764e7",
+            "isNew": false
+        },
+        {
+            "text": "συνταγή",
+            "translations": [
+                "formula",
+                "recipe",
+                "prescription"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/aa07572e40567831ce69c8237463d8ee",
+            "isNew": false
+        },
+        {
+            "text": "αυτού",
+            "translations": [
+                "of this (one)"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/fa581946a81770dda3801cb769e3cc70",
+            "isNew": false
+        },
+        {
+            "text": "παιδιών",
+            "translations": [
+                "children (gen.)",
+                "children",
+                "kids'"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/7ae84e02ff1c57a5885dfe58369d0475",
+            "isNew": false
+        },
+        {
+            "text": "γυναικών",
+            "translations": [
+                "The [women's",
+                "women"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/66a4ed5e549da02112a9d4e7bbbc89a7",
+            "isNew": false
+        },
+        {
+            "text": "αγοριού",
+            "translations": [
+                "boy's",
+                "boyfriend",
+                "boys'"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/434bd8d6f5671a267b7edfb541991d66",
+            "isNew": false
+        },
+        {
+            "text": "κοριτσιών",
+            "translations": [
+                "girls",
+                "girls'"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e6152e729ba1e6a50e8ba0e4d451e0e5",
+            "isNew": false
+        },
+        {
+            "text": "αράχνης",
+            "translations": [
+                "The spider's"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/96a8ec8a22550de33dd7d56adf763263",
+            "isNew": false
+        },
+        {
+            "text": "βιβλίου",
+            "translations": [
+                "book"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e483f503b3accdde1cf6395316d6e4d2",
+            "isNew": false
+        },
+        {
+            "text": "των",
+            "translations": [
+                "of the (gen. pl.)",
+                "of",
+                "the"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9eebe54f908a693d6246a304628dbc11",
+            "isNew": false
+        },
+        {
+            "text": "μιας",
+            "translations": [
+                "of a",
+                "of one"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c74ff04d99affb64a2d30a13a0ebf274",
+            "isNew": false
+        },
+        {
+            "text": "παιδιού",
+            "translations": [
+                "child"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/17e4531fe7b8e535b5c4e0bccfc59b5d",
+            "isNew": false
+        },
+        {
+            "text": "κοριτσιού",
+            "translations": [
+                "girl",
+                "girlfriend"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/aacbec209d08c3e49e4317f42ab1fed4",
+            "isNew": false
+        },
+        {
+            "text": "σκύλου",
+            "translations": [
+                "dog"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1e48b01930752ee674c54dba3b3ecf59",
+            "isNew": false
+        },
+        {
+            "text": "γυναίκας",
+            "translations": [
+                "lady's",
+                "woman",
+                "wife"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/72c1cc3d81c5cad4dd0500c71f618935",
+            "isNew": false
+        },
+        {
+            "text": "ενός",
+            "translations": [
+                "of a",
+                "of an"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/139d7aa59998e9433f77c52bebb6a002",
+            "isNew": false
+        },
+        {
+            "text": "τον",
+            "translations": [
+                "the",
+                "at the",
+                "him",
+                "it",
+                "them"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/62a43828e8c3fb705f625c4bfd8a1427",
+            "isNew": false
+        },
+        {
+            "text": "τις",
+            "translations": [
+                "the",
+                "them",
+                "on"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9161ccbd15525a3cb70ba9dbcdf1e84e",
+            "isNew": false
+        },
+        {
+            "text": "αυτός ο",
+            "translations": [
+                "this",
+                "that"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c08d66b1fa2ae67e1bad9b56880dc423",
+            "isNew": false
+        },
+        {
+            "text": "εκείνον",
+            "translations": [
+                "that"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f5675a5f8bd8b0e73bd4ac2b7ee54a61",
+            "isNew": false
+        },
+        {
+            "text": "εκείνος",
+            "translations": [
+                "that",
+                "that one"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/0c5600801d51b8055e70986366982eaa",
+            "isNew": false
+        },
+        {
+            "text": "όλοι",
+            "translations": [
+                "everybody",
+                "everyone",
+                "all"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/745156b6710a88da83d19eec98e92d27",
+            "isNew": false
+        },
+        {
+            "text": "κόκκινος",
+            "translations": [
+                "red"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4b874711a08ed78a537cace0579b3412",
+            "isNew": false
+        },
+        {
+            "text": "ανοιχτός",
+            "translations": [
+                "open",
+                "light"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/acd57f298b19ccb809bc8ad60e542c33",
+            "isNew": false
+        },
+        {
+            "text": "ασπρόμαυρος",
+            "translations": [
+                "black and white (masc.)"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1403629b7b916cac422022216d0da332",
+            "isNew": false
+        },
+        {
+            "text": "κόκκινη",
+            "translations": [
+                "red",
+                "ruby",
+                "scarlet"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8f43407b45fc6d0a14ca85e3bd8ba34f",
+            "isNew": false
+        },
+        {
+            "text": "κίτρινη",
+            "translations": [
+                "yellow"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/52306649bdac658dbfa8ef2609252f6c",
+            "isNew": false
+        },
+        {
+            "text": "άσπρος",
+            "translations": [
+                "white",
+                "white one"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/de1a1d75d3941c80bb042f8fc5e66921",
+            "isNew": false
+        },
+        {
+            "text": "γαλάζιος",
+            "translations": [
+                "light blue"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/91dbc61c95088dfe9f7d28f88f46b2d0",
+            "isNew": false
+        },
+        {
+            "text": "γαλάζια",
+            "translations": [
+                "azure",
+                "light blue"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/42c91209d8352990056fc52d11a3f47c",
+            "isNew": false
+        },
+        {
+            "text": "κίτρινος",
+            "translations": [
+                "yellow"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e10fcb22c8826b9f8f3a2778feb35538",
+            "isNew": false
+        },
+        {
+            "text": "καφετής",
+            "translations": [
+                "brown"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/792814ecc761cacad541d80a184839bd",
+            "isNew": false
+        },
+        {
+            "text": "πορτοκαλής",
+            "translations": [
+                "orange"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/93528e8c43f366e02a5da8e011ed74f6",
+            "isNew": false
+        },
+        {
+            "text": "άσπρο",
+            "translations": [
+                "white"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/2a1cc8fec34aefaf3cfbc407436878ed",
+            "isNew": false
+        },
+        {
+            "text": "κίτρινο",
+            "translations": [
+                "yellow"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/475f3682d5aaffb255ab9dde97f4fd21",
+            "isNew": false
+        },
+        {
+            "text": "γκρι",
+            "translations": [
+                "grey"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d0695b987a6e67469ab495ecc27a9909",
+            "isNew": false
+        },
+        {
+            "text": "κόκκινο",
+            "translations": [
+                "red"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/3a04211f90e496c54ca74c81ff450968",
+            "isNew": false
+        },
+        {
+            "text": "λευκό",
+            "translations": [
+                "white"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/3a0df196de1d8d0661dfa8a02b0a2612",
+            "isNew": false
+        },
+        {
+            "text": "μαύρη",
+            "translations": [
+                "black"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6c0e39ca6afd53fdf4a356d086f405f9",
+            "isNew": false
+        },
+        {
+            "text": "πράσινος",
+            "translations": [
+                "green"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/bf82ed52d5592f02236eba9835c010c2",
+            "isNew": false
+        },
+        {
+            "text": "πράσινη",
+            "translations": [
+                "green"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b939ba6a877db6c7526dd455aa6e0071",
+            "isNew": false
+        },
+        {
+            "text": "μοβ",
+            "translations": [
+                "purple"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/335655249ba479b4313bc249f932db1f",
+            "isNew": false
+        },
+        {
+            "text": "μπλε",
+            "translations": [
+                "blue"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/15877ccbecd6e9a3dee7e3230538acda",
+            "isNew": false
+        },
+        {
+            "text": "γαλάζιο",
+            "translations": [
+                "light blue",
+                "azure",
+                "a light blue dress",
+                "pale blue",
+                "blue"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/07d15a3143d799a0d04fc115d1746d80",
+            "isNew": false
+        },
+        {
+            "text": "πράσινο",
+            "translations": [
+                "green"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/2ffde4a1afb1bc90d58bc7d85f2a5d20",
+            "isNew": false
+        },
+        {
+            "text": "πορτοκαλί",
+            "translations": [
+                "orange"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/188b964cb62f210f10a6667b752852e9",
+            "isNew": false
+        },
+        {
+            "text": "καφέ",
+            "translations": [
+                "brown",
+                "coffee"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d4df8976ddb815b7ae7794dc3241fb13",
+            "isNew": false
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 638,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 150,
+        "nextStartIndex": 250
+    }
+}

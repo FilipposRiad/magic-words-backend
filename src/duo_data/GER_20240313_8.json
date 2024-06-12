@@ -1,0 +1,497 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "keinen Hunger",
+            "translations": [
+                "not hungry"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4d314a1677a8722952ac44039052250c",
+            "isNew": true
+        },
+        {
+            "text": "frei",
+            "translations": [
+                "free",
+                "available"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/777916200b2731d24cd24fbc206721ad",
+            "isNew": true
+        },
+        {
+            "text": "Zugtür",
+            "translations": [
+                "train door"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2a36c9dc5465d95595d05a1ad97e2308",
+            "isNew": true
+        },
+        {
+            "text": "Speisewagen",
+            "translations": [
+                "dining car",
+                "diner car"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c8ea1f21665b438abfc749d1ab672362",
+            "isNew": true
+        },
+        {
+            "text": "Sitz",
+            "translations": [
+                "seat",
+                "place",
+                "chair"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4ff769addf70592594ce2a9df2f5e2a1",
+            "isNew": true
+        },
+        {
+            "text": "Station",
+            "translations": [
+                "station"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6f64eee91e4af7d56e36915415c39a0f",
+            "isNew": true
+        },
+        {
+            "text": "nächste",
+            "translations": [
+                "next",
+                "closest"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4acf5fef9368e563c7dd441b4e383633",
+            "isNew": true
+        },
+        {
+            "text": "hinten",
+            "translations": [
+                "in the back",
+                "at the back",
+                "in the rear",
+                "at the rear"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/bbb1d38e07573c9c1e18a483aef25ed6",
+            "isNew": true
+        },
+        {
+            "text": "fällt",
+            "translations": [
+                "fall",
+                "is falling",
+                "cases",
+                "falls",
+                "drop"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fa470a1d489d3a4db3fbfc551fddde7e",
+            "isNew": true
+        },
+        {
+            "text": "können",
+            "translations": [
+                "are able to",
+                "knew",
+                "can",
+                "could",
+                "know"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d8947bdce5c70dd00ae417b7e2cf65fc",
+            "isNew": true
+        },
+        {
+            "text": "Kreditkarte",
+            "translations": [
+                "credit card"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/07786f5beebdd7e3a1834348c8fc499a",
+            "isNew": true
+        },
+        {
+            "text": "Reisezentrum",
+            "translations": [
+                "travel center",
+                "travel centre"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f1bc1d56fbae8173e6fe2698ba8d538e",
+            "isNew": true
+        },
+        {
+            "text": "stornieren",
+            "translations": [
+                "cancel"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/76d119c00b1646235598d0ff8a262087",
+            "isNew": true
+        },
+        {
+            "text": "zahlen",
+            "translations": [
+                "pay",
+                "to pay",
+                "are paying",
+                "paying"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7eb86c57177c69b09d948bbb350a7255",
+            "isNew": true
+        },
+        {
+            "text": "Gleis",
+            "translations": [
+                "track",
+                "platform"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6d3c9119c7224f1b869d5db0112303ee",
+            "isNew": true
+        },
+        {
+            "text": "ICE",
+            "translations": [
+                "intercity express",
+                "ICE"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c82428a5c0af1657fd02fb3724f8f5d7",
+            "isNew": true
+        },
+        {
+            "text": "auf",
+            "translations": [
+                "on to",
+                "on top of",
+                "onto",
+                "for",
+                "open",
+                "up",
+                "down",
+                "at",
+                "on",
+                "about",
+                "to",
+                "rising",
+                "of",
+                "in",
+                "by",
+                "babysit"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/281f78ddbb84ef6d53ba23d511658ca1",
+            "isNew": true
+        },
+        {
+            "text": "Verspätung",
+            "translations": [
+                "delay"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9df6036b9d6f8e8b58c801baecf13263",
+            "isNew": true
+        },
+        {
+            "text": "Achtung",
+            "translations": [
+                "careful",
+                "attention",
+                "watch out"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5779a449b7fa56ea31998152f15603f2",
+            "isNew": true
+        },
+        {
+            "text": "es gibt",
+            "translations": [
+                "there are",
+                "there is",
+                "there's"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c203077a8f66913aefab9d8b8ffc1efb",
+            "isNew": true
+        },
+        {
+            "text": "Abfahrt",
+            "translations": [
+                "departure"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/73e6d9246d1431636103b46bcace1ec5",
+            "isNew": true
+        },
+        {
+            "text": "spät",
+            "translations": [
+                "late"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e0090f8d6b7bd182bfd21b17cf1e7cee",
+            "isNew": true
+        },
+        {
+            "text": "halb",
+            "translations": [
+                "half"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/01ed92923e6c9f836f70352079ba8431",
+            "isNew": true
+        },
+        {
+            "text": "Minuten",
+            "translations": [
+                "minutes"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/dc29ab7603c400385434e9acbb248d57",
+            "isNew": true
+        },
+        {
+            "text": "Uhr",
+            "translations": [
+                "watch",
+                "clock",
+                "o'clock"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b6c1b61c14bfeda771bc821e8269720f",
+            "isNew": true
+        },
+        {
+            "text": "Zug",
+            "translations": [
+                "train"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/08c8e5b54f22dfd0634abae6df60a11d",
+            "isNew": true
+        },
+        {
+            "text": "genau",
+            "translations": [
+                "exactly",
+                "precisely"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/90dbc25fc6965839c23f5bede2710119",
+            "isNew": true
+        },
+        {
+            "text": "nach",
+            "translations": [
+                "for",
+                "about",
+                "to",
+                "according to",
+                "after",
+                "by",
+                "push"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/710f827a50d5afea169940b7eb98243e",
+            "isNew": true
+        },
+        {
+            "text": "dreißig",
+            "translations": [
+                "thirty",
+                "30"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1c2600c810c7eace75ec594fc8f64b01",
+            "isNew": true
+        },
+        {
+            "text": "kosten",
+            "translations": [
+                "is",
+                "try",
+                "were",
+                "cost",
+                "be",
+                "are",
+                "was",
+                "being"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0d359aa67c45dc06db65f75fd5abbc38",
+            "isNew": true
+        },
+        {
+            "text": "Hin- und Rückfahrt",
+            "translations": [
+                "round-trip ticket",
+                "round trip",
+                "return ticket",
+                "return trip"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/28065bd424e60d08425036644c6dc88e",
+            "isNew": true
+        },
+        {
+            "text": "Fahrkarte",
+            "translations": [
+                "ticket"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/217992761bf69d1d41d0097a1669c9cd",
+            "isNew": true
+        },
+        {
+            "text": "zwanzig",
+            "translations": [
+                "twenty",
+                "20"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ab35ae0c342f8770c63af1a55c815397",
+            "isNew": true
+        },
+        {
+            "text": "Fahrkarten",
+            "translations": [
+                "tickets"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ce41af482062f46a907adb9f045a60bd",
+            "isNew": true
+        },
+        {
+            "text": "Toiletten",
+            "translations": [
+                "toilets",
+                "bathrooms",
+                "restrooms",
+                "lavatories"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/917a70a0a8c66f5b06ff6cacfce8b634",
+            "isNew": true
+        },
+        {
+            "text": "Schuhe",
+            "translations": [
+                "shoes"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/83a70944c5b1515199b3b79e5e2295c9",
+            "isNew": true
+        },
+        {
+            "text": "Aufzug",
+            "translations": [
+                "elevator",
+                "lift"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8306f2963ce38065040aff1788a10b44",
+            "isNew": true
+        },
+        {
+            "text": "Pullover",
+            "translations": [
+                "sweater",
+                "jumper"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d92f9e5eb3b71e9c271fccad6bf4b175",
+            "isNew": true
+        },
+        {
+            "text": "schick",
+            "translations": [
+                "stylish",
+                "fashionable",
+                "chic",
+                "trendy",
+                "sophisticated"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/266af4a0fe6cec7ea2026e03cd9023cd",
+            "isNew": true
+        },
+        {
+            "text": "Jeans",
+            "translations": [
+                "jeans",
+                "pair of jeans"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/cc0544a0e1476bd8872c9efbcb7cd327",
+            "isNew": true
+        },
+        {
+            "text": "passt",
+            "translations": [
+                "fit",
+                "is suitable",
+                "fits",
+                "goes",
+                "matches",
+                "go"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/204ac54edba9558860ee56cf6a709959",
+            "isNew": true
+        },
+        {
+            "text": "L",
+            "translations": [
+                "large"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a1fda806482cd39aa24083bdcaf5e3de",
+            "isNew": true
+        },
+        {
+            "text": "S",
+            "translations": [
+                "small"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b51aac9ba2ea9bba52fd1645c18790d7",
+            "isNew": true
+        },
+        {
+            "text": "Größe",
+            "translations": [
+                "size"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ced24a242eb9b6c5e1542ae5aa50eac7",
+            "isNew": true
+        },
+        {
+            "text": "T-shirt",
+            "translations": [
+                "T-shirt"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2228f304c3aaa1714cafb597b0b6ac59",
+            "isNew": true
+        },
+        {
+            "text": "Hemd",
+            "translations": [
+                "shirt"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5aec611973effacc21d019bb98909ce6",
+            "isNew": true
+        },
+        {
+            "text": "Kleid",
+            "translations": [
+                "dress"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0b3671705d2a37e5cad38d062bc3fd12",
+            "isNew": true
+        },
+        {
+            "text": "Sakko",
+            "translations": [
+                "suit jacket",
+                "jacket",
+                "sport coat",
+                "sport jacket",
+                "blazer"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/eaeff00a5875435bc338d78760b6a033",
+            "isNew": true
+        },
+        {
+            "text": "suche",
+            "translations": [
+                "am looking for",
+                "look for",
+                "seek"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/599d3b2beb92e56a932cb5da1601f2ce",
+            "isNew": true
+        },
+        {
+            "text": "musst",
+            "translations": [
+                "have got to",
+                "have to",
+                "need to",
+                "must"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4aafa2098aca7554f8fa445da58e3829",
+            "isNew": true
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 741,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 250,
+        "nextStartIndex": 350
+    }
+}

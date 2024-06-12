@@ -1,0 +1,488 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "χυμό",
+            "translations": [
+                "juice",
+                "of juice"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a8ef5c0ecf2a7f6dd2522922fb6e0f37",
+            "isNew": false
+        },
+        {
+            "text": "σε",
+            "translations": [
+                "to"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/00d636f7412314ab7a8e9d0288ab63b7",
+            "isNew": false
+        },
+        {
+            "text": "σκύλο",
+            "translations": [
+                "dog",
+                "a dog"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8c33f9d9720b3d1b4b049a68bd89ffe9",
+            "isNew": false
+        },
+        {
+            "text": "άντρα",
+            "translations": [
+                "man",
+                "husband"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8f3669ae339a4b562a131a8e73d07105",
+            "isNew": false
+        },
+        {
+            "text": "ελέφαντα",
+            "translations": [
+                "elephant"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4ccf7557c5f95154ee8a85414cd18e28",
+            "isNew": false
+        },
+        {
+            "text": "δίνω",
+            "translations": [
+                "giving",
+                "(I am) giving",
+                "(I) give",
+                "handing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a129ae4756111284990e99d1294d4003",
+            "isNew": false
+        },
+        {
+            "text": "στον",
+            "translations": [
+                "to the",
+                "the",
+                "in the",
+                "at the",
+                "at",
+                "to",
+                "on the",
+                "in",
+                "on"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1f6fdc8ffc515f129a8d208415876021",
+            "isNew": false
+        },
+        {
+            "text": "αγαπάω",
+            "translations": [
+                "I love",
+                "love",
+                "loving"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d862f4609ff071b21b947cbdc1cc738b",
+            "isNew": false
+        },
+        {
+            "text": "έχετε",
+            "translations": [
+                "you have",
+                "do you have",
+                "have"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/be0f673af0dfaffc7b3aed97b83b01a1",
+            "isNew": false
+        },
+        {
+            "text": "αυτές",
+            "translations": [
+                "these",
+                "they",
+                "them"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/055055a69201b93365663f86af93c810",
+            "isNew": false
+        },
+        {
+            "text": "έχουν",
+            "translations": [
+                "tastes",
+                "they have",
+                "have",
+                "do they have",
+                "ve"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/fb13a93e23748147919f020ba312907c",
+            "isNew": false
+        },
+        {
+            "text": "αυτά",
+            "translations": [
+                "this",
+                "the things",
+                "these",
+                "they",
+                "them",
+                "ones"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/95547fee985d7b0913b59d6c3655ca6e",
+            "isNew": false
+        },
+        {
+            "text": "τίνος",
+            "translations": [
+                "whose"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/252af52187e9e9fac34f7f4cded2931d",
+            "isNew": false
+        },
+        {
+            "text": "απάντηση",
+            "translations": [
+                "an answer",
+                "response",
+                "a reply",
+                "answer"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/633be7d9531631aca621248acc1b1fff",
+            "isNew": false
+        },
+        {
+            "text": "ερώτηση",
+            "translations": [
+                "question",
+                "inquiry"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/daa5cb8f4ccfc235e8fcc6056ab0bfbe",
+            "isNew": false
+        },
+        {
+            "text": "ποιος",
+            "translations": [
+                "who",
+                "which",
+                "what"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/67f939a2d99554f3405e2fbd18c8b097",
+            "isNew": false
+        },
+        {
+            "text": "ποιανού",
+            "translations": [
+                "whose"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f11fd31f6af54be95ad2e58801b8ab27",
+            "isNew": false
+        },
+        {
+            "text": "πόσα",
+            "translations": [
+                "how",
+                "how much",
+                "how many",
+                "how much it"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/44577209e0904bf97dcfa383c710c7cb",
+            "isNew": false
+        },
+        {
+            "text": "πώς",
+            "translations": [
+                "how",
+                "what"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b84eca1bc778e6f86cd866e06d427cac",
+            "isNew": false
+        },
+        {
+            "text": "πόσο",
+            "translations": [
+                "how much"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e2761c9871d2bd3703c362c063b5f1a4",
+            "isNew": false
+        },
+        {
+            "text": "πού",
+            "translations": [
+                "where"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a257bd9c330d106cb84157352f8949ad",
+            "isNew": false
+        },
+        {
+            "text": "γιατί",
+            "translations": [
+                "why",
+                "because"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c40ca1a7e2939d0ed12746c8fdc04eda",
+            "isNew": false
+        },
+        {
+            "text": "πότε",
+            "translations": [
+                "when"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d8613d1496420390b5a8f54c28851367",
+            "isNew": false
+        },
+        {
+            "text": "τι",
+            "translations": [
+                "what"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ba0aa96208df44eb57cbba6d6736e0ed",
+            "isNew": false
+        },
+        {
+            "text": "κοντομάνικο",
+            "translations": [
+                "t-shirt",
+                "a t-shirt"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/756a7f50d10a59890a8010169355e555",
+            "isNew": false
+        },
+        {
+            "text": "πορτοφόλι",
+            "translations": [
+                "wallet",
+                "purse"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/58901a512c2aacf7cc0a140aa9595cb7",
+            "isNew": false
+        },
+        {
+            "text": "τσέπη",
+            "translations": [
+                "pocket"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/81a5eed007f76e68d29d3012bae8a3f4",
+            "isNew": false
+        },
+        {
+            "text": "γραβάτα",
+            "translations": [
+                "tie",
+                "necktie"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c44790952f915c84151d2d1b23ffa049",
+            "isNew": false
+        },
+        {
+            "text": "μάλλινος",
+            "translations": [
+                "woollen",
+                "woolen",
+                "woollen one",
+                "woolly"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9959a307404eb44f44c9a36f8e927f7b",
+            "isNew": false
+        },
+        {
+            "text": "μπότα",
+            "translations": [
+                "boot",
+                "buskin"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e0d2e85706ddaf4ad7da52379b23824a",
+            "isNew": false
+        },
+        {
+            "text": "εσώρουχο",
+            "translations": [
+                "underwear"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6845c51186c26d32a37ce64e3b0e0961",
+            "isNew": false
+        },
+        {
+            "text": "ζώνη",
+            "translations": [
+                "zone",
+                "a belt",
+                "seatbelt",
+                "district"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/cffb77078f6e5eea5c80499877286fea",
+            "isNew": false
+        },
+        {
+            "text": "γάντι",
+            "translations": [
+                "glove"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/3ff112e01cfa1c1b7ac0a642aa0f51b5",
+            "isNew": false
+        },
+        {
+            "text": "στολή",
+            "translations": [
+                "uniform",
+                "costume",
+                "a uniform"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d633933655cf3d248aa0d15af43b7f7c",
+            "isNew": false
+        },
+        {
+            "text": "κόσμημα",
+            "translations": [
+                "jewellery",
+                "jewel",
+                "piece of jewellery",
+                "piece of jewelry"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8eb1381e99a61b9c53a40c6cd34d7173",
+            "isNew": false
+        },
+        {
+            "text": "κασκόλ",
+            "translations": [
+                "scarf"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/efdb12e75074824a3799af89598fd72d",
+            "isNew": false
+        },
+        {
+            "text": "καπέλο",
+            "translations": [
+                "hat",
+                "cap",
+                "a hat"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/96b6e81e0fe6f1239bd47ef6138278a8",
+            "isNew": false
+        },
+        {
+            "text": "κουστούμι",
+            "translations": [
+                "suit",
+                "a suit",
+                "costume"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e94a318abf4de4ee55b9a9a2064468e0",
+            "isNew": false
+        },
+        {
+            "text": "κάλτσα",
+            "translations": [
+                "sock"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/02bc8c440db9a0f160b0a049f9b9a438",
+            "isNew": false
+        },
+        {
+            "text": "μπλούζα",
+            "translations": [
+                "blouse",
+                "a blouse",
+                "shirt (no buttons)",
+                "top"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/631c17769ba77c8bdbb608bd16908ffc",
+            "isNew": false
+        },
+        {
+            "text": "ρούχο",
+            "translations": [
+                "a piece of clothing",
+                "garment",
+                "piece of clothes"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/7efdd170a874ec2e3eeff0d96761fb2a",
+            "isNew": false
+        },
+        {
+            "text": "φοράει",
+            "translations": [
+                "wears",
+                "does she wear",
+                "is wearing",
+                "he is wearing",
+                "wear"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4cd61db662e38b767c7ed43fd5e89617",
+            "isNew": false
+        },
+        {
+            "text": "φοράω",
+            "translations": [
+                "wear"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6c76aca1b57d77bec15afe15e7fd27eb",
+            "isNew": false
+        },
+        {
+            "text": "πουκάμισο",
+            "translations": [
+                "shirt",
+                "shirt (with buttons)",
+                "a shirt"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/defa1a9b1ee27a09c34fb911e6ad189f",
+            "isNew": false
+        },
+        {
+            "text": "παλτό",
+            "translations": [
+                "a coat",
+                "coat",
+                "overcoat"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/543a0a53689512c1824d13cd30981ac4",
+            "isNew": false
+        },
+        {
+            "text": "παντελόνι",
+            "translations": [
+                "pants",
+                "pair of pants",
+                "trousers",
+                "pair of trousers"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/84d35f73f70343e6aaea10ac8b010cf4",
+            "isNew": false
+        },
+        {
+            "text": "φούστα",
+            "translations": [
+                "skirt",
+                "a skirt"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f09820915cc03fb91115d57328f48943",
+            "isNew": false
+        },
+        {
+            "text": "παπούτσια",
+            "translations": [
+                "shoes"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/7459a06e26b1ff3a89d0f41e7ea66ceb",
+            "isNew": false
+        },
+        {
+            "text": "φόρεμα",
+            "translations": [
+                "dress",
+                "gown"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/42e30179e0bc3fb5bc46c47c5ca48f56",
+            "isNew": false
+        },
+        {
+            "text": "γραβάτες",
+            "translations": [
+                "ties"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/2792d260e93f1a2f81e0afb20cc535f4",
+            "isNew": false
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 638,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 250,
+        "nextStartIndex": 350
+    }
+}

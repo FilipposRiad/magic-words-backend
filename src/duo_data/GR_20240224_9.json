@@ -1,0 +1,445 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "άλογο",
+            "translations": [
+                "horse",
+                "a horse"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/685f7ad32450d2d76e9145e32c44cc99",
+            "isNew": false
+        },
+        {
+            "text": "πουλί",
+            "translations": [
+                "bird",
+                "a bird"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b0a6814d5ef7b2e6db1c3daf3c9d440b",
+            "isNew": false
+        },
+        {
+            "text": "πάπια",
+            "translations": [
+                "duck",
+                "(a) duck"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/432aef57d27947445b083490b4a7f557",
+            "isNew": false
+        },
+        {
+            "text": "γάτα",
+            "translations": [
+                "cat",
+                "a cat"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/44da26751ed6ba71b3b9a55bc0ab34c5",
+            "isNew": false
+        },
+        {
+            "text": "παππούς",
+            "translations": [
+                "grandpa",
+                "grandfather",
+                "grandparent"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8a730c24a7778bb29e5ba29c43d3f61f",
+            "isNew": false
+        },
+        {
+            "text": "συγγενής",
+            "translations": [
+                "relative",
+                "cognate"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d691a690a60af285a4e0f3845fa6eed0",
+            "isNew": false
+        },
+        {
+            "text": "γιαγιά",
+            "translations": [
+                "grandmother",
+                "grandma"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/af1f178e972516637a42611cc9cd736f",
+            "isNew": false
+        },
+        {
+            "text": "εγγονός",
+            "translations": [
+                "grandchild",
+                "grandson"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a60f3282f9f0e4754e58d6b26ca63030",
+            "isNew": false
+        },
+        {
+            "text": "νονός",
+            "translations": [
+                "godfather"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d01912d62ce17738cd139dd012ac2d83",
+            "isNew": false
+        },
+        {
+            "text": "μπαμπάς",
+            "translations": [
+                "dad",
+                "daddy"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/11deb0daa9474b321f11e8f4bac5992a",
+            "isNew": false
+        },
+        {
+            "text": "νονά",
+            "translations": [
+                "godmother"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b1e737d9c57f83ec572cf66613ebc369",
+            "isNew": false
+        },
+        {
+            "text": "ξάδερφος",
+            "translations": [
+                "cousin"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8ae3e08351e6c09d2dea20755825191b",
+            "isNew": false
+        },
+        {
+            "text": "γάμος",
+            "translations": [
+                "marriage",
+                "wedding"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4d563a79f5cf92014dced044257aa44b",
+            "isNew": false
+        },
+        {
+            "text": "οικογένεια",
+            "translations": [
+                "family",
+                "a family"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/3de524b1d2710a914b263176b02298f5",
+            "isNew": false
+        },
+        {
+            "text": "αδέλφια",
+            "translations": [
+                "brother and sister",
+                "siblings",
+                "brothers"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5c61e2820da09dbea9a9d206db07777f",
+            "isNew": false
+        },
+        {
+            "text": "σύζυγος",
+            "translations": [
+                "woman",
+                "husband",
+                "wife",
+                "man"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ab9cf35429a20de76fb499e6801b9742",
+            "isNew": false
+        },
+        {
+            "text": "θείος",
+            "translations": [
+                "uncle"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5c4f1ba0114cf87ec8b74132d410a6fc",
+            "isNew": false
+        },
+        {
+            "text": "θεία",
+            "translations": [
+                "aunt"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/433e6819067d84bbd035fe8dfc2e223b",
+            "isNew": false
+        },
+        {
+            "text": "πατέρας",
+            "translations": [
+                "father",
+                "a father",
+                "dad"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6e59fe6e8bdb8a2bbad04341e9f7a9a5",
+            "isNew": false
+        },
+        {
+            "text": "κόρη",
+            "translations": [
+                "daughter",
+                "a daughter"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/0d6c4e6bf1a882867d457020018150f5",
+            "isNew": false
+        },
+        {
+            "text": "αδελφή",
+            "translations": [
+                "sister",
+                "a sister"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f11014ad8b988f645ecbcb812bc54f70",
+            "isNew": false
+        },
+        {
+            "text": "γιος",
+            "translations": [
+                "son"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e3040cda72cc1cfe70655dcadcacc0fc",
+            "isNew": false
+        },
+        {
+            "text": "αδελφός",
+            "translations": [
+                "brother"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b700e8e3a4128d1fadeb20e837535c3e",
+            "isNew": false
+        },
+        {
+            "text": "μωρό",
+            "translations": [
+                "baby",
+                "infant"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4d4d7f90c3a57cbf718fcd2632028f3a",
+            "isNew": false
+        },
+        {
+            "text": "γονιός",
+            "translations": [
+                "parent"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1d9560bffda334cfb7272fe39ea240f9",
+            "isNew": false
+        },
+        {
+            "text": "μητέρα",
+            "translations": [
+                "mother"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f21db0d346d7eda4c5cc0c5b8da787b1",
+            "isNew": false
+        },
+        {
+            "text": "πάγος",
+            "translations": [
+                "ice"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c6ba32a8c994f0d89687c02ee29282b5",
+            "isNew": false
+        },
+        {
+            "text": "πατάτες",
+            "translations": [
+                "potatoes"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9b51b3235b4a84fb109b090ac986d7a4",
+            "isNew": false
+        },
+        {
+            "text": "κεφτές",
+            "translations": [
+                "meatball",
+                "a meatball"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c47743df809e6a8e167496bc5ce2336c",
+            "isNew": false
+        },
+        {
+            "text": "ροδάκινο",
+            "translations": [
+                "peach"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/391f0046b1d398f59ce14bbbdae13fb7",
+            "isNew": false
+        },
+        {
+            "text": "λαχανικό",
+            "translations": [
+                "(a) vegetable"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5842248025a68e2f52d06c4908e1c4bb",
+            "isNew": false
+        },
+        {
+            "text": "μπριζόλα",
+            "translations": [
+                "steak",
+                "chop"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/27559abe9a59963a3a1c4181dafc9afe",
+            "isNew": false
+        },
+        {
+            "text": "σοκολάτα",
+            "translations": [
+                "chocolate",
+                "chocolate milk"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a97ad5e11ac44c1a6b23ae08c13c1a29",
+            "isNew": false
+        },
+        {
+            "text": "επιδόρπιο",
+            "translations": [
+                "dessert"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/21b71fa9fb8092bf5ac30e2ae8c7e467",
+            "isNew": false
+        },
+        {
+            "text": "πίτα",
+            "translations": [
+                "pita",
+                "pita bread",
+                "pie",
+                "pitta bread"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/45118067dee4dbdb5a28672779b6fb23",
+            "isNew": false
+        },
+        {
+            "text": "λουκάνικο",
+            "translations": [
+                "sausage",
+                "hot dog",
+                "wiener"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/47c5cc682af738dfed049e058f729c3e",
+            "isNew": false
+        },
+        {
+            "text": "αχλάδι",
+            "translations": [
+                "pear"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6edc38b8f5aaacb267a34aa754adaea4",
+            "isNew": false
+        },
+        {
+            "text": "πιπέρι",
+            "translations": [
+                "pepper"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f8c84964d6caf20fc438589c645f6337",
+            "isNew": false
+        },
+        {
+            "text": "παγωτό",
+            "translations": [
+                "ice cream"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/240a3dae97ac10e553465640b54f1824",
+            "isNew": false
+        },
+        {
+            "text": "πατάτα",
+            "translations": [
+                "potato"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e9d21095e9165fbff6873262dd6fb60f",
+            "isNew": false
+        },
+        {
+            "text": "καρπούζι",
+            "translations": [
+                "watermelon"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/7de029302d48e4709aabbc64a6cf331a",
+            "isNew": false
+        },
+        {
+            "text": "βοδινό",
+            "translations": [
+                "beef"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/db62db7896783b9550e076448747ebaa",
+            "isNew": false
+        },
+        {
+            "text": "πεπόνι",
+            "translations": [
+                "a melon",
+                "(a) melon"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/27ea96f5a4279ed03991f8d3ba51e856",
+            "isNew": false
+        },
+        {
+            "text": "χορτοφάγος",
+            "translations": [
+                "vegetarian",
+                "a vegetarian"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/15e7aec7b382f8611764008def7ca828",
+            "isNew": false
+        },
+        {
+            "text": "ελαιόλαδο",
+            "translations": [
+                "olive oil"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e57b2599ffdd27ced3dbe5dd7ce952ad",
+            "isNew": false
+        },
+        {
+            "text": "χοιρινό",
+            "translations": [
+                "pork"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d1144d4d883fcfeb9e6612fab08454ab",
+            "isNew": false
+        },
+        {
+            "text": "φρέσκο",
+            "translations": [
+                "fresh"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/2689a2ac30b58dbc502949a2f47c0985",
+            "isNew": false
+        },
+        {
+            "text": "κεράσι",
+            "translations": [
+                "cherry"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/dd4f31fe138589dfa4deddef538803ad",
+            "isNew": false
+        },
+        {
+            "text": "γεύμα",
+            "translations": [
+                "meal",
+                "dinner",
+                "lunch"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8f7528ebbbd15690f022cfcea8f4fd4e",
+            "isNew": false
+        },
+        {
+            "text": "κρέας",
+            "translations": [
+                "meat"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4e072c7824eb2cc644d73802f5ba41a8",
+            "isNew": false
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 638,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 350,
+        "nextStartIndex": 450
+    }
+}

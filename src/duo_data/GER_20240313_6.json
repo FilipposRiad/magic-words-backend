@@ -1,0 +1,465 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "Taxifahrt",
+            "translations": [
+                "taxi ride",
+                "cab ride"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9a53f84266173c6849f1fefc9256bd79",
+            "isNew": true
+        },
+        {
+            "text": "warten",
+            "translations": [
+                "hold on",
+                "have been",
+                "wait",
+                "delay",
+                "are waiting",
+                "delayed"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/77b2e3544b4d65abff60de1231b4c17f",
+            "isNew": true
+        },
+        {
+            "text": "dreizehn",
+            "translations": [
+                "thirteen",
+                "13"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4f6809f9202a857f51a1f15aa8414636",
+            "isNew": true
+        },
+        {
+            "text": "Bushaltestelle",
+            "translations": [
+                "bus stop"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3ee992896729dae2b7ab17e683c1a0bf",
+            "isNew": true
+        },
+        {
+            "text": "elf",
+            "translations": [
+                "eleven",
+                "11"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/14026333795810e41f9e0b3355225991",
+            "isNew": true
+        },
+        {
+            "text": "Nummer",
+            "translations": [
+                "number"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/83797557cb124a83ff7ea1aa17db4a76",
+            "isNew": true
+        },
+        {
+            "text": "zwölf",
+            "translations": [
+                "twelve"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/beb22bb55d3f8ed18be9b5d8fe68b9a0",
+            "isNew": true
+        },
+        {
+            "text": "fahren",
+            "translations": [
+                "are riding",
+                "are departing",
+                "run",
+                "travel",
+                "are taking",
+                "drive",
+                "are going",
+                "go",
+                "are leaving",
+                "take",
+                "are driving",
+                "driving",
+                "drove",
+                "going",
+                "traveled",
+                "goes",
+                "depart",
+                "ride",
+                "traveling"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e46f989dd972371fee8f57521bcaa5fa",
+            "isNew": true
+        },
+        {
+            "text": "Bus",
+            "translations": [
+                "bus"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a2ffc68d6516718c5acd73601be2ecc6",
+            "isNew": true
+        },
+        {
+            "text": "fünfzehn",
+            "translations": [
+                "fifteen",
+                "15"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a03ba9c67d693eb448af94f73cd6e5dd",
+            "isNew": true
+        },
+        {
+            "text": "circa",
+            "translations": [
+                "approximately"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4c61c89cade83dddb11315c184e04d77",
+            "isNew": true
+        },
+        {
+            "text": "dann",
+            "translations": [
+                "then"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/26953b791fee9e605ee9ed599fae9913",
+            "isNew": true
+        },
+        {
+            "text": "geradeaus",
+            "translations": [
+                "straight ahead"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/cf1b3dfde55706920fe0fdc2acb5e8a2",
+            "isNew": true
+        },
+        {
+            "text": "besuchen",
+            "translations": [
+                "visit"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1187850072f035b755c5d57805b31026",
+            "isNew": true
+        },
+        {
+            "text": "Stadtmuseum",
+            "translations": [
+                "city museum"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/920ee45cc1b462ecd1b1f550283c7475",
+            "isNew": true
+        },
+        {
+            "text": "Fluss",
+            "translations": [
+                "river"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/bed5083d1e5fd34998007a3041c376c5",
+            "isNew": true
+        },
+        {
+            "text": "Stadtzentrum",
+            "translations": [
+                "city center"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3965de22a8ae3c0fc07fc607a49e8b7f",
+            "isNew": true
+        },
+        {
+            "text": "sehen",
+            "translations": [
+                "see"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6eed2173baafaefd5160a4c162c6a1ea",
+            "isNew": true
+        },
+        {
+            "text": "Zoo",
+            "translations": [
+                "zoo"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/04ad446a4d57155bf4a3fee1e108b775",
+            "isNew": true
+        },
+        {
+            "text": "Kunstmuseum",
+            "translations": [
+                "art museum"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1ca3c7c6d7ba825ae4f1af4aef98c1dd",
+            "isNew": true
+        },
+        {
+            "text": "bar",
+            "translations": [
+                "cash",
+                "in cash"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6761ebeffeadd95263cacd3602f46860",
+            "isNew": true
+        },
+        {
+            "text": "zusammen",
+            "translations": [
+                "together"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fefdbeda1464ca90530138bd62d7a952",
+            "isNew": true
+        },
+        {
+            "text": "fünfunddreißig",
+            "translations": [
+                "thirty-five",
+                "35"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/47864bf1ce9f0887a61bea3c31532f17",
+            "isNew": true
+        },
+        {
+            "text": "fünfundzwanzig",
+            "translations": [
+                "twenty-five",
+                "25"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/71cdef2f80f921c53cfaa52638af5826",
+            "isNew": true
+        },
+        {
+            "text": "getrennt",
+            "translations": [
+                "separately"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1fe5411739b6d47ed38fe0d9f349e258",
+            "isNew": true
+        },
+        {
+            "text": "Obstsalat",
+            "translations": [
+                "fruit salad"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d249d2ed99706e663346d35aefc1fd7e",
+            "isNew": true
+        },
+        {
+            "text": "süß",
+            "translations": [
+                "sweet",
+                "cute"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/980d5a44634ace09fc97345b821da5fc",
+            "isNew": true
+        },
+        {
+            "text": "Zucker",
+            "translations": [
+                "sugar"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2428ba27a9975de15a39c27f9e112fd3",
+            "isNew": true
+        },
+        {
+            "text": "ohne",
+            "translations": [
+                "without"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/42482d5310931d360bb2d6214b8d83f8",
+            "isNew": true
+        },
+        {
+            "text": "Eis",
+            "translations": [
+                "ice cream",
+                "ice"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0a62e67dd37fd5c397c3f8cde86cc2dd",
+            "isNew": true
+        },
+        {
+            "text": "Apfelkuchen",
+            "translations": [
+                "apple cake",
+                "apple pie"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1f102888be4a90e77ade9839187b78e7",
+            "isNew": true
+        },
+        {
+            "text": "Nachtisch",
+            "translations": [
+                "dessert",
+                "sweet"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6bc07d79067d02f9204f43ce604edecb",
+            "isNew": true
+        },
+        {
+            "text": "guten Appetit",
+            "translations": [
+                "enjoy your meal"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/aaea4d336c28e9e72e32a2efad67df88",
+            "isNew": true
+        },
+        {
+            "text": "Fleisch",
+            "translations": [
+                "meat"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/57e828940a98f4c9b8f82b1add2ded8e",
+            "isNew": true
+        },
+        {
+            "text": "bestellen",
+            "translations": [
+                "order"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/44e7aca4becbe087fc6d5eb5f7563a9e",
+            "isNew": true
+        },
+        {
+            "text": "esse",
+            "translations": [
+                "am eating",
+                "am having",
+                "have",
+                "eat",
+                "eating"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/923b8de3fd6cfcb7d11878fee26b90bc",
+            "isNew": true
+        },
+        {
+            "text": "Suppe",
+            "translations": [
+                "soup"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/aa13ab134fadcf06468f07325b5817e1",
+            "isNew": true
+        },
+        {
+            "text": "trinke",
+            "translations": [
+                "drink",
+                "am drinking"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6920d339bcc5ad26e1ec9f2feb83ade6",
+            "isNew": true
+        },
+        {
+            "text": "möchten",
+            "translations": [
+                "would like to",
+                "would like"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fe3dd531b3133bdebf9dc30763b84c09",
+            "isNew": true
+        },
+        {
+            "text": "mich",
+            "translations": [
+                "myself",
+                "me",
+                "I"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/88e3bd627fa139669658160cb16fe47e",
+            "isNew": true
+        },
+        {
+            "text": "Glas",
+            "translations": [
+                "glass",
+                "jar"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9a6a1f9ec8532c599ec870d1a2968662",
+            "isNew": true
+        },
+        {
+            "text": "Rotwein",
+            "translations": [
+                "red wine"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/da0c5f03036bd169f1f497354fd5bcb3",
+            "isNew": true
+        },
+        {
+            "text": "trinken",
+            "translations": [
+                "drink"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4b818b8a42ee2b1c38537c0347d07008",
+            "isNew": true
+        },
+        {
+            "text": "Apfelschorle",
+            "translations": [
+                "sparkling apple juice",
+                "carbonated apple juice",
+                "apple juice spritzer",
+                "apple spritzer"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/20cc0385676a3e5c23612aa7d81aef08",
+            "isNew": true
+        },
+        {
+            "text": "lieber",
+            "translations": [
+                "kind",
+                "prefers",
+                "prefer",
+                "prefers to",
+                "would rather",
+                "prefer to",
+                "better"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/92ad7d43953c7d1a0f830edcb953735d",
+            "isNew": true
+        },
+        {
+            "text": "griechisch",
+            "translations": [
+                "Greek"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7b33cb8438905b53e3ecf9d8e67d31a4",
+            "isNew": true
+        },
+        {
+            "text": "später",
+            "translations": [
+                "later",
+                "later on"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/688c7ad8d702859e05a44d117a8f2c2c",
+            "isNew": true
+        },
+        {
+            "text": "essen",
+            "translations": [
+                "eat"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/435857f1dc00a10acd8481c8b8e2ebef",
+            "isNew": true
+        },
+        {
+            "text": "Hunger",
+            "translations": [
+                "hunger",
+                "hungry"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5b91a5a7ca982a7fa7dfc43425f9bd44",
+            "isNew": true
+        },
+        {
+            "text": "italienisch",
+            "translations": [
+                "Italian"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8f226019bbeae50269a0bc1cee05337d",
+            "isNew": true
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 741,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 200,
+        "nextStartIndex": 300
+    }
+}

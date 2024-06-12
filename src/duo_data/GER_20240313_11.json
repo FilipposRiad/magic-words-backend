@@ -1,0 +1,551 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "Sprachen",
+            "translations": [
+                "languages"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/266b30406f225c66faa2dc23cf831c32",
+            "isNew": true
+        },
+        {
+            "text": "Schwedisch",
+            "translations": [
+                "Swedish"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a37f26bb43bd300ffd3110ca122fc35c",
+            "isNew": true
+        },
+        {
+            "text": "schwer",
+            "translations": [
+                "difficult",
+                "hard",
+                "tough"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/61777206997ebab1513cf98f08584e33",
+            "isNew": true
+        },
+        {
+            "text": "Ihr",
+            "translations": [
+                "she",
+                "your",
+                "her",
+                "yours",
+                "their",
+                "you"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f6607554969df0a8d31209cde2c8cbfd",
+            "isNew": true
+        },
+        {
+            "text": "Französisch",
+            "translations": [
+                "French"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d61adbb28dab61e0d38af1b69cec38ff",
+            "isNew": true
+        },
+        {
+            "text": "nicht",
+            "translations": [
+                "not"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/01b4c8ece1e6a5c3937c88272a3181f8",
+            "isNew": true
+        },
+        {
+            "text": "sein",
+            "translations": [
+                "your",
+                "to be",
+                "be",
+                "being",
+                "her",
+                "were",
+                "have",
+                "his",
+                "was",
+                "its",
+                "keep"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6e0d0f551e24397126b27aa2c8ff7793",
+            "isNew": true
+        },
+        {
+            "text": "einfach",
+            "translations": [
+                "easy",
+                "simple"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/280d727ab126214db3139dd242e8958a",
+            "isNew": true
+        },
+        {
+            "text": "toll",
+            "translations": [
+                "great",
+                "awesome",
+                "terrific",
+                "amazing",
+                "excellent",
+                "fantastic",
+                "fantastically",
+                "lovely"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/442c2e0010dd0372b51f49f278170052",
+            "isNew": true
+        },
+        {
+            "text": "Türkisch",
+            "translations": [
+                "Turkish"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1e5226501e9f8ec50702dcf89e9e1306",
+            "isNew": true
+        },
+        {
+            "text": "Polnisch",
+            "translations": [
+                "Polish"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0918b5f33c0c214eac0c74a2b16b0813",
+            "isNew": true
+        },
+        {
+            "text": "dünn",
+            "translations": [
+                "thin",
+                "slim",
+                "smallest",
+                "smaller",
+                "thinner"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/91f82fb61d0a9a4c2c733e99ee924dd3",
+            "isNew": true
+        },
+        {
+            "text": "perfekt",
+            "translations": [
+                "perfect"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2de807f6787d92bf16b493e037a8b274",
+            "isNew": true
+        },
+        {
+            "text": "kommt",
+            "translations": [
+                "is",
+                "is coming",
+                "comes",
+                "coming",
+                "are coming",
+                "will come",
+                "arrives",
+                "get",
+                "arrive",
+                "come on",
+                "come",
+                "are",
+                "gets"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fe05c2b6f38b58724e3006cefdbdb899",
+            "isNew": true
+        },
+        {
+            "text": "Schnecke",
+            "translations": [
+                "snail",
+                "slug"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b59e6fb4223dc25874af64d1140205cd",
+            "isNew": true
+        },
+        {
+            "text": "heißt",
+            "translations": [
+                "is",
+                "name is",
+                "is called",
+                "'s name is",
+                "called"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/939c82b1ef5c361ea311bc5fdcc91d47",
+            "isNew": true
+        },
+        {
+            "text": "liebe",
+            "translations": [
+                "love"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0bce89c66d8562498b1f9bf4128059ee",
+            "isNew": true
+        },
+        {
+            "text": "liebst",
+            "translations": [
+                "love"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4f2fca9a17c9bbe49b156bd3ee251e25",
+            "isNew": true
+        },
+        {
+            "text": "Fisch",
+            "translations": [
+                "fish"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2062d5429a3098ae961ac86d2c213b5d",
+            "isNew": true
+        },
+        {
+            "text": "Mitbewohnerin",
+            "translations": [
+                "roommate",
+                "roommate's"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/39d44c18e0297743ae318e33146dda83",
+            "isNew": true
+        },
+        {
+            "text": "Partnerin",
+            "translations": [
+                "partner"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/600898dd4e8337a8ec31520e4c4b5243",
+            "isNew": true
+        },
+        {
+            "text": "keinen",
+            "translations": [
+                "any",
+                "not any",
+                "no",
+                "not",
+                "not an",
+                "not a",
+                "n't",
+                "don't",
+                "weren't"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/bdfcfebaf954a79048e9116c68c69c7c",
+            "isNew": true
+        },
+        {
+            "text": "Partner",
+            "translations": [
+                "partner",
+                "partners",
+                "partner's"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/71988a31de6f9f67e66bc9b92d704b90",
+            "isNew": true
+        },
+        {
+            "text": "Mitbewohner",
+            "translations": [
+                "roommate",
+                "roomie",
+                "flatmate",
+                "housemate"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6faba1552524cc9dbb0a2beaf74c73d5",
+            "isNew": true
+        },
+        {
+            "text": "keine",
+            "translations": [
+                "any",
+                "n't",
+                "no",
+                "not an",
+                "don't",
+                "not a",
+                "not any",
+                "not",
+                "doesn't"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f0e22b87b6d7ea42d012c32018545cae",
+            "isNew": true
+        },
+        {
+            "text": "Oma",
+            "translations": [
+                "grandma",
+                "grandmother",
+                "nan",
+                "grandmom",
+                "granny",
+                "gran",
+                "nana"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e5f413ff38335cd998960daea48fd57d",
+            "isNew": true
+        },
+        {
+            "text": "Tante",
+            "translations": [
+                "aunt",
+                "auntie",
+                "aunty"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/45e6b34fbc9dfaea28edd4c1a5462dc6",
+            "isNew": true
+        },
+        {
+            "text": "liebt",
+            "translations": [
+                "loves",
+                "love"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6a6b8aadad37957242967af3b57c1334",
+            "isNew": true
+        },
+        {
+            "text": "Opa",
+            "translations": [
+                "grandpa",
+                "grandfather",
+                "granddad",
+                "grandad",
+                "grampa",
+                "grandpop",
+                "grandaddy",
+                "granddaddy"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0294145ca668f861d135857d3d9f9ea0",
+            "isNew": true
+        },
+        {
+            "text": "deinen",
+            "translations": [
+                "your",
+                "to your",
+                "for your",
+                "yours"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/cacb3e1e1ac39aafddf0e4e2e2e06a98",
+            "isNew": true
+        },
+        {
+            "text": "meinen",
+            "translations": [
+                "mean",
+                "mine",
+                "to my",
+                "think",
+                "my",
+                "thinking"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/eac4483075def931cb11fb73f20fade9",
+            "isNew": true
+        },
+        {
+            "text": "hat",
+            "translations": [
+                "has",
+                "was",
+                "is",
+                "takes",
+                "take",
+                "'s",
+                "is having",
+                "does have",
+                "did",
+                "have",
+                "meet",
+                "has been"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/88757c8c8bd007f5deb389cdda36fb99",
+            "isNew": true
+        },
+        {
+            "text": "hast",
+            "translations": [
+                "have",
+                "are",
+                "were",
+                "do",
+                "did",
+                "will have"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a2cc399ee5196cd1c9f96f13c6b79ab1",
+            "isNew": true
+        },
+        {
+            "text": "habe",
+            "translations": [
+                "am",
+                "have been",
+                "did",
+                "had",
+                "have",
+                "have had",
+                "was"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b0f962a341e1b3af9a1cb3ab7036fd22",
+            "isNew": true
+        },
+        {
+            "text": "einen",
+            "translations": [
+                "an",
+                "a",
+                "one"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/881d85cb67c00fea7f491365e503ec79",
+            "isNew": true
+        },
+        {
+            "text": "Freund",
+            "translations": [
+                "boyfriend",
+                "partner"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ea63b8186f24317b1380e605ff1bc541",
+            "isNew": true
+        },
+        {
+            "text": "Onkel",
+            "translations": [
+                "uncle"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/12949e198674abde9ed26ebdc0adcacd",
+            "isNew": true
+        },
+        {
+            "text": "warm",
+            "translations": [
+                "warm"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/461d6667949bf99d510b130b1491a4c2",
+            "isNew": true
+        },
+        {
+            "text": "Sommer",
+            "translations": [
+                "summer"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/da878c86a229bdeaab9ad157ea1c9906",
+            "isNew": true
+        },
+        {
+            "text": "wandert",
+            "translations": [
+                "hike",
+                "hikes",
+                "hiking"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/cb56e48692769efae72121ff68f092ec",
+            "isNew": true
+        },
+        {
+            "text": "Sonnencreme",
+            "translations": [
+                "sunscreen",
+                "suntan lotion",
+                "sun cream",
+                "sunblock",
+                "suntan cream"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6d3f77d0eba98a64c62785926a186530",
+            "isNew": true
+        },
+        {
+            "text": "wandere",
+            "translations": [
+                "am hiking",
+                "go hiking",
+                "hike",
+                "hiking"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/edd0c4483598874d4ac7b1b068e5848f",
+            "isNew": true
+        },
+        {
+            "text": "wandern",
+            "translations": [
+                "traveling",
+                "hiking",
+                "hike",
+                "are hiking",
+                "backpacking"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/13feccb86d95592cf43ac20d63f0e1e7",
+            "isNew": true
+        },
+        {
+            "text": "wanderst",
+            "translations": [
+                "hiking",
+                "hike",
+                "go hiking",
+                "backpacking"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7cebd5120d3e183b4845f4392bb98193",
+            "isNew": true
+        },
+        {
+            "text": "neblig",
+            "translations": [
+                "foggy",
+                "misty"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5f55a6c990be80ce6eb6cf0ac23d4e11",
+            "isNew": true
+        },
+        {
+            "text": "Frühling",
+            "translations": [
+                "spring",
+                "springtime"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c5540392395704113fd76f37a9329373",
+            "isNew": true
+        },
+        {
+            "text": "Wasserflasche",
+            "translations": [
+                "water bottle"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8f0b9b170bef62b112192138c9ebb076",
+            "isNew": true
+        },
+        {
+            "text": "stark",
+            "translations": [
+                "strong",
+                "hard",
+                "harder"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4a35e874bed00d4d7535f87504e28c04",
+            "isNew": true
+        },
+        {
+            "text": "Schal",
+            "translations": [
+                "scarf",
+                "shawl"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f88efd0d3d073a6a894b2c219b06b3c5",
+            "isNew": true
+        },
+        {
+            "text": "jetzt",
+            "translations": [
+                "now",
+                "at the moment",
+                "currently"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/258faae7e0558fe67efedc06c646aa5f",
+            "isNew": true
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 741,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 400,
+        "nextStartIndex": 500
+    }
+}

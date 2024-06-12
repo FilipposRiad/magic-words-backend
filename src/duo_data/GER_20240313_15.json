@@ -1,0 +1,464 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "Schnitzel",
+            "translations": [
+                "schnitzel",
+                "schnitzels"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/afa701b3ec4ccfa04924756dad635634",
+            "isNew": true
+        },
+        {
+            "text": "zu",
+            "translations": [
+                "with",
+                "for",
+                "too",
+                "towards",
+                "into",
+                "at",
+                "on",
+                "close",
+                "about",
+                "to",
+                "closed",
+                "by",
+                "closes",
+                "push"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/589cfc5a905a629975e3a8216b08c14a",
+            "isNew": true
+        },
+        {
+            "text": "Rechnung",
+            "translations": [
+                "check"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8ce634a7f402dd3d6bfdb5c98849a7c3",
+            "isNew": true
+        },
+        {
+            "text": "Essen",
+            "translations": [
+                "food"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/435857f1dc00a10acd8481c8b8e2ebef",
+            "isNew": true
+        },
+        {
+            "text": "Wurst",
+            "translations": [
+                "sausage"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/106ffd20618e6050071ed7219875a4e8",
+            "isNew": true
+        },
+        {
+            "text": "Restaurant",
+            "translations": [
+                "restaurant"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/105c96b76e78a63ec4ddbe483258916a",
+            "isNew": true
+        },
+        {
+            "text": "Salz",
+            "translations": [
+                "salt"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/25014bf558b4ed66740c4d6705f4017c",
+            "isNew": true
+        },
+        {
+            "text": "Entschuldigung",
+            "translations": [
+                "sorry",
+                "excuse me",
+                "apologies"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/27d377cba6245f62cde23c79ee821b82",
+            "isNew": true
+        },
+        {
+            "text": "Kellner",
+            "translations": [
+                "waiter"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/05f3792346635c06e256ac6bb978574c",
+            "isNew": true
+        },
+        {
+            "text": "Speisekarte",
+            "translations": [
+                "menu"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/89d0e09fed17d2b0fdab6ab8af5adcd8",
+            "isNew": true
+        },
+        {
+            "text": "kalt",
+            "translations": [
+                "cold"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/39ebaf31e4327e22ef378d1a24022995",
+            "isNew": true
+        },
+        {
+            "text": "Mineralwasser",
+            "translations": [
+                "mineral water"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ecc583d813aa7e8218f51b53738e10e5",
+            "isNew": true
+        },
+        {
+            "text": "das",
+            "translations": [
+                "that",
+                "this",
+                "so",
+                "the",
+                "these",
+                "those",
+                "who",
+                "which",
+                "about that"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d231978db590d9255d69823f1be800ce",
+            "isNew": true
+        },
+        {
+            "text": "Ei",
+            "translations": [
+                "egg"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/95afc12176bf6e73f126cdc56b21a59e",
+            "isNew": true
+        },
+        {
+            "text": "Sandwich",
+            "translations": [
+                "sandwich"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b30e55aa7985633059751be20e050f5d",
+            "isNew": true
+        },
+        {
+            "text": "hier",
+            "translations": [
+                "here"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/bce2b0dcdd49d1587ee249e4a2f65143",
+            "isNew": true
+        },
+        {
+            "text": "heiß",
+            "translations": [
+                "hot"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a9d9b4b2bbaac6c04996ee20afe01291",
+            "isNew": true
+        },
+        {
+            "text": "lecker",
+            "translations": [
+                "delicious"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ee1550f33269bba8b37d5342e0476d9d",
+            "isNew": true
+        },
+        {
+            "text": "Pizza",
+            "translations": [
+                "pizza"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8947c14f663138640c5850a2daf1b26e",
+            "isNew": true
+        },
+        {
+            "text": "mit",
+            "translations": [
+                "with"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f1ddf714b773f416d8df55e5840a9e74",
+            "isNew": true
+        },
+        {
+            "text": "Salat",
+            "translations": [
+                "salad"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1c4158f30fad92cb4ab800dd69ef746e",
+            "isNew": true
+        },
+        {
+            "text": "Käse",
+            "translations": [
+                "cheese"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/886028299a96487a4d6570286d6d2533",
+            "isNew": true
+        },
+        {
+            "text": "bis später",
+            "translations": [
+                "see you later"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2ab226218df449e78a801d76ad3248d6",
+            "isNew": true
+        },
+        {
+            "text": "es tut mir leid",
+            "translations": [
+                "I am sorry"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/90abff031e5bea7c6ecc2c065f9c9c88",
+            "isNew": true
+        },
+        {
+            "text": "natürlich",
+            "translations": [
+                "of course"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a73e04e81448a4128aa3d355b7cfc9b8",
+            "isNew": true
+        },
+        {
+            "text": "ehe",
+            "translations": [
+                "anyways",
+                "in any case",
+                "marriage",
+                "hey",
+                "before"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/50e472f285bcfe9abc4cab2d0f59305e",
+            "isNew": true
+        },
+        {
+            "text": "bis bald",
+            "translations": [
+                "see you soon"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4c7aa12fe3d6a6f0511359af1cb7b3a8",
+            "isNew": true
+        },
+        {
+            "text": "prost",
+            "translations": [
+                "cheers"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/53cb8456ac1717e540be88efb6057eb7",
+            "isNew": true
+        },
+        {
+            "text": "OK",
+            "translations": [
+                "OK"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fda7c524faa09bd4857154ca11057fb0",
+            "isNew": true
+        },
+        {
+            "text": "auf Wiedersehen",
+            "translations": [
+                "goodbye"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/472c6d74da82395927474633cbe591df",
+            "isNew": true
+        },
+        {
+            "text": "er",
+            "translations": [
+                "it's",
+                "he's",
+                "him",
+                "it",
+                "he",
+                "he'll"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b64a51050ee6e4849be4ed7e26004876",
+            "isNew": true
+        },
+        {
+            "text": "es geht",
+            "translations": [
+                "I'm all right"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/eea5847a03d0c65d146b7c84031fec95",
+            "isNew": true
+        },
+        {
+            "text": "sah",
+            "translations": [
+                "saw",
+                "looked",
+                "watched",
+                "see",
+                "found",
+                "caught"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ddb3d5b061f75769faa5561aa1454ad3",
+            "isNew": true
+        },
+        {
+            "text": "gut",
+            "translations": [
+                "good"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2fca47d364fdafe692b40af08c1e0d72",
+            "isNew": true
+        },
+        {
+            "text": "guten Tag",
+            "translations": [
+                "hello"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c6076d55abc4f60a9ae4ff92c7338f87",
+            "isNew": true
+        },
+        {
+            "text": "wie geht's",
+            "translations": [
+                "how are you?"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4a3d6af6d2b97546353b847b8268bc4b",
+            "isNew": true
+        },
+        {
+            "text": "super",
+            "translations": [
+                "super",
+                "great",
+                "fantastic",
+                "awesome"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f66d3882363f0a7fb21f157768306126",
+            "isNew": true
+        },
+        {
+            "text": "Bär",
+            "translations": [
+                "bear"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2f4d77cc2e11338a5ca849e0cc2904bf",
+            "isNew": true
+        },
+        {
+            "text": "Eule",
+            "translations": [
+                "owl"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ec88a2077bc3e5fd1dc4a1bac76c9fdb",
+            "isNew": true
+        },
+        {
+            "text": "oh",
+            "translations": [
+                "oh",
+                "aw"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9c3d233c16a38ea4ddfa0c9627a86c54",
+            "isNew": true
+        },
+        {
+            "text": "wo",
+            "translations": [
+                "where"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/906926c610c22af0322c533b1c0d70ef",
+            "isNew": true
+        },
+        {
+            "text": "Maus",
+            "translations": [
+                "mouse"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/15fe315cbe499473c2a1b433ed4fcd26",
+            "isNew": true
+        },
+        {
+            "text": "Katze",
+            "translations": [
+                "cat"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e14f0807f19479e53b80992033c7f6e7",
+            "isNew": true
+        },
+        {
+            "text": "Elefant",
+            "translations": [
+                "elephant"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/cfa2f33113095c7d78c242c2adb321b4",
+            "isNew": true
+        },
+        {
+            "text": "schön",
+            "translations": [
+                "beautiful"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/90346ed89ecb7e761a27f24b44271891",
+            "isNew": true
+        },
+        {
+            "text": "jung",
+            "translations": [
+                "young"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9e565e982e76e8eac3fbdb96789e1f79",
+            "isNew": true
+        },
+        {
+            "text": "Hund",
+            "translations": [
+                "dog"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0dd6fb65a0969c9bf1ee883feb893d2f",
+            "isNew": true
+        },
+        {
+            "text": "Junge",
+            "translations": [
+                "boy"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/317476550cf522b7bced417f1a413718",
+            "isNew": true
+        },
+        {
+            "text": "der",
+            "translations": [
+                "this",
+                "to the",
+                "of the",
+                "the",
+                "that",
+                "those",
+                "in the",
+                "whom",
+                "who",
+                "which",
+                "of",
+                "my"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/332f19337763168d133cd411dca9c573",
+            "isNew": true
+        },
+        {
+            "text": "ie",
+            "translations": [
+                "ie"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e46a1745708cc02af5ec2b60fe1b3dcc",
+            "isNew": true
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 741,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 600,
+        "nextStartIndex": 700
+    }
+}

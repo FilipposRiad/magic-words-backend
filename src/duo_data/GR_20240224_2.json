@@ -1,0 +1,468 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "τρίτη",
+            "translations": [
+                "Tuesday",
+                "third"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/cc6b7abc004915354b90e1f2f9f63a9f",
+            "isNew": false
+        },
+        {
+            "text": "πέμπτη",
+            "translations": [
+                "fifth",
+                "Thursday"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/0edd238b40d80e10dae314397c1fd399",
+            "isNew": false
+        },
+        {
+            "text": "δευτέρα",
+            "translations": [
+                "Monday"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e62562acb5a672d3c4572e947249cb5b",
+            "isNew": false
+        },
+        {
+            "text": "πρωί",
+            "translations": [
+                "morning"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/2c7f8e017c9e31f289fcb8be09912359",
+            "isNew": false
+        },
+        {
+            "text": "σήμερα",
+            "translations": [
+                "today"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a9d5d82a552af78ea65ee52535bfd1ed",
+            "isNew": false
+        },
+        {
+            "text": "απόψε",
+            "translations": [
+                "tonight"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/0adc4f2e4f1ae429673b148e43f018d9",
+            "isNew": false
+        },
+        {
+            "text": "αύριο",
+            "translations": [
+                "tomorrow"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/7b799e7ea857fc9d91a45b8c87a922e4",
+            "isNew": false
+        },
+        {
+            "text": "βράδυ",
+            "translations": [
+                "night",
+                "evening"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/149d2b94cbd2f9f184362d0dbda86651",
+            "isNew": false
+        },
+        {
+            "text": "ημέρα",
+            "translations": [
+                "day"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/90452b556d3758f7372574399b7fcb12",
+            "isNew": false
+        },
+        {
+            "text": "νύχτα",
+            "translations": [
+                "night",
+                "by nightfall",
+                "tonight",
+                "by the night",
+                "by tonight",
+                "nighttime"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/96b1dee13a91e6657eb59c01e7df0cab",
+            "isNew": false
+        },
+        {
+            "text": "απόγευμα",
+            "translations": [
+                "afternoon",
+                "evening"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/2dd15b6a32cced6acbe44b411dff733d",
+            "isNew": false
+        },
+        {
+            "text": "τέλος",
+            "translations": [
+                "end",
+                "finale",
+                "ending"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b35c325e205815e699af0c69b3531bbe",
+            "isNew": false
+        },
+        {
+            "text": "ακριβός",
+            "translations": [
+                "expensive",
+                "pricey",
+                "costly"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/db87c6183b43223ace8ee7de9062932b",
+            "isNew": false
+        },
+        {
+            "text": "γρήγορος",
+            "translations": [
+                "fast"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/fce47ed23aef47b1f7a0d3eda4be712a",
+            "isNew": false
+        },
+        {
+            "text": "ζωντανός",
+            "translations": [
+                "alive",
+                "living"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/408dc6acbb39435903b570c79e2f3602",
+            "isNew": false
+        },
+        {
+            "text": "ξύλινος",
+            "translations": [
+                "wooden"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1be3b0b1dbcce476edca7e6defe06f86",
+            "isNew": false
+        },
+        {
+            "text": "διάσημος",
+            "translations": [
+                "famous",
+                "well known"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/bd4b927caffcf0c22e491b40b22b39f3",
+            "isNew": false
+        },
+        {
+            "text": "τέλειος",
+            "translations": [
+                "excellent",
+                "perfect",
+                "great"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/212b9dc786ebbb0916f8732f13d39cc8",
+            "isNew": false
+        },
+        {
+            "text": "πέτρος",
+            "translations": [
+                "Peter",
+                "Petros"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5b4ea105865206b82a2e4b46acdba91d",
+            "isNew": false
+        },
+        {
+            "text": "εξαιρετικός",
+            "translations": [
+                "brilliant",
+                "excellent",
+                "great",
+                "extraordinary",
+                "superb"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4bb0fc8d2eb539de68bdef324dbaa835",
+            "isNew": false
+        },
+        {
+            "text": "στρατιωτικός",
+            "translations": [
+                "military"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c0761276cc5130994c768b94545993a7",
+            "isNew": false
+        },
+        {
+            "text": "φυσιολογικός",
+            "translations": [
+                "normal",
+                "natural"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e2e708ea055693b310f75530ddb47702",
+            "isNew": false
+        },
+        {
+            "text": "απαραίτητος",
+            "translations": [
+                "necessary",
+                "essential to",
+                "necessary for"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/377278e84decd9d2d3df0d3091bfa3f9",
+            "isNew": false
+        },
+        {
+            "text": "ολόκληρος",
+            "translations": [
+                "whole",
+                "entire",
+                "total"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d1e128de7ab9a2e468ce496b0ed26446",
+            "isNew": false
+        },
+        {
+            "text": "τελικός",
+            "translations": [
+                "final",
+                "last"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/81cd3c893ae118027163372afc762f11",
+            "isNew": false
+        },
+        {
+            "text": "σημαντικός",
+            "translations": [
+                "important",
+                "significant"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/07e93739c5553e2acdd0f1ad4b476c36",
+            "isNew": false
+        },
+        {
+            "text": "ζεστός",
+            "translations": [
+                "hot",
+                "warm"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5ade4c0019ab9975cf2781d1df4ec2be",
+            "isNew": false
+        },
+        {
+            "text": "νόμιμος",
+            "translations": [
+                "legal"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a6b578a1207e11969e33baf6a0a06ea4",
+            "isNew": false
+        },
+        {
+            "text": "ωραίος",
+            "translations": [
+                "beautiful",
+                "nice",
+                "great"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/900f209d0a05aa1461a7f7c7365a32ad",
+            "isNew": false
+        },
+        {
+            "text": "κλειστός",
+            "translations": [
+                "closed",
+                "turned off",
+                "switched off",
+                "shut off"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/41e22c4a48059fa6fae08d8647c8a766",
+            "isNew": false
+        },
+        {
+            "text": "επίσημος",
+            "translations": [
+                "official",
+                "formal"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8317a5c69f438ceb54d5f416ce669455",
+            "isNew": false
+        },
+        {
+            "text": "δύσκολος",
+            "translations": [
+                "difficult",
+                "tricky",
+                "hard",
+                "challenging"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/549843fc903e65711e2c62b29c82200d",
+            "isNew": false
+        },
+        {
+            "text": "πιθανός",
+            "translations": [
+                "potential"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ad46f140a065e13c469e3a0d96d00c9e",
+            "isNew": false
+        },
+        {
+            "text": "βασικός",
+            "translations": [
+                "main",
+                "basic"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8d7d992ec6c43c9e6f83db53fa0b0758",
+            "isNew": false
+        },
+        {
+            "text": "αριστερός",
+            "translations": [
+                "left",
+                "leftist"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f21a6f4ef4791cb78ed4ad2934f86cfe",
+            "isNew": false
+        },
+        {
+            "text": "προσωπικός",
+            "translations": [
+                "personal",
+                "private"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f56e5a460649ebe403ba293503f56b7a",
+            "isNew": false
+        },
+        {
+            "text": "εύκολος",
+            "translations": [
+                "easy"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a387fb356ba8995988de46e21e03f1f9",
+            "isNew": false
+        },
+        {
+            "text": "πρόσφατος",
+            "translations": [
+                "recent",
+                "latest"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d31e8ccdbc4b4fdeebfd5ab82e0f9b08",
+            "isNew": false
+        },
+        {
+            "text": "διαφορετικός",
+            "translations": [
+                "different",
+                "unlike"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e7603f4fbc91b11e75b5fbaaefe421c1",
+            "isNew": false
+        },
+        {
+            "text": "δίγλωσσος",
+            "translations": [
+                "bilingual"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/7148b7ef68259597bd28b41147420a48",
+            "isNew": false
+        },
+        {
+            "text": "σκέτος",
+            "translations": [
+                "plain",
+                "ordinary",
+                "black (coffee)"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/07c5e4b60f528256df4c3db02e98ecd9",
+            "isNew": false
+        },
+        {
+            "text": "υπέροχος",
+            "translations": [
+                "exquisite",
+                "wonderful",
+                "great",
+                "awesome",
+                "gorgeous"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/962820689c0804b179b1d2eb1f704ebb",
+            "isNew": false
+        },
+        {
+            "text": "κουρασμένος",
+            "translations": [
+                "tired",
+                "weary"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c352c4a192814f58e4a546d3a7675101",
+            "isNew": false
+        },
+        {
+            "text": "ιδιαίτερος",
+            "translations": [
+                "special"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/49f8694eac9de8dcaf412ccd250d7052",
+            "isNew": false
+        },
+        {
+            "text": "επόμενος",
+            "translations": [
+                "next"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/bc80af94f1143a78833ac12e816bedd8",
+            "isNew": false
+        },
+        {
+            "text": "πραγματικός",
+            "translations": [
+                "a real",
+                "real",
+                "true"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b38eac935d852897f398ace48629ddc5",
+            "isNew": false
+        },
+        {
+            "text": "τοπικός",
+            "translations": [
+                "local",
+                "regional"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d8ade58fdf00ab64b0c9ef91bdc6a363",
+            "isNew": false
+        },
+        {
+            "text": "γενικός",
+            "translations": [
+                "general"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d682aac475c5dc8fba418a8d8f46350d",
+            "isNew": false
+        },
+        {
+            "text": "καθαρός",
+            "translations": [
+                "clean",
+                "clear",
+                "pure",
+                "neat"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/37d75b2991bba7531804d6f7f18bcb36",
+            "isNew": false
+        },
+        {
+            "text": "βρώμικος",
+            "translations": [
+                "dirty"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/878c6f06916af682a1814e656a0dd0f2",
+            "isNew": false
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 638,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 0,
+        "nextStartIndex": 100
+    }
+}

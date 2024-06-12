@@ -1,0 +1,377 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "γύρος",
+            "translations": [
+                "gyro",
+                "gyros",
+                "turn"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/bede0d88d0ac72b1890b1df67746c388",
+            "isNew": false
+        },
+        {
+            "text": "μάνγκο",
+            "translations": [
+                "mango",
+                "mangos"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9e10c73deb3c15f74f5075c776cb3d97",
+            "isNew": false
+        },
+        {
+            "text": "γεια σου",
+            "translations": [
+                "hello",
+                "hi"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/da00803ec19b20cfc1d4db35026837c8",
+            "isNew": false
+        },
+        {
+            "text": "τσιγάρο",
+            "translations": [
+                "cigarette"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6b2758d31fcb0b735860045032047ae6",
+            "isNew": false
+        },
+        {
+            "text": "γυναίκα",
+            "translations": [
+                "woman"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/747654a174a1a1c2bfe3f65d4f425610",
+            "isNew": false
+        },
+        {
+            "text": "άντρας",
+            "translations": [
+                "man"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9ecda8a826af2526f326a42b16fad0ff",
+            "isNew": false
+        },
+        {
+            "text": "ο",
+            "translations": [
+                "the"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/99950f1b059d21e9e162ca69b2562a95",
+            "isNew": false
+        },
+        {
+            "text": "μαμά",
+            "translations": [
+                "mum",
+                "mama"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/99b53b1009f9b2f3d2c02acffb6fe49f",
+            "isNew": false
+        },
+        {
+            "text": "υ",
+            "translations": [
+                "y",
+                "ypsilon",
+                "ee"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d19d2ec644ddfcb4ff19aad3a327ca68",
+            "isNew": false
+        },
+        {
+            "text": "η",
+            "translations": [
+                "the",
+                "that"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f1248bcf05b68d51404bbd23a8884b35",
+            "isNew": false
+        },
+        {
+            "text": "ι",
+            "translations": [
+                "ee",
+                "i",
+                "yiota",
+                "the",
+                "iota"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8825c1ab3b17d17af830d81c91c2d7cc",
+            "isNew": false
+        },
+        {
+            "text": "τοποθεσία",
+            "translations": [
+                "site",
+                "location",
+                "place"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e409858f6c6b1ad98ff12b9d3bcca776",
+            "isNew": false
+        },
+        {
+            "text": "όνομα",
+            "translations": [
+                "name"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/3df5f3ad9d6f221f4e20ee62f286696d",
+            "isNew": false
+        },
+        {
+            "text": "τοστ",
+            "translations": [
+                "toast"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6e60d3590ec669f51087690c44bc2927",
+            "isNew": false
+        },
+        {
+            "text": "κουσκούς",
+            "translations": [
+                "couscous"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/36cedfb62ad9e9b553234e05850abfec",
+            "isNew": false
+        },
+        {
+            "text": "στο",
+            "translations": [
+                "to the",
+                "the",
+                "in the",
+                "at the",
+                "at",
+                "to",
+                "on the",
+                "in",
+                "to his",
+                "on"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9b9e82ac14f1ab6b19392b1532286d0b",
+            "isNew": false
+        },
+        {
+            "text": "ντίσκο",
+            "translations": [
+                "disco"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/13ab9b4f4479f505e990d6efea523603",
+            "isNew": false
+        },
+        {
+            "text": "σινεμά",
+            "translations": [
+                "cinema",
+                "movie theater",
+                "movies",
+                "a cinema"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/63069410f48e9286221f58e55c90576d",
+            "isNew": false
+        },
+        {
+            "text": "μουσείο",
+            "translations": [
+                "museum"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8a277060bcb6d5c60bca7d3fde44242e",
+            "isNew": false
+        },
+        {
+            "text": "βίντεο",
+            "translations": [
+                "video",
+                "a video",
+                "videos"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/36636598578c4dcc349a39aa25e688bd",
+            "isNew": false
+        },
+        {
+            "text": "με",
+            "translations": [
+                "me",
+                "on",
+                "to",
+                "of me",
+                "with",
+                "at",
+                "in",
+                "by",
+                "for me"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f2981a8234e0c022bae5cc2f8dab81c6",
+            "isNew": false
+        },
+        {
+            "text": "ούζο",
+            "translations": [
+                "ouzo"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/2f389e974346f14af581addba7374d6e",
+            "isNew": false
+        },
+        {
+            "text": "σνακ",
+            "translations": [
+                "snack",
+                "a snack",
+                "snacks"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/71468868999983bad5753ee6b981aa4c",
+            "isNew": false
+        },
+        {
+            "text": "βάζο",
+            "translations": [
+                "vase"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d92fb94dca2c43041e8d487d359069e6",
+            "isNew": false
+        },
+        {
+            "text": "είναι",
+            "translations": [
+                "is",
+                "it's",
+                "is he",
+                "she is",
+                "they are",
+                "it is",
+                "is it",
+                "is she",
+                "be",
+                "are they",
+                "are",
+                "he is",
+                "am"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/12f9202add2beafee85e0dff0f798875",
+            "isNew": false
+        },
+        {
+            "text": "αβοκάντο",
+            "translations": [
+                "avocado"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/284cc0cff00b6d02da282cffa459ef96",
+            "isNew": false
+        },
+        {
+            "text": "ροζ",
+            "translations": [
+                "pink"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f4817fb59eca6b6236e612529703561d",
+            "isNew": false
+        },
+        {
+            "text": "ρύζι",
+            "translations": [
+                "rice"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e8eb67ebafe3e864aa08d7388abb85b8",
+            "isNew": false
+        },
+        {
+            "text": "μι",
+            "translations": [
+                "m",
+                "mu",
+                "mee"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5518151242bd4548bc34719e6a34b08c",
+            "isNew": false
+        },
+        {
+            "text": "μα",
+            "translations": [
+                "but"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ca892e483499cfc2ba939cc07f7417a8",
+            "isNew": false
+        },
+        {
+            "text": "και",
+            "translations": [
+                "and"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d4826657edba454b2b1744cace2e2dce",
+            "isNew": false
+        },
+        {
+            "text": "μίνι μάρκετ",
+            "translations": [
+                "minimarket",
+                "mini market"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/94a41ea1337d3e8f57a3b698fa4aa2df",
+            "isNew": false
+        },
+        {
+            "text": "ναι",
+            "translations": [
+                "yes",
+                "yeah"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/32886178b154ae858ecbaa8124fa2829",
+            "isNew": false
+        },
+        {
+            "text": "το",
+            "translations": [
+                "the",
+                "it",
+                "in"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/55b3b2bdbabd4aad8471abe827ad3c24",
+            "isNew": false
+        },
+        {
+            "text": "να",
+            "translations": [
+                "may",
+                "to",
+                "that",
+                "there",
+                "of",
+                "should",
+                "shall"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/86551b2b05aca4feb003bd21c13abf2e",
+            "isNew": false
+        },
+        {
+            "text": "νερό",
+            "translations": [
+                "water"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f81c306d027455fd447b9fa89fbb3288",
+            "isNew": false
+        },
+        {
+            "text": "καρότο",
+            "translations": [
+                "carrot"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ad9e1bbe1b481579980ed3688abc2256",
+            "isNew": false
+        },
+        {
+            "text": "αν",
+            "translations": [
+                "if"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e1805dc8534e8ff9bac6c2a3beb51bf0",
+            "isNew": false
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 638,
+        "requestedPageSize": 50,
+        "pageSize": 38,
+        "previousStartIndex": 550,
+        "nextStartIndex": null
+    }
+}

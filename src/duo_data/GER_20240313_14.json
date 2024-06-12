@@ -1,0 +1,500 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "malst",
+            "translations": [
+                "are painting",
+                "paint"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9eb5018bca98004384db4ea675814508",
+            "isNew": true
+        },
+        {
+            "text": "eh",
+            "translations": [
+                "in any case",
+                "hey",
+                "anyway"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8e570ce59cbb49b383154a46010e80fc",
+            "isNew": true
+        },
+        {
+            "text": "male",
+            "translations": [
+                "paint",
+                "am painting",
+                "draw",
+                "am drawing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9acd9efec2791feb315569e089c7acff",
+            "isNew": true
+        },
+        {
+            "text": "nie",
+            "translations": [
+                "never"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b49dbf41eeee5c37dbb121f33b2d29b7",
+            "isNew": true
+        },
+        {
+            "text": "schwimme",
+            "translations": [
+                "swim",
+                "am swimming",
+                "swimming"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b967f3b8c9c08c03a24d09a5d64e55d0",
+            "isNew": true
+        },
+        {
+            "text": "manchmal",
+            "translations": [
+                "sometimes",
+                "at times"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/70878a38126fe8945c0ba1f6ff45839f",
+            "isNew": true
+        },
+        {
+            "text": "koche",
+            "translations": [
+                "am making",
+                "make",
+                "will cook",
+                "cook",
+                "am cooking",
+                "cooking"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/32e620adce84d8bc694537713e01b7b1",
+            "isNew": true
+        },
+        {
+            "text": "acht",
+            "translations": [
+                "eight"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/51c41b9b38a049b91daa57342b280ebb",
+            "isNew": true
+        },
+        {
+            "text": "Lehrerin",
+            "translations": [
+                "teacher",
+                "a teacher"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6ca92b74b9e199659fa532b3084fbd0b",
+            "isNew": true
+        },
+        {
+            "text": "Arbeit",
+            "translations": [
+                "work",
+                "piece of work",
+                "job",
+                "article",
+                "dissertation",
+                "test"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e7ce67458096fb3c5d71b461d647224e",
+            "isNew": true
+        },
+        {
+            "text": "Lehrer",
+            "translations": [
+                "teacher",
+                "instructor",
+                "schoolteacher"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/cb6bafb84976d87b6ae4ad72ae225d7e",
+            "isNew": true
+        },
+        {
+            "text": "interessant",
+            "translations": [
+                "interesting"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/05a9af84e3ab0a88a52bf53ddf903b16",
+            "isNew": true
+        },
+        {
+            "text": "aber",
+            "translations": [
+                "but",
+                "however"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/51cbb2c5c692dd85fdd26cb7889e534b",
+            "isNew": true
+        },
+        {
+            "text": "stressig",
+            "translations": [
+                "stressful"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ba27a48d76fbd2ffdda558ba7d846df6",
+            "isNew": true
+        },
+        {
+            "text": "Arzt",
+            "translations": [
+                "doctor",
+                "physician"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a93b4a8e9ae977280650e394bee43ab9",
+            "isNew": true
+        },
+        {
+            "text": "Studentin",
+            "translations": [
+                "a student",
+                "college student",
+                "student"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5140e75795b9cbdddb8b2e8766e9aab0",
+            "isNew": true
+        },
+        {
+            "text": "Ärztin",
+            "translations": [
+                "doctor",
+                "a doctor"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c888268f38b16c20d6f045d0280367bc",
+            "isNew": true
+        },
+        {
+            "text": "Student",
+            "translations": [
+                "college student",
+                "university student",
+                "student"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d1a73b4c539476c8ee2cfcdcbdf2fe22",
+            "isNew": true
+        },
+        {
+            "text": "Freundin",
+            "translations": [
+                "girlfriend",
+                "friend",
+                "friend's",
+                "girlfriends"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/63cc4c4eeb910ce7b51fb1f806c36277",
+            "isNew": true
+        },
+        {
+            "text": "deine",
+            "translations": [
+                "your",
+                "yours"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fb41b015d172c0d11e9d1f361de8e859",
+            "isNew": true
+        },
+        {
+            "text": "Beruf",
+            "translations": [
+                "profession",
+                "job",
+                "occupation",
+                "trade"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c65f66bb41ea275e85105e48926d2b0e",
+            "isNew": true
+        },
+        {
+            "text": "dein",
+            "translations": [
+                "your"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0d2936a107c860226b1be7ed70e75c2c",
+            "isNew": true
+        },
+        {
+            "text": "was",
+            "translations": [
+                "what"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/67b2d00dd41c12d2a7cf3d39e529c763",
+            "isNew": true
+        },
+        {
+            "text": "Professorin",
+            "translations": [
+                "professor",
+                "a professor"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9aa13b152b3ba982443ac65c82d910c6",
+            "isNew": true
+        },
+        {
+            "text": "Professor",
+            "translations": [
+                "professor",
+                "a professor"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8d61a970c44d96d8df7e05d23e117bd5",
+            "isNew": true
+        },
+        {
+            "text": "au",
+            "translations": [
+                "ow",
+                "oh",
+                "ouch",
+                "ouch!"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b8d075fd166d5aab9dbca9e9564d3b5e",
+            "isNew": true
+        },
+        {
+            "text": "Kellnerin",
+            "translations": [
+                "waitress",
+                "server"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5fc867dc158c5f3052c568147801e594",
+            "isNew": true
+        },
+        {
+            "text": "sie",
+            "translations": [
+                "she"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/20155d2cfe36254433d9b82ca8be7976",
+            "isNew": true
+        },
+        {
+            "text": "Schauspieler",
+            "translations": [
+                "actor"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6dda00a2d1c7c2518b169c77ef284b18",
+            "isNew": true
+        },
+        {
+            "text": "Schauspielerin",
+            "translations": [
+                "actress",
+                "actor"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4ccb84cbd60aae6c7f7c5ccde8a04057",
+            "isNew": true
+        },
+        {
+            "text": "laut",
+            "translations": [
+                "loud",
+                "noisy",
+                "loudly",
+                "noisily"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e9ef96d3f23ad5b1b1195fd8e359e04f",
+            "isNew": true
+        },
+        {
+            "text": "aufregend",
+            "translations": [
+                "exciting",
+                "thrilling"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2214fc1bf9c4765b2a5cecdb96d0a159",
+            "isNew": true
+        },
+        {
+            "text": "teuer",
+            "translations": [
+                "expensive",
+                "costly",
+                "dear",
+                "dearly",
+                "expensively",
+                "pricey"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ec8d242930f60fd4a655be86efb12c51",
+            "isNew": true
+        },
+        {
+            "text": "cool",
+            "translations": [
+                "cool"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b754fed253ba3d7ed4928c3dc1377ae4",
+            "isNew": true
+        },
+        {
+            "text": "auch",
+            "translations": [
+                "also",
+                "as well",
+                "too"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/bcb51d255193ad20c322e87843cfcfed",
+            "isNew": true
+        },
+        {
+            "text": "Frankreich",
+            "translations": [
+                "France"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/89b046d5cadb7d1a91ba91988648f481",
+            "isNew": true
+        },
+        {
+            "text": "aus",
+            "translations": [
+                "made of",
+                "out",
+                "off",
+                "for",
+                "end",
+                "displaying",
+                "blew",
+                "from",
+                "out of",
+                "in",
+                "of"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d12d32240526de1325a34470b540065b",
+            "isNew": true
+        },
+        {
+            "text": "komme",
+            "translations": [
+                "come",
+                "will come",
+                "am coming",
+                "get",
+                "arrive",
+                "coming",
+                "am"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3c51dc0edaa7324793844b9840b7cee4",
+            "isNew": true
+        },
+        {
+            "text": "München",
+            "translations": [
+                "Munich"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/82acf787ba7471adb00115ce11ecb10d",
+            "isNew": true
+        },
+        {
+            "text": "Stadt",
+            "translations": [
+                "city",
+                "town"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8bf7fac57e179e934608fdf4ff4e7367",
+            "isNew": true
+        },
+        {
+            "text": "Wien",
+            "translations": [
+                "Vienna"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5231ddb9e755b14976387234f274d9e0",
+            "isNew": true
+        },
+        {
+            "text": "Österreich",
+            "translations": [
+                "Austria"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7f0c43266435631c80089a9bde9ab6fd",
+            "isNew": true
+        },
+        {
+            "text": "woher",
+            "translations": [
+                "where",
+                "from",
+                "where from"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4c26ca8f2e44530deb813eb07c4680bb",
+            "isNew": true
+        },
+        {
+            "text": "kommst",
+            "translations": [
+                "come",
+                "are coming",
+                "are",
+                "will come"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/27ca5d66c7c63b7bd35298579c61cb59",
+            "isNew": true
+        },
+        {
+            "text": "Amerika",
+            "translations": [
+                "America"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a0efe78d8d9bba8347af68abbb4174c5",
+            "isNew": true
+        },
+        {
+            "text": "in",
+            "translations": [
+                "in",
+                "with",
+                "inside",
+                "onto",
+                "into",
+                "at",
+                "on",
+                "during",
+                "to"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c491cec4b0365160636b7da84740d1d9",
+            "isNew": true
+        },
+        {
+            "text": "Deutschland",
+            "translations": [
+                "Germany"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8541a120787f27246836c7f177db465a",
+            "isNew": true
+        },
+        {
+            "text": "klein",
+            "translations": [
+                "small"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4538c1444e98d83daa438c0d2901ac15",
+            "isNew": true
+        },
+        {
+            "text": "Kanada",
+            "translations": [
+                "Canada"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/114fe460949e0074d9f56c0719d0eb65",
+            "isNew": true
+        },
+        {
+            "text": "wunderbar",
+            "translations": [
+                "wonderful",
+                "splendid",
+                "excellent",
+                "great",
+                "lovely",
+                "terrific"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/60b6f338aee754dcfd713f11a3062141",
+            "isNew": true
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 741,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 550,
+        "nextStartIndex": 650
+    }
+}

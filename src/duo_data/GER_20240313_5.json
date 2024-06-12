@@ -1,0 +1,505 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "Videospiele",
+            "translations": [
+                "video games"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6a0160bd868aaaefe31974f605ca65cb",
+            "isNew": true
+        },
+        {
+            "text": "willst",
+            "translations": [
+                "want",
+                "want to"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fd9b2e5785fa66f07f0a63e2168be308",
+            "isNew": true
+        },
+        {
+            "text": "höre",
+            "translations": [
+                "listening",
+                "to listen to",
+                "hear",
+                "listen",
+                "am hearing",
+                "am listening"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/dd0a22ada96a7f4bd68d80ebff9199c3",
+            "isNew": true
+        },
+        {
+            "text": "Geige",
+            "translations": [
+                "violin",
+                "fiddle"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6afae87531bf0c078dc8a3d2e07ad0d3",
+            "isNew": true
+        },
+        {
+            "text": "Film",
+            "translations": [
+                "movie",
+                "film"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/290e8531b1e9be65feb8c6dc9d893f2f",
+            "isNew": true
+        },
+        {
+            "text": "Tennis",
+            "translations": [
+                "tennis"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7e768417914e4d20afb4c8c1e94dc3a4",
+            "isNew": true
+        },
+        {
+            "text": "Instrument",
+            "translations": [
+                "instrument"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7efd5800009f9cb3a90bf543c4426ff9",
+            "isNew": true
+        },
+        {
+            "text": "tanzt",
+            "translations": [
+                "is dancing",
+                "are dancing",
+                "dances",
+                "dance",
+                "dancing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7850ce2fd5a5810a586808f3d1cd77e7",
+            "isNew": true
+        },
+        {
+            "text": "Gitarre",
+            "translations": [
+                "guitar"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/58fefdff789a4673d011d368893d30dd",
+            "isNew": true
+        },
+        {
+            "text": "tanzen",
+            "translations": [
+                "dance"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3165a598c2703cccb9a64ca51a31755f",
+            "isNew": true
+        },
+        {
+            "text": "Hobbys",
+            "translations": [
+                "hobbies"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b7a5b15e02ec235524a37737fdebb67e",
+            "isNew": true
+        },
+        {
+            "text": "surfen",
+            "translations": [
+                "surf",
+                "surfing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/87da5b66dceaa598d6ac7becd8b054ae",
+            "isNew": true
+        },
+        {
+            "text": "tanze",
+            "translations": [
+                "dance",
+                "am dancing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/833c70cff353c03c95276b5d0aa9c4da",
+            "isNew": true
+        },
+        {
+            "text": "zu Hause",
+            "translations": [
+                "at home",
+                "home"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/02c73974cbac845541223db3910db87f",
+            "isNew": true
+        },
+        {
+            "text": "könnt",
+            "translations": [
+                "can",
+                "are able to",
+                "know"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ef18b0e65df9845163477cd6cc35d311",
+            "isNew": true
+        },
+        {
+            "text": "Geschenk",
+            "translations": [
+                "gift",
+                "present"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f83fed6fa2d5656e38ade56ab935351f",
+            "isNew": true
+        },
+        {
+            "text": "feiert",
+            "translations": [
+                "celebrate",
+                "celebrates",
+                "is celebrating",
+                "are celebrating",
+                "keeps"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0780f7b290d9960aec325abd08361385",
+            "isNew": true
+        },
+        {
+            "text": "feiern",
+            "translations": [
+                "celebrate",
+                "are celebrating",
+                "celebrating",
+                "keeps"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fc395463ba021e3eb7d20b0011145967",
+            "isNew": true
+        },
+        {
+            "text": "macht",
+            "translations": [
+                "is",
+                "comes to",
+                "is making",
+                "makes",
+                "opens",
+                "are doing",
+                "creates",
+                "make",
+                "takes",
+                "open",
+                "create",
+                "take",
+                "will do",
+                "taking",
+                "is having",
+                "prepare",
+                "do",
+                "does",
+                "close",
+                "is taking",
+                "be",
+                "has",
+                "is doing",
+                "closes",
+                "doing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f240e9f00fa2c1fd25aabfbea0fb8486",
+            "isNew": true
+        },
+        {
+            "text": "möchtet",
+            "translations": [
+                "want",
+                "would like to",
+                "like"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c65b9caf1f337d476b7fa80d1886b67d",
+            "isNew": true
+        },
+        {
+            "text": "Einladung",
+            "translations": [
+                "invitation"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ac37c764e54348a1d37d33ac9ebe11e6",
+            "isNew": true
+        },
+        {
+            "text": "ihr",
+            "translations": [
+                "she",
+                "her",
+                "to her",
+                "their",
+                "it",
+                "you",
+                "you all",
+                "for her",
+                "its",
+                "she'll"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f6607554969df0a8d31209cde2c8cbfd",
+            "isNew": true
+        },
+        {
+            "text": "auf jeden Fall",
+            "translations": [
+                "definitely"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d6e62417bd99c7be2314c9cc61d2ac5d",
+            "isNew": true
+        },
+        {
+            "text": "Picknick",
+            "translations": [
+                "picnic"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7bad777197272e5e91647263c26ceb1b",
+            "isNew": true
+        },
+        {
+            "text": "kann",
+            "translations": [
+                "am able to",
+                "know",
+                "can",
+                "is able to"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c00c5d9023a00bc192d88a62919762d7",
+            "isNew": true
+        },
+        {
+            "text": "Juli",
+            "translations": [
+                "July"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5932fec462c93f8e42b07c27d4f478e8",
+            "isNew": true
+        },
+        {
+            "text": "kannst",
+            "translations": [
+                "can",
+                "are able to",
+                "could",
+                "know"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3375f8d01586895febbe6652077ff7db",
+            "isNew": true
+        },
+        {
+            "text": "siebten",
+            "translations": [
+                "seventh"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a894ab8a2295ca8eb3eb8e2f4ec97b3a",
+            "isNew": true
+        },
+        {
+            "text": "zehnten",
+            "translations": [
+                "tenth"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b396dfba1b8196429133abbf23c6ab62",
+            "isNew": true
+        },
+        {
+            "text": "vierten",
+            "translations": [
+                "fourth",
+                "4th"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ff7097aa31c537c1a5729f8616a92dee",
+            "isNew": true
+        },
+        {
+            "text": "dritten",
+            "translations": [
+                "third"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c1d5c6733945f190ffde2df26fb4c4b1",
+            "isNew": true
+        },
+        {
+            "text": "zweiten",
+            "translations": [
+                "second",
+                "2nd"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/85dac9da25c262d0145753db38f582de",
+            "isNew": true
+        },
+        {
+            "text": "Party",
+            "translations": [
+                "party"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/15b08dbe55ed9134ff4ab646fa229c3d",
+            "isNew": true
+        },
+        {
+            "text": "Mai",
+            "translations": [
+                "May"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/cbb8ec7e90ce4f38b6a2da65823a33e2",
+            "isNew": true
+        },
+        {
+            "text": "mache",
+            "translations": [
+                "am turning",
+                "am making",
+                "work",
+                "making",
+                "make",
+                "am doing",
+                "take",
+                "get",
+                "having",
+                "prepare",
+                "am taking",
+                "do",
+                "am having",
+                "joining",
+                "turn",
+                "doing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/14a41bd8981b312c20d5a86c7b6d3fd8",
+            "isNew": true
+        },
+        {
+            "text": "Geburtstag",
+            "translations": [
+                "birthday"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/480d9ed2a58b463579284d131fdfd8df",
+            "isNew": true
+        },
+        {
+            "text": "morgen",
+            "translations": [
+                "tomorrow"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/bf6381e91fc85ff8592a02f596cd5e93",
+            "isNew": true
+        },
+        {
+            "text": "ersten",
+            "translations": [
+                "first"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2804ceea0ac680e3dd51be88738b8282",
+            "isNew": true
+        },
+        {
+            "text": "März",
+            "translations": [
+                "March"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/970e04eb79d93f7eb7b2dd29eae60aaa",
+            "isNew": true
+        },
+        {
+            "text": "April",
+            "translations": [
+                "April"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b647870a73d32b3f3532623bfb58df00",
+            "isNew": true
+        },
+        {
+            "text": "Taxi",
+            "translations": [
+                "taxi"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7b5f98a4fd2ba1ca4b7875ede947249c",
+            "isNew": true
+        },
+        {
+            "text": "Straße",
+            "translations": [
+                "street",
+                "road"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e78b1a46e761d3ab08ca2f848fb05b96",
+            "isNew": true
+        },
+        {
+            "text": "wiederholen",
+            "translations": [
+                "repeat"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1ba7a7a417864d93a87aaf1c00994155",
+            "isNew": true
+        },
+        {
+            "text": "Adresse",
+            "translations": [
+                "address"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6aa0bd1c4000143e1dd286cc6a56b780",
+            "isNew": true
+        },
+        {
+            "text": "bis zum Hotel",
+            "translations": [
+                "to the hotel"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/698172e79b0634916c777ecea595e210",
+            "isNew": true
+        },
+        {
+            "text": "alles Gute",
+            "translations": [
+                "take care",
+                "all the best",
+                "take"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/48954ca3ed6262b593863e67bad72b68",
+            "isNew": true
+        },
+        {
+            "text": "wie lange",
+            "translations": [
+                "how long"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f9c135f6bae14c34d3298141f3f12db8",
+            "isNew": true
+        },
+        {
+            "text": "dauert",
+            "translations": [
+                "lasts",
+                "takes",
+                "does last",
+                "last",
+                "is taking",
+                "will last",
+                "continue"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c26d2d7e5b91db10855df4bd6f4563f5",
+            "isNew": true
+        },
+        {
+            "text": "vierzehn",
+            "translations": [
+                "fourteen",
+                "14"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0b0a91d36675897b46cad2c5ce55d6f8",
+            "isNew": true
+        },
+        {
+            "text": "zu Fuß",
+            "translations": [
+                "by foot",
+                "on foot"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0f064d3596d584497323052488a8de0a",
+            "isNew": true
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 741,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 150,
+        "nextStartIndex": 250
+    }
+}

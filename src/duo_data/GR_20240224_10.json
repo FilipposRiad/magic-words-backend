@@ -1,0 +1,492 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "τσάι",
+            "translations": [
+                "tea",
+                "of tea"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5f3cc5bd3a1861f1c455fd6c3d1f6ed3",
+            "isNew": false
+        },
+        {
+            "text": "αγγούρι",
+            "translations": [
+                "cucumber"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5777354c6900e4b35d04438dcec2c6d6",
+            "isNew": false
+        },
+        {
+            "text": "σαλάτα",
+            "translations": [
+                "salad",
+                "any salad",
+                "a salad",
+                "the salad"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ab854e27e85a5afeb4742d7b8baed3b0",
+            "isNew": false
+        },
+        {
+            "text": "δείπνο",
+            "translations": [
+                "supper",
+                "dinner"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/69b220d28ca32382967952ba6a272d0e",
+            "isNew": false
+        },
+        {
+            "text": "φαγητό",
+            "translations": [
+                "food"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c4bc70bd5fb02a9e869dc25d7074f42f",
+            "isNew": false
+        },
+        {
+            "text": "αλάτι",
+            "translations": [
+                "salt"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/35a541079fe978353b97e7412d65f942",
+            "isNew": false
+        },
+        {
+            "text": "κρεμμύδι",
+            "translations": [
+                "onion"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/06dbfdbc766db646d1d0392da85182cf",
+            "isNew": false
+        },
+        {
+            "text": "ζυμαρικά",
+            "translations": [
+                "pasta",
+                "macaroni",
+                "noodle"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f226008bef0a9f7f983cc4421097778a",
+            "isNew": false
+        },
+        {
+            "text": "ντομάτα",
+            "translations": [
+                "tomato"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9a5ea212abc0a791667e94f800da5ed5",
+            "isNew": false
+        },
+        {
+            "text": "χυμός",
+            "translations": [
+                "juice"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/544f4c5e776021cbcccca69d595e7c96",
+            "isNew": false
+        },
+        {
+            "text": "τυρί",
+            "translations": [
+                "cheese",
+                "(some) cheese"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/85a4ad35be9249e451690ab2ce5d130d",
+            "isNew": false
+        },
+        {
+            "text": "φράουλα",
+            "translations": [
+                "strawberry"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/16434627bb4d83f2637eef6ebe8a37de",
+            "isNew": false
+        },
+        {
+            "text": "μπίρα",
+            "translations": [
+                "beer"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9c1a45b5f6c4f58604ebdd2154f375dc",
+            "isNew": false
+        },
+        {
+            "text": "φρούτο",
+            "translations": [
+                "fruit"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6c1dc7fa5e0868ef36f59dc07aa37402",
+            "isNew": false
+        },
+        {
+            "text": "ζάχαρη",
+            "translations": [
+                "sugar",
+                "(of) sugar"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4cf79572c25473570ee8355c4b968c67",
+            "isNew": false
+        },
+        {
+            "text": "πρωινό",
+            "translations": [
+                "breakfast"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d044dc05fd1abfa44b9ea7f8d84d3bf3",
+            "isNew": false
+        },
+        {
+            "text": "νόστιμος",
+            "translations": [
+                "tasty",
+                "delicious"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/203a69ab65d6f260e68d59d65f767c82",
+            "isNew": false
+        },
+        {
+            "text": "μεσημεριανό",
+            "translations": [
+                "lunch"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/53ff90380b4609a813c8a4e3955d0bb8",
+            "isNew": false
+        },
+        {
+            "text": "σκόρδο",
+            "translations": [
+                "garlic"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/56bd603227820dd513a568aa915206c6",
+            "isNew": false
+        },
+        {
+            "text": "πίτσα",
+            "translations": [
+                "pizza",
+                "of pizza"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b49d109b2a5837b588602e3fdccbb343",
+            "isNew": false
+        },
+        {
+            "text": "κρασί",
+            "translations": [
+                "wine",
+                "of wine"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f1d73ba0fbe0da18f0271b9beb3bf2df",
+            "isNew": false
+        },
+        {
+            "text": "πιάτο",
+            "translations": [
+                "plate",
+                "dish"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e4a818326282cf8e9506d558e7232050",
+            "isNew": false
+        },
+        {
+            "text": "ποτήρι",
+            "translations": [
+                "glass",
+                "cup",
+                "a glass of"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/618da8af120f1b9392c516b4c803a660",
+            "isNew": false
+        },
+        {
+            "text": "αυγό",
+            "translations": [
+                "egg"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8743cc4fff3ea7ddbe0372ed2c78082f",
+            "isNew": false
+        },
+        {
+            "text": "κοτόπουλο",
+            "translations": [
+                "chicken"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d4f03471c501afbf0cc801e5b5f06116",
+            "isNew": false
+        },
+        {
+            "text": "πορτοκάλι",
+            "translations": [
+                "orange (fruit)",
+                "an orange",
+                "oranges",
+                "orange"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5a49db718c0953317e9b4ba19181715c",
+            "isNew": false
+        },
+        {
+            "text": "δικός",
+            "translations": [
+                "own"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b6f3a893a06b1112d55c5693896ee9c3",
+            "isNew": false
+        },
+        {
+            "text": "δική",
+            "translations": [
+                "(my/your/his etc) own"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/14c9a36c8431f98b549794c71ee3dddb",
+            "isNew": false
+        },
+        {
+            "text": "μου",
+            "translations": [
+                "of mine",
+                "of me",
+                "me",
+                "on me",
+                "to me",
+                "for me",
+                "my",
+                "at me"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ca11b74e3ac79a982be31c12fd9bf9be",
+            "isNew": false
+        },
+        {
+            "text": "της",
+            "translations": [
+                "her",
+                "to her",
+                "the",
+                "in",
+                "of the",
+                "of",
+                "its"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/07af75468f90801be85597937ecd1559",
+            "isNew": false
+        },
+        {
+            "text": "σας",
+            "translations": [
+                "you guys",
+                "your",
+                "of you",
+                "you",
+                "you all",
+                "to you"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8763662fae580ee7ced44ece0627c120",
+            "isNew": false
+        },
+        {
+            "text": "σου",
+            "translations": [
+                "you",
+                "to you",
+                "your",
+                "at you"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5b5609eee59f6c5fd1f29e654994a936",
+            "isNew": false
+        },
+        {
+            "text": "μας",
+            "translations": [
+                "to us",
+                "us",
+                "our"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/86f06bcaa0131c4d7ac855520a8cd138",
+            "isNew": false
+        },
+        {
+            "text": "τους",
+            "translations": [
+                "the",
+                "for them",
+                "them",
+                "their"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/3e258038648fc2dac959b5035a897770",
+            "isNew": false
+        },
+        {
+            "text": "του",
+            "translations": [
+                "of the",
+                "the",
+                "him",
+                "on him",
+                "to",
+                "his",
+                "of",
+                "to him",
+                "brooks"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b8127a6d02cf436fd03ecd7978d2587e",
+            "isNew": false
+        },
+        {
+            "text": "ιταλία",
+            "translations": [
+                "Italy"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5e35d0d6dec7358ee24c5d91639197d7",
+            "isNew": false
+        },
+        {
+            "text": "ασία",
+            "translations": [
+                "Asia"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/2b521ad83724115f4c8f254502236e98",
+            "isNew": false
+        },
+        {
+            "text": "ελλάδα",
+            "translations": [
+                "Greece"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c21092abe62d23facdefac4a22e6a74a",
+            "isNew": false
+        },
+        {
+            "text": "αθήνα",
+            "translations": [
+                "Athens"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/147881ff4c38494d28a0ba2cd8a30e29",
+            "isNew": false
+        },
+        {
+            "text": "ευρώπη",
+            "translations": [
+                "Europe"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/dfa679e082ad94b22d989fde26d362a0",
+            "isNew": false
+        },
+        {
+            "text": "αμερική",
+            "translations": [
+                "America"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/27475e1175f529fe8c4ebb58c104243a",
+            "isNew": false
+        },
+        {
+            "text": "αυστραλία",
+            "translations": [
+                "Australia"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/73ec50cebb39e2fd1c388bd7b16a9529",
+            "isNew": false
+        },
+        {
+            "text": "από",
+            "translations": [
+                "from",
+                "of",
+                "since",
+                "by",
+                "than"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4256a816d0ad61cc96d2019fe34cc89a",
+            "isNew": false
+        },
+        {
+            "text": "μένω",
+            "translations": [
+                "stay",
+                "I'm staying",
+                "I reside",
+                "I live",
+                "staying"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/62c81448be6f01ef819877269b8b59e8",
+            "isNew": false
+        },
+        {
+            "text": "την",
+            "translations": [
+                "of",
+                "her",
+                "the",
+                "in",
+                "about"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d0c0835d87c94270e50263f158926c7d",
+            "isNew": false
+        },
+        {
+            "text": "μιλάω",
+            "translations": [
+                "speak",
+                "talk",
+                "I speak",
+                "I talk"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6583d8107505abe318fe70bb34007d88",
+            "isNew": false
+        },
+        {
+            "text": "λίγο",
+            "translations": [
+                "a bit (of)",
+                "a little bit",
+                "a little",
+                "for a little",
+                "a little while",
+                "in a moment",
+                "for a while",
+                "little",
+                "some"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/529360feb74ef2715bcdeb3a95041be2",
+            "isNew": false
+        },
+        {
+            "text": "εντάξει",
+            "translations": [
+                "alright",
+                "ok"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1931420674e6a91499c4d329f0c96cc4",
+            "isNew": false
+        },
+        {
+            "text": "αγγλικά",
+            "translations": [
+                "English"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9b79e4a0cb8f490a3d2b4a38e556c086",
+            "isNew": false
+        },
+        {
+            "text": "μιλάς",
+            "translations": [
+                "you speak",
+                "speak",
+                "talking",
+                "talk",
+                "are you speaking",
+                "do you speak"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/765abfb25e4f22d2907f2b8e6b81437c",
+            "isNew": false
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 638,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 400,
+        "nextStartIndex": 500
+    }
+}

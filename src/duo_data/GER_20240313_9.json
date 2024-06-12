@@ -1,0 +1,541 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "muss",
+            "translations": [
+                "needs to",
+                "has to",
+                "has got to",
+                "have got to",
+                "'s got to",
+                "have to",
+                "need to",
+                "do have to",
+                "have to go",
+                "must"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5e37fccf14ce0036a064d2f52ea14462",
+            "isNew": true
+        },
+        {
+            "text": "aufgeregt",
+            "translations": [
+                "excited",
+                "eager",
+                "jumpy",
+                "jittery"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3499bb9fd943e0e93977c947eb06d57f",
+            "isNew": true
+        },
+        {
+            "text": "Bluse",
+            "translations": [
+                "blouse",
+                "shirt",
+                "top"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9bcd6293017672848604b53409dc576a",
+            "isNew": true
+        },
+        {
+            "text": "kaufen",
+            "translations": [
+                "buy",
+                "to get",
+                "to purchase"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a42ff1755bfcaab9b69930967bf79011",
+            "isNew": true
+        },
+        {
+            "text": "gehe",
+            "translations": [
+                "am going",
+                "walking",
+                "go",
+                "leave",
+                "going",
+                "walk",
+                "answer"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b11dc9da1cf0e3356e9255561141577c",
+            "isNew": true
+        },
+        {
+            "text": "Jobinterview",
+            "translations": [
+                "job interview",
+                "interview"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/dd8265709cd5d60106921a4e358b82b8",
+            "isNew": true
+        },
+        {
+            "text": "nervös",
+            "translations": [
+                "nervous",
+                "on edge",
+                "flustered",
+                "panicky",
+                "panicked",
+                "antsy"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/192e4b99e04731b18a94ff2e022ca44b",
+            "isNew": true
+        },
+        {
+            "text": "Kaufhaus",
+            "translations": [
+                "department store",
+                "store"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5ee4fc897dec69d805322072ac938458",
+            "isNew": true
+        },
+        {
+            "text": "für",
+            "translations": [
+                "for"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3acb6e7ee3e20ca848d42628e359fd18",
+            "isNew": true
+        },
+        {
+            "text": "Dienstag",
+            "translations": [
+                "Tuesday"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b6db66c3cdb6346ba0a923a919565ea5",
+            "isNew": true
+        },
+        {
+            "text": "Montag",
+            "translations": [
+                "Monday"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/25d05b95deb4654f831caf7e5a240c68",
+            "isNew": true
+        },
+        {
+            "text": "fantastisch",
+            "translations": [
+                "fantastic",
+                "great",
+                "terrific",
+                "awesome",
+                "fabulous",
+                "brilliant",
+                "wonderful",
+                "splendid",
+                "amazing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/15cedd2cd65cf685d108157ed438b797",
+            "isNew": true
+        },
+        {
+            "text": "Bett",
+            "translations": [
+                "bed"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/16168ebf416afe2ef5f052b8e58ea4f5",
+            "isNew": true
+        },
+        {
+            "text": "Badezimmer",
+            "translations": [
+                "bathroom",
+                "restroom",
+                "washroom",
+                "loo",
+                "toilet",
+                "lavatory",
+                "lav",
+                "W.C.",
+                "WC"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7afd83756aedc6d18e86fc0bf0eaba83",
+            "isNew": true
+        },
+        {
+            "text": "Bücherregal",
+            "translations": [
+                "bookcase",
+                "bookshelf"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/602aceaf309486b5b8ab7d1aa4a4fa89",
+            "isNew": true
+        },
+        {
+            "text": "dunkel",
+            "translations": [
+                "dark"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5a48499d58e109d389b132a6b0bade53",
+            "isNew": true
+        },
+        {
+            "text": "hell",
+            "translations": [
+                "bright",
+                "light"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6258248abb7f7418892760651c97b0c3",
+            "isNew": true
+        },
+        {
+            "text": "Lampe",
+            "translations": [
+                "lamp",
+                "light"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/17695828588db5d3a19f106ee2e3b0f9",
+            "isNew": true
+        },
+        {
+            "text": "sauber",
+            "translations": [
+                "clean",
+                "tidy",
+                "neat"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7f903538d56b106b8d5ff44e381bf037",
+            "isNew": true
+        },
+        {
+            "text": "Wohnung",
+            "translations": [
+                "apartment",
+                "flat"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f02093701856129602fe4263b06db954",
+            "isNew": true
+        },
+        {
+            "text": "wer",
+            "translations": [
+                "who"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7775e730055dbe3101dd91667cf0cbd3",
+            "isNew": true
+        },
+        {
+            "text": "Schreibtisch",
+            "translations": [
+                "desk"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/84b91d07bb667289b491dcf533b56d81",
+            "isNew": true
+        },
+        {
+            "text": "Couch",
+            "translations": [
+                "couch"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/32e451248602bb5076af84e7f62e9744",
+            "isNew": true
+        },
+        {
+            "text": "Schlafzimmer",
+            "translations": [
+                "bedroom"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6859d8b0880321060bc162a10946fde2",
+            "isNew": true
+        },
+        {
+            "text": "magst",
+            "translations": [
+                "like"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6788df726b981d53031a3f61befa99da",
+            "isNew": true
+        },
+        {
+            "text": "Schrank",
+            "translations": [
+                "closet",
+                "cabinet",
+                "cupboard",
+                "wardrobe",
+                "locker",
+                "armoire"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/95cf331004f17bb35f8980ad6ee33f02",
+            "isNew": true
+        },
+        {
+            "text": "bequem",
+            "translations": [
+                "comfortable",
+                "comfortably"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7a67de8c21a847f63faeb4a85fa09541",
+            "isNew": true
+        },
+        {
+            "text": "brauchen",
+            "translations": [
+                "need",
+                "do need"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/794609cde21a184d65b38aace5804f9c",
+            "isNew": true
+        },
+        {
+            "text": "wir",
+            "translations": [
+                "we"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/777789f720bd82dff25844e4b3ab7c46",
+            "isNew": true
+        },
+        {
+            "text": "Teppich",
+            "translations": [
+                "carpet",
+                "rug"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/49587791b933f185ef75823712d2e5d7",
+            "isNew": true
+        },
+        {
+            "text": "den",
+            "translations": [
+                "her",
+                "the",
+                "that",
+                "who",
+                "my"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5c6b8ae4a5e562a7f049f330c7177062",
+            "isNew": true
+        },
+        {
+            "text": "mag",
+            "translations": [
+                "like",
+                "likes",
+                "disliked"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6e9cd30876c09cd359a0961f80fe70d1",
+            "isNew": true
+        },
+        {
+            "text": "brauchst",
+            "translations": [
+                "need",
+                "use"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c21567a6df307c1880cd785512c876e4",
+            "isNew": true
+        },
+        {
+            "text": "hässlich",
+            "translations": [
+                "ugly",
+                "hideous",
+                "unsightly",
+                "gawdy",
+                "tacky"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2c2debdeb083bd6d43c3983bca5af01a",
+            "isNew": true
+        },
+        {
+            "text": "haben",
+            "translations": [
+                "have",
+                "do have",
+                "have had",
+                "is",
+                "hold",
+                "haben",
+                "were",
+                "take",
+                "get",
+                "having",
+                "serve",
+                "did",
+                "do serve",
+                "met",
+                "has",
+                "are",
+                "held",
+                "meet",
+                "be"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5e397b12d6ebc13aad847ac8b8d3ab44",
+            "isNew": true
+        },
+        {
+            "text": "Stuhl",
+            "translations": [
+                "chair"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8552c6c7022bf93c097a0c168b8cc3e7",
+            "isNew": true
+        },
+        {
+            "text": "Tisch",
+            "translations": [
+                "table",
+                "desk"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/64dd4be4d452da3bccd4890ad60576d1",
+            "isNew": true
+        },
+        {
+            "text": "modern",
+            "translations": [
+                "modern"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8a12e1a7a3c7baf1e96ff333eb7c9e42",
+            "isNew": true
+        },
+        {
+            "text": "bis",
+            "translations": [
+                "until",
+                "till",
+                "'til"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e0d3a04544eabdff719966c2f8cc6f9e",
+            "isNew": true
+        },
+        {
+            "text": "geöffnet",
+            "translations": [
+                "open"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5e68b8aa99207126b380b071af9835b9",
+            "isNew": true
+        },
+        {
+            "text": "Eintrittskarte",
+            "translations": [
+                "admission ticket",
+                "[admission/entry/entrance] [ticket/pass/card] "
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c2a5dc1a9acdcdb1ef60bf46915288cc",
+            "isNew": true
+        },
+        {
+            "text": "wann",
+            "translations": [
+                "when",
+                "what time",
+                "at what time"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/11b2efa99b7ece9e954da380563f763d",
+            "isNew": true
+        },
+        {
+            "text": "heute Nachmittag",
+            "translations": [
+                "this afternoon"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a26b76801ef16b2510bf6037082d44eb",
+            "isNew": true
+        },
+        {
+            "text": "um",
+            "translations": [
+                "for",
+                "to",
+                "of",
+                "in order to",
+                "in order",
+                "around",
+                "moving",
+                "up",
+                "at",
+                "over",
+                "about",
+                "round",
+                "and",
+                "by",
+                "after"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/78cc25553433d289a1afa6429c4c6034",
+            "isNew": true
+        },
+        {
+            "text": "schade",
+            "translations": [
+                "harm",
+                "too bad"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9c0a0dd63567e04af8cd9bb84065c735",
+            "isNew": true
+        },
+        {
+            "text": "Spiel",
+            "translations": [
+                "game",
+                "match",
+                "play",
+                "performance"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b51317c84cbd502a7b70e4173a614505",
+            "isNew": true
+        },
+        {
+            "text": "Konzert",
+            "translations": [
+                "concert",
+                "concerto",
+                "show"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1c13170b96a7065b28c05607f20b509d",
+            "isNew": true
+        },
+        {
+            "text": "am",
+            "translations": [
+                "by the",
+                "the",
+                "a",
+                "that",
+                "in the",
+                "at the",
+                "at",
+                "on",
+                "who",
+                "about",
+                "which",
+                "to",
+                "next to the",
+                "on the",
+                "in",
+                "my"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b35b40ccbc33487d331ac87663a62a11",
+            "isNew": true
+        },
+        {
+            "text": "heute Abend",
+            "translations": [
+                "this evening",
+                "tonight"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a96e7368a2720d642ca9b5999e3b0bba",
+            "isNew": true
+        },
+        {
+            "text": "Sonntag",
+            "translations": [
+                "Sunday"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ddc8662cd977a3b76831d3b8707632a2",
+            "isNew": true
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 741,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 300,
+        "nextStartIndex": 400
+    }
+}

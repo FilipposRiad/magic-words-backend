@@ -1,0 +1,535 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "μιλάτε",
+            "translations": [
+                "speak",
+                "(plural| you) speak",
+                "(plural| you) talk",
+                "(plural| you) are talking",
+                "(plural| you)are speaking",
+                "talking",
+                "talk",
+                "you speak"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e10d72b5669b1c9f154184e2ab68cfad",
+            "isNew": false
+        },
+        {
+            "text": "ελληνικά",
+            "translations": [
+                "Greek"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/267b39363aab81051f746891148941cc",
+            "isNew": false
+        },
+        {
+            "text": "μιλάει",
+            "translations": [
+                "speaks",
+                "speak",
+                "talking",
+                "talks",
+                "is speaking",
+                "talk",
+                "speaking",
+                "is talking"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ebec93320a8c2757765c22382294ed76",
+            "isNew": false
+        },
+        {
+            "text": "πώς σε λένε",
+            "translations": [
+                "what is your name"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/00b8d5344191a67a67de914c6288f949",
+            "isNew": false
+        },
+        {
+            "text": "δεν",
+            "translations": [
+                "do not",
+                "no",
+                "did not",
+                "don't",
+                "didn't",
+                "does not",
+                "not",
+                "doesn't"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/98ab0ead78f0f6730723bcb29809c930",
+            "isNew": false
+        },
+        {
+            "text": "αντίο",
+            "translations": [
+                "goodbye",
+                "bye"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6d9d759575c304661a3928a0499e2aff",
+            "isNew": false
+        },
+        {
+            "text": "ορίστε",
+            "translations": [
+                "here you are",
+                "here",
+                "here is",
+                "here you go"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1b9b511a19ab8ee1d41edc3de13d083b",
+            "isNew": false
+        },
+        {
+            "text": "πολύ",
+            "translations": [
+                "a lot of",
+                "too",
+                "very much",
+                "very",
+                "a lot",
+                "really"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/af222fe9bd9a3c6d2a2e3c4560b69408",
+            "isNew": false
+        },
+        {
+            "text": "με λένε",
+            "translations": [
+                "my name is",
+                "they call me"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/04987c09f574f8eee761df5cf4139f5c",
+            "isNew": false
+        },
+        {
+            "text": "χάρηκα",
+            "translations": [
+                "nice to meet you",
+                "I am happy",
+                "I was glad",
+                "pleased",
+                "happy to meet you"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/7861c1172cb569d858db8debcba3ac16",
+            "isNew": false
+        },
+        {
+            "text": "ελένη",
+            "translations": [
+                "Helen",
+                "Eleni",
+                "Ellen",
+                "Elen"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/0832893075f8d067cb43effc0134ea02",
+            "isNew": false
+        },
+        {
+            "text": "καλημέρα",
+            "translations": [
+                "good morning",
+                "good day"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8da891f1f7c20b430f74bc3a97011b76",
+            "isNew": false
+        },
+        {
+            "text": "τα λέμε",
+            "translations": [
+                "see you soon",
+                "talk",
+                "be talking to you",
+                "see you again",
+                "see you"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/60524d521ef6ec224adf54fd3191f0fa",
+            "isNew": false
+        },
+        {
+            "text": "καληνύχτα",
+            "translations": [
+                "good night"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/07d1af0609870666a86b570b0e96728d",
+            "isNew": false
+        },
+        {
+            "text": "συγγνώμη",
+            "translations": [
+                "sorry",
+                "excuse me"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/0418c7e36698bb715d10030ad129b231",
+            "isNew": false
+        },
+        {
+            "text": "καλησπέρα",
+            "translations": [
+                "good evening"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d40a3a08ef2450da198f5f7424654760",
+            "isNew": false
+        },
+        {
+            "text": "γεια σας",
+            "translations": [
+                "hello",
+                "goodbye"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5223d063d3e968383e71518bdc308d72",
+            "isNew": false
+        },
+        {
+            "text": "γεια",
+            "translations": [
+                "hello",
+                "bye"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a4c22be802acb8576b9019d059118aa6",
+            "isNew": false
+        },
+        {
+            "text": "με συγχωρείτε",
+            "translations": [
+                "excuse me",
+                "sorry"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/917ecb81f9df43f9f2e0fb04261d5012",
+            "isNew": false
+        },
+        {
+            "text": "είστε",
+            "translations": [
+                "you are",
+                "are",
+                "you're",
+                "be",
+                "in",
+                "are you"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9f0c1b20162e991038be60c10cfac992",
+            "isNew": false
+        },
+        {
+            "text": "καλά",
+            "translations": [
+                "fine",
+                "well",
+                "good",
+                "okay"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/0f540448f6e6114768580dfef7c165c7",
+            "isNew": false
+        },
+        {
+            "text": "πώς είσαι",
+            "translations": [
+                "how are you (infr/sing)"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f8f92ee5532942eeeed3dd8cd9015e1a",
+            "isNew": false
+        },
+        {
+            "text": "πώς είστε",
+            "translations": [
+                "how are you (pl/formal)"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/decf5bd593f1124e843d374753ae40a4",
+            "isNew": false
+        },
+        {
+            "text": "τρως",
+            "translations": [
+                "(you) are eating",
+                "you eat",
+                "do you eat",
+                "eat",
+                "(you) eat"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a15590e9889f148a9574e1b35f3061c9",
+            "isNew": false
+        },
+        {
+            "text": "εσείς",
+            "translations": [
+                "y'all",
+                "you",
+                "you all",
+                "all of you"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e47da1ffae71c31728e8b1cd58b3eafc",
+            "isNew": false
+        },
+        {
+            "text": "αυτοί",
+            "translations": [
+                "these",
+                "they"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e95c40c640fd926de678a3270529525f",
+            "isNew": false
+        },
+        {
+            "text": "είσαστε",
+            "translations": [
+                "you are",
+                "you're",
+                "are you"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/74dc920c94168828438af92d3ca4dc09",
+            "isNew": false
+        },
+        {
+            "text": "πίνουν",
+            "translations": [
+                "drink",
+                "they are drinking",
+                "do ... drink",
+                "they drink",
+                "have been drinking"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b032d6d2fce655686b16c90e9f350f0b",
+            "isNew": false
+        },
+        {
+            "text": "διαβάζω",
+            "translations": [
+                "read",
+                "study",
+                "I am reading"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a3afaf7407eb341ff3db29833adbd3f7",
+            "isNew": false
+        },
+        {
+            "text": "διαβάζετε",
+            "translations": [
+                "are you reading",
+                "you are reading",
+                "reading",
+                "(you) read"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b562fb0bd28323a35ee81cc332689283",
+            "isNew": false
+        },
+        {
+            "text": "είσαι",
+            "translations": [
+                "you should be",
+                "are you",
+                "you were",
+                "you are",
+                "be",
+                "are"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/085b1559a698361228aff1343c6239ff",
+            "isNew": false
+        },
+        {
+            "text": "τρώνε",
+            "translations": [
+                "eating",
+                "are eating",
+                "they eat",
+                "they are eating",
+                "eat"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a9732526539f40291389b0f91fe36890",
+            "isNew": false
+        },
+        {
+            "text": "πίνεις",
+            "translations": [
+                "you drink",
+                "do you drink",
+                "you are drinking",
+                "drink"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/be9f9318ae0513f380f6b986a94500cf",
+            "isNew": false
+        },
+        {
+            "text": "έχω",
+            "translations": [
+                "have",
+                "I have",
+                "got",
+                "having"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ef3960a1e395b3dcb53935d14e76b5e4",
+            "isNew": false
+        },
+        {
+            "text": "είμαστε",
+            "translations": [
+                "we are",
+                "we're",
+                "are"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c6d5895fabc48974d848969c9e062e64",
+            "isNew": false
+        },
+        {
+            "text": "διαβάζεις",
+            "translations": [
+                "Are you reading",
+                "study",
+                "(you) read",
+                "do you read?",
+                "are reading"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/2115d59cbceb5dc639a58cb9d3f32f0b",
+            "isNew": false
+        },
+        {
+            "text": "διαβάζουμε",
+            "translations": [
+                "(we) read",
+                "study",
+                "are studying",
+                "are reading",
+                "reading"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/53adf163ac3b79349a50957db7ed40d3",
+            "isNew": false
+        },
+        {
+            "text": "έχεις",
+            "translations": [
+                "do you have",
+                "(you) have",
+                "have you",
+                "ve"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/34b2b58607ccdf6a82f51c35cf6f7d07",
+            "isNew": false
+        },
+        {
+            "text": "διαβάζει",
+            "translations": [
+                "he/she reads",
+                "is studying",
+                "studies",
+                "read",
+                "he is reading",
+                "reads",
+                "does he/she read?",
+                "is reading"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a62d1d455d52ce2f0f23b475929dfd7d",
+            "isNew": false
+        },
+        {
+            "text": "εμείς",
+            "translations": [
+                "we",
+                "us"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/741c61f79929d09e1b30810f6c56593b",
+            "isNew": false
+        },
+        {
+            "text": "έχει",
+            "translations": [
+                "is",
+                "has got",
+                "tastes",
+                "contains",
+                "does ... have",
+                "have",
+                "has",
+                "there is",
+                "am"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/3ac45a681592cfe6504f6f15693d9a03",
+            "isNew": false
+        },
+        {
+            "text": "παιδί",
+            "translations": [
+                "child",
+                "kid"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4f70ba548d178f20d1028d091b795b4b",
+            "isNew": false
+        },
+        {
+            "text": "μενού",
+            "translations": [
+                "menu"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5a33d42a984b27a61e948986218d17ac",
+            "isNew": false
+        },
+        {
+            "text": "γάλα",
+            "translations": [
+                "milk"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/2889d3d3b49584eef3bccb78407d218f",
+            "isNew": false
+        },
+        {
+            "text": "παιδιά",
+            "translations": [
+                "children",
+                "youngsters",
+                "kids"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/74cb5f97f24a123c15dcd6502e253aef",
+            "isNew": false
+        },
+        {
+            "text": "έχουμε",
+            "translations": [
+                "do we have",
+                "we have"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4ae17879b1706b9256cc2f8661da8755",
+            "isNew": false
+        },
+        {
+            "text": "βιβλίο",
+            "translations": [
+                "book"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/da603af29db2d87962193117add953cc",
+            "isNew": false
+        },
+        {
+            "text": "άντρες",
+            "translations": [
+                "husbands",
+                "men"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/fb632d45701e2fd09dac709b3987f01b",
+            "isNew": false
+        },
+        {
+            "text": "κορίτσια",
+            "translations": [
+                "girls",
+                "girlfriends + possessive!"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1a35d1c21cd708bcd735dc7bd9e47755",
+            "isNew": false
+        },
+        {
+            "text": "οι",
+            "translations": [
+                "the"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/27264765f29e72a1d5d177eaaf522381",
+            "isNew": false
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 638,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 450,
+        "nextStartIndex": 550
+    }
+}

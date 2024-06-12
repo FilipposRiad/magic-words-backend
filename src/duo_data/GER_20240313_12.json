@@ -1,0 +1,482 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "Winter",
+            "translations": [
+                "winters",
+                "winter"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/531b820951af224dcebf356d85268647",
+            "isNew": true
+        },
+        {
+            "text": "schneit",
+            "translations": [
+                "is snowing",
+                "snows"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/cd0fd4983c179829c4364e47fffe48bc",
+            "isNew": true
+        },
+        {
+            "text": "Herbst",
+            "translations": [
+                "fall",
+                "autumn"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/038d5b60ac156c94d06606d21da9640c",
+            "isNew": true
+        },
+        {
+            "text": "habt",
+            "translations": [
+                "did",
+                "have",
+                "meet"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/14eac23db7a2d3eb20ed461b39ed9806",
+            "isNew": true
+        },
+        {
+            "text": "windig",
+            "translations": [
+                "windy"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5b81c4314d10e82aee0927c2e3b6bada",
+            "isNew": true
+        },
+        {
+            "text": "im",
+            "translations": [
+                "this",
+                "to the",
+                "in the",
+                "at the",
+                "during the",
+                "at",
+                "on",
+                "which",
+                "on the",
+                "during",
+                "in",
+                "by",
+                "to"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/711bc9bb74f3c6551950923194866d40",
+            "isNew": true
+        },
+        {
+            "text": "Regenschirm",
+            "translations": [
+                "umbrella"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/119bb2730e9b6c347961244518420ce2",
+            "isNew": true
+        },
+        {
+            "text": "schlecht",
+            "translations": [
+                "bad",
+                "ill",
+                "poor"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/18e26760143c44a20dc65695dd5be6d8",
+            "isNew": true
+        },
+        {
+            "text": "regnet",
+            "translations": [
+                "rains",
+                "is raining"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b8ab6279d3f599682c5f4057f1bb3346",
+            "isNew": true
+        },
+        {
+            "text": "es",
+            "translations": [
+                "it"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/949c98fcc521f297d1bdf6abc4b558b8",
+            "isNew": true
+        },
+        {
+            "text": "sonnig",
+            "translations": [
+                "sunny"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1d4391b52a4041e8eddc8cb3ddd0238b",
+            "isNew": true
+        },
+        {
+            "text": "heute",
+            "translations": [
+                "today"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0f73c90f4dc64f98b263e9492bac8eb4",
+            "isNew": true
+        },
+        {
+            "text": "Wetter",
+            "translations": [
+                "weather"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/cf6726821aec3be0a2530f2e261ec576",
+            "isNew": true
+        },
+        {
+            "text": "bewölkt",
+            "translations": [
+                "cloudy"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/723c4302a9f638f37ecdc2b0cf733a13",
+            "isNew": true
+        },
+        {
+            "text": "Erdbeeren",
+            "translations": [
+                "strawberries"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/079793467bce35e7c3f236761ae9c6be",
+            "isNew": true
+        },
+        {
+            "text": "gern geschehen",
+            "translations": [
+                "you are welcome"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/34ad9cc720c5f710475049ed41876084",
+            "isNew": true
+        },
+        {
+            "text": "Kartoffeln",
+            "translations": [
+                "potatoes"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6515ee5c4db31eca5aec1e905965c851",
+            "isNew": true
+        },
+        {
+            "text": "vielen Dank",
+            "translations": [
+                "thank you very much"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f9c6d60b3775afc11e45d281f94dbe03",
+            "isNew": true
+        },
+        {
+            "text": "zehn",
+            "translations": [
+                "ten"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7cf4920e129b12024892ca6a37676ded",
+            "isNew": true
+        },
+        {
+            "text": "Döner",
+            "translations": [
+                "doner kebab",
+                "kebab"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4d9a9f06b44c3c02905235ec63c727e3",
+            "isNew": true
+        },
+        {
+            "text": "Tomaten",
+            "translations": [
+                "tomatoes"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/54b58fc1f2877b8e38081053903eeae6",
+            "isNew": true
+        },
+        {
+            "text": "neun",
+            "translations": [
+                "nine"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6a783852e893790160959957ebbf9a2c",
+            "isNew": true
+        },
+        {
+            "text": "Kilo",
+            "translations": [
+                "kilos of",
+                "kilo of",
+                "kilos",
+                "kilo",
+                "kilogram",
+                "kilograms of"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/39857c0f4f0d172dc83d1a9b4b8065cc",
+            "isNew": true
+        },
+        {
+            "text": "wirklich",
+            "translations": [
+                "really",
+                "actually",
+                "truly",
+                "genuinely"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/36af0b88f26aeae553e115df97304da7",
+            "isNew": true
+        },
+        {
+            "text": "fünf",
+            "translations": [
+                "five"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/23dc04b8e0450c4d9d317fc055ea3dff",
+            "isNew": true
+        },
+        {
+            "text": "sieben",
+            "translations": [
+                "seven"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/854b92ac49045befada0dbb684593cc0",
+            "isNew": true
+        },
+        {
+            "text": "sechs",
+            "translations": [
+                "six"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7555c50422620a78fb04b768da96be54",
+            "isNew": true
+        },
+        {
+            "text": "Euro",
+            "translations": [
+                "euros",
+                "euro"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c133deb40bdafd0a3e32704bffaba597",
+            "isNew": true
+        },
+        {
+            "text": "von",
+            "translations": [
+                "from",
+                "'s",
+                "on",
+                "about",
+                "to",
+                "of",
+                "'",
+                "in",
+                "by",
+                "off"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f3369a2938ca58e3023fa2609ec8993a",
+            "isNew": true
+        },
+        {
+            "text": "null",
+            "translations": [
+                "zero"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/511e09ee60ce726a5ddb945fb32ceca6",
+            "isNew": true
+        },
+        {
+            "text": "Dollar",
+            "translations": [
+                "dollar",
+                "dollars"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/cce771259fa6ec6f26ca79ade70955bb",
+            "isNew": true
+        },
+        {
+            "text": "kostet",
+            "translations": [
+                "is",
+                "does cost",
+                "costs",
+                "cost"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/95b975eacaeeaa78de2aab76dd160160",
+            "isNew": true
+        },
+        {
+            "text": "Orangen",
+            "translations": [
+                "oranges"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fd6a6916cb52f2154358372ff40b44ac",
+            "isNew": true
+        },
+        {
+            "text": "Marktplatz",
+            "translations": [
+                "marketplace",
+                "market"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/aaf7b36fc3efca7189e78240293c8814",
+            "isNew": true
+        },
+        {
+            "text": "drei",
+            "translations": [
+                "three"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/df349bb883380a7ee1282b9884c6e07f",
+            "isNew": true
+        },
+        {
+            "text": "eins",
+            "translations": [
+                "one"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2c362f6dfbebc17f520d1e4b63028ea8",
+            "isNew": true
+        },
+        {
+            "text": "zwei",
+            "translations": [
+                "two"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6e745f56d6677b4028aa229993737795",
+            "isNew": true
+        },
+        {
+            "text": "Anwalt",
+            "translations": [
+                "lawyer",
+                "barrister",
+                "solicitor",
+                "attorney"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b98fe31da81a7b8f3db53d6410f5257e",
+            "isNew": true
+        },
+        {
+            "text": "Russland",
+            "translations": [
+                "Russia"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ab11c3cbdb624d7fdde674809bfd3242",
+            "isNew": true
+        },
+        {
+            "text": "Anwältin",
+            "translations": [
+                "lawyer",
+                "a lawyer"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4f4e1ac343c941774a7c689493bc0474",
+            "isNew": true
+        },
+        {
+            "text": "Schweden",
+            "translations": [
+                "Sweden"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/30482d99a02b82cc2d7efe499e953e30",
+            "isNew": true
+        },
+        {
+            "text": "Künstler",
+            "translations": [
+                "an artist",
+                "artists'",
+                "performer",
+                "artist",
+                "artists",
+                "performers"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a9562c1c002c99b54038945ca4c1d871",
+            "isNew": true
+        },
+        {
+            "text": "lebst",
+            "translations": [
+                "live",
+                "living"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fd72febb327ac3f91df980f1fd1f4ce1",
+            "isNew": true
+        },
+        {
+            "text": "lebe",
+            "translations": [
+                "live",
+                "am living"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d1c13b569d7d3cbfc58c40ea8931df99",
+            "isNew": true
+        },
+        {
+            "text": "leben",
+            "translations": [
+                "lived",
+                "living",
+                "are living",
+                "live",
+                "have lived"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3d967fe88c2d513d62e78af8180c22bf",
+            "isNew": true
+        },
+        {
+            "text": "Polizist",
+            "translations": [
+                "police officer",
+                "policeman",
+                "a police officer"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7dd664f19f77d03c806760eb81a0ae29",
+            "isNew": true
+        },
+        {
+            "text": "Schüler",
+            "translations": [
+                "students",
+                "pupil",
+                "student",
+                "pupils"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/05862a2ff39b5067202756165682bef7",
+            "isNew": true
+        },
+        {
+            "text": "Deutsch",
+            "translations": [
+                "German"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/37abd14aa4c4ff1eb999262ec0886dda",
+            "isNew": true
+        },
+        {
+            "text": "spreche",
+            "translations": [
+                "am talking",
+                "speak",
+                "pronounce",
+                "talk",
+                "am speaking",
+                "say",
+                "speaking"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c6ed8f8e9996274bc4dfc750fa8e68cd",
+            "isNew": true
+        },
+        {
+            "text": "sprechen",
+            "translations": [
+                "speak",
+                "are speaking"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/767e588b707c4a6c8a8d627971ace7dc",
+            "isNew": true
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 741,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 450,
+        "nextStartIndex": 550
+    }
+}

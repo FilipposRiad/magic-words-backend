@@ -1,0 +1,554 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "μαύρο",
+            "translations": [
+                "black"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/dc4f9ac5d2f2ede9bd00b56fe8494010",
+            "isNew": false
+        },
+        {
+            "text": "χρώμα",
+            "translations": [
+                "colour",
+                "color",
+                "paint"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/67af37fd7fe5a5ed31d573437d668e7b",
+            "isNew": false
+        },
+        {
+            "text": "καθαρίζω",
+            "translations": [
+                "(I am) cleaning",
+                "(I) clean",
+                "I'm not cleaning"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/3c80111e9c90637af80cb9bd7e1ebbeb",
+            "isNew": false
+        },
+        {
+            "text": "νικάω",
+            "translations": [
+                "win"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1f49c2ce2cf298052f864e26941ebc82",
+            "isNew": false
+        },
+        {
+            "text": "αρέσω",
+            "translations": [
+                "like"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6ba6ce69c1cffe591298693fe1be2f90",
+            "isNew": false
+        },
+        {
+            "text": "σχεδιάζω",
+            "translations": [
+                "(I) design",
+                "draw",
+                "sketch",
+                "plan",
+                "planning"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6adbf3b4990d4586c2e9469635936079",
+            "isNew": false
+        },
+        {
+            "text": "δείχνω",
+            "translations": [
+                "show",
+                "I show"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/77148f8848e17fa35a0a50fa1b2d83af",
+            "isNew": false
+        },
+        {
+            "text": "παίρνω",
+            "translations": [
+                "take",
+                "taking",
+                "get",
+                "getting"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/2a21c66c15dca06974fae84c623ff1e1",
+            "isNew": false
+        },
+        {
+            "text": "πέφτω",
+            "translations": [
+                "fall",
+                "dropping",
+                "falling",
+                "drop",
+                "I fall"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ba54ca8e64d35e62eb7e09031eb0d2c8",
+            "isNew": false
+        },
+        {
+            "text": "κάνω",
+            "translations": [
+                "make",
+                "I make",
+                "I do",
+                "I am making",
+                "I am doing",
+                "do",
+                "have"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1619ea59a5f51f6279871989b613559f",
+            "isNew": false
+        },
+        {
+            "text": "βρίσκω",
+            "translations": [
+                "find",
+                "I am finding",
+                "(I) find",
+                "do I find",
+                "finding"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d997c387992d04770633a9f72fe7ee70",
+            "isNew": false
+        },
+        {
+            "text": "βάζω",
+            "translations": [
+                "put",
+                "I am putting",
+                "I am setting",
+                "set",
+                "I put"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/3f28a219124a52b2c9d9fe04d2dff28c",
+            "isNew": false
+        },
+        {
+            "text": "φτιάχνω",
+            "translations": [
+                "(I am) making",
+                "I make",
+                "make",
+                "making",
+                "create"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c06fed795a010cacc30eef2e8fe76b02",
+            "isNew": false
+        },
+        {
+            "text": "ακούει",
+            "translations": [
+                "listens to",
+                "is listening to",
+                "has been listening to",
+                "hears",
+                "does she listen to"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/34c8c4e4f36f049a963272c74545b8c0",
+            "isNew": false
+        },
+        {
+            "text": "δουλεύω",
+            "translations": [
+                "I am working",
+                "am I working",
+                "do I work",
+                "I work",
+                "work"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c64f8d62f8e273ffc135b3f95dc1481c",
+            "isNew": false
+        },
+        {
+            "text": "φέρνω",
+            "translations": [
+                "fetch",
+                "I bring",
+                "bring",
+                "bringing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d444a2b9f41bae159aa5ca36a623d68f",
+            "isNew": false
+        },
+        {
+            "text": "ακούω",
+            "translations": [
+                "I listen",
+                "hear",
+                "(I) listen (to)",
+                "(I) hear",
+                "listen",
+                "I am listening to",
+                "listening"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/0870207bf9c99e9baa6e393b1a7e050c",
+            "isNew": false
+        },
+        {
+            "text": "λέω",
+            "translations": [
+                "am telling",
+                "(I) say",
+                "tell",
+                "say",
+                "am saying"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ec0b6574aca1927976f3c717aebb2909",
+            "isNew": false
+        },
+        {
+            "text": "βοηθώ",
+            "translations": [
+                "help",
+                "assist",
+                "aid"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b6df7d6f90b5b4e1cc0c7297234c2167",
+            "isNew": false
+        },
+        {
+            "text": "χρησιμοποιώ",
+            "translations": [
+                "I am using",
+                "(I) use"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c545d2284377dc712d240a9cbd073a2c",
+            "isNew": false
+        },
+        {
+            "text": "παίζει",
+            "translations": [
+                "plays",
+                "is playing",
+                "performs",
+                "play",
+                "is performing",
+                "she plays"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1ce84874c0d0da1ebd0dc47a8660856e",
+            "isNew": false
+        },
+        {
+            "text": "απαγορεύω",
+            "translations": [
+                "forbid",
+                "prohibit",
+                "I prohibit this"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a0fce7294d606e69f603422c3a514d9b",
+            "isNew": false
+        },
+        {
+            "text": "ξέρω",
+            "translations": [
+                "I have known",
+                "I know",
+                "know"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/dfbc436ea37769b48c596363cdbebd7f",
+            "isNew": false
+        },
+        {
+            "text": "αγγίζω",
+            "translations": [
+                "touch"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/3ce417aa5b39e3c3e950811af033f7bf",
+            "isNew": false
+        },
+        {
+            "text": "χορεύω",
+            "translations": [
+                "I dance",
+                "dance"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9666c9429eb58675ee52b9a110feef9b",
+            "isNew": false
+        },
+        {
+            "text": "πηγαίνει",
+            "translations": [
+                "takes",
+                "does go",
+                "is going",
+                "goes",
+                "is taking",
+                "go to",
+                "go"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/3f59e94d197d32fc809c4099fe4bca78",
+            "isNew": false
+        },
+        {
+            "text": "αρέσει",
+            "translations": [
+                "like",
+                "likes",
+                "liking",
+                "dislikes"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a6cd1c425ad8a16ff0a26b567cf84903",
+            "isNew": false
+        },
+        {
+            "text": "πληρώνει",
+            "translations": [
+                "pays for",
+                "pays",
+                "is paying",
+                "does he pay?"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5829c15e71883428eef136b8920836d3",
+            "isNew": false
+        },
+        {
+            "text": "παίζω",
+            "translations": [
+                "play"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/73dae3402ff48336b29792059a47511b",
+            "isNew": false
+        },
+        {
+            "text": "πηγαίνω",
+            "translations": [
+                "go",
+                "I go",
+                "I am going",
+                "everywhere"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/cceaba2a6fa8d5c03f615fe6a495cb93",
+            "isNew": false
+        },
+        {
+            "text": "τραγουδώ",
+            "translations": [
+                "I sing",
+                "sing",
+                "I am singing",
+                "singing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8d10df28263f6da9c3e32e22ad609f9d",
+            "isNew": false
+        },
+        {
+            "text": "πληρώνω",
+            "translations": [
+                "pay",
+                "I am paying",
+                "paying",
+                "pay for"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ccc8ff853a33fecc4db373a257a4e32a",
+            "isNew": false
+        },
+        {
+            "text": "θέλει",
+            "translations": [
+                "wants",
+                "want",
+                "requires",
+                "needs",
+                "it wants",
+                "she wants",
+                "he wants",
+                "desires"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4db537f7b4aa33c4e76850ee882b12d9",
+            "isNew": false
+        },
+        {
+            "text": "τώρα",
+            "translations": [
+                "now"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a1f1b3c336a8a7bb626ecd9bdfacd843",
+            "isNew": false
+        },
+        {
+            "text": "θέλω",
+            "translations": [
+                "I want",
+                "I want to",
+                "want"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/02bf921ba3ad189762f6d6052bb47189",
+            "isNew": false
+        },
+        {
+            "text": "αφήνω",
+            "translations": [
+                "I leave",
+                "I let",
+                "I let go of",
+                "let",
+                "leave",
+                "I am leaving"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/13569a100a2c6f18658f24a00c719862",
+            "isNew": false
+        },
+        {
+            "text": "αγοράζω",
+            "translations": [
+                "buying",
+                "to buy",
+                "I buy"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6379016838c335536d7e256c4f280eca",
+            "isNew": false
+        },
+        {
+            "text": "μαγειρεύω",
+            "translations": [
+                "cook",
+                "I am cooking",
+                "I cook"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/84b9570ed13b118b2a562e4b2337853e",
+            "isNew": false
+        },
+        {
+            "text": "τρέχω",
+            "translations": [
+                "I run",
+                "run",
+                "I am running",
+                "jog"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/bfe8e2bc6a869b821369f811730c6bcd",
+            "isNew": false
+        },
+        {
+            "text": "τρέχει",
+            "translations": [
+                "run",
+                "jogs",
+                "is running",
+                "runs",
+                "does she run",
+                "when does he run",
+                "jog"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/517c055d8bd437ce46279c6c30b1aa49",
+            "isNew": false
+        },
+        {
+            "text": "περπατώ",
+            "translations": [
+                "walk",
+                "to walk",
+                "I walk"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6a0b8a0390e5ab061350af94b72e1a45",
+            "isNew": false
+        },
+        {
+            "text": "κολυμπώ",
+            "translations": [
+                "swim",
+                "(I) swim",
+                "(I am) swimming",
+                "I swim"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/38209cc672a894d29ad33c2160ec628b",
+            "isNew": false
+        },
+        {
+            "text": "γράφω",
+            "translations": [
+                "(I) write",
+                "write",
+                "(I am) writing",
+                "spell"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d1de4cb31e67421fd64afce1e2d2a684",
+            "isNew": false
+        },
+        {
+            "text": "υπάρχω",
+            "translations": [
+                "I am",
+                "I exist"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/65227dbfe296a02006fff520406c94d5",
+            "isNew": false
+        },
+        {
+            "text": "μπορώ",
+            "translations": [
+                "I can",
+                "can",
+                "I am able",
+                "may",
+                "can I",
+                "am"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/543bdde885b866a975184049c5659799",
+            "isNew": false
+        },
+        {
+            "text": "βλέπω",
+            "translations": [
+                "I watch",
+                "watching",
+                "I am watching",
+                "I see",
+                "see",
+                "looking",
+                "seeing",
+                "watch"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/0db056d2f0f1eeccea930642c135f8a2",
+            "isNew": false
+        },
+        {
+            "text": "σκύλους",
+            "translations": [
+                "dogs"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/813ae4c61432512dae401a1ab49a4f9f",
+            "isNew": false
+        },
+        {
+            "text": "πίθηκο",
+            "translations": [
+                "ape"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c2fa1935d60ef37a605e364e65ef10d8",
+            "isNew": false
+        },
+        {
+            "text": "αυτόν",
+            "translations": [
+                "him",
+                "this",
+                "this guy"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ca0bc4ee958ba2a1c94ee0f8fa93f7d2",
+            "isNew": false
+        },
+        {
+            "text": "ποιον",
+            "translations": [
+                "who",
+                "Whom do they",
+                "whom",
+                "which",
+                "who did he go out with"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/7c1e09608621b16e6fa3d70b7316613e",
+            "isNew": false
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 638,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 200,
+        "nextStartIndex": 300
+    }
+}

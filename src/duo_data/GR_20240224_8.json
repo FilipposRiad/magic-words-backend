@@ -1,0 +1,443 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "γλυκά",
+            "translations": [
+                "sweet (adj. neut. plural)",
+                "sweets",
+                "sweetest"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1c14f5027495d1695f122bebaebebeb2",
+            "isNew": false
+        },
+        {
+            "text": "γάντια",
+            "translations": [
+                "gloves"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/053124abd80a7a220da442213b922d5e",
+            "isNew": false
+        },
+        {
+            "text": "σοκολάτες",
+            "translations": [
+                "chocolates"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f20a67e7b312e88f721ca0b9a5043905",
+            "isNew": false
+        },
+        {
+            "text": "πουκάμισα",
+            "translations": [
+                "shirts (n)(nom/acc)"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/7f1456d00121d9db4939576b9b460e30",
+            "isNew": false
+        },
+        {
+            "text": "φούστες",
+            "translations": [
+                "skirts"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/05b9788955855008859b28e2481e8ae8",
+            "isNew": false
+        },
+        {
+            "text": "καπέλα",
+            "translations": [
+                "hats",
+                "caps"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/79d41095e8cb4472e35f91d92a20936e",
+            "isNew": false
+        },
+        {
+            "text": "αυγά",
+            "translations": [
+                "eggs"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/987aaca2a9660d9283fc597b567c6848",
+            "isNew": false
+        },
+        {
+            "text": "ζώα",
+            "translations": [
+                "animals"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b5d4cfa69d1addfd9371e00a7c4ce5b2",
+            "isNew": false
+        },
+        {
+            "text": "παππούδες",
+            "translations": [
+                "grandparents",
+                "grandfathers"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4e064a650f80d310cc8761e9c1870903",
+            "isNew": false
+        },
+        {
+            "text": "μπισκότα",
+            "translations": [
+                "cookies",
+                "biscuits"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e14737160433c326ade422f92a875f5e",
+            "isNew": false
+        },
+        {
+            "text": "πιάτα",
+            "translations": [
+                "plates",
+                "dishes",
+                "the plates"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d02652d906a6f59a98d6403a4316c132",
+            "isNew": false
+        },
+        {
+            "text": "πουλιά",
+            "translations": [
+                "birds"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/bd34b34e94cce6937f519d77ddef6ad6",
+            "isNew": false
+        },
+        {
+            "text": "χελώνες",
+            "translations": [
+                "turtles",
+                "tortoises",
+                "are the turtles"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1d89dd39ebb01e5ef723eea601c2c374",
+            "isNew": false
+        },
+        {
+            "text": "φίλοι",
+            "translations": [
+                "friends"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/99614c200ff021f9e8f555ee74bf7f49",
+            "isNew": false
+        },
+        {
+            "text": "πάπιες",
+            "translations": [
+                "ducks",
+                "duck"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/667195d8a9c31f0ec7515a3dbd973d79",
+            "isNew": false
+        },
+        {
+            "text": "άλογα",
+            "translations": [
+                "horses",
+                "horse meat"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/96e446953939986e3576c668665fde77",
+            "isNew": false
+        },
+        {
+            "text": "γάτες",
+            "translations": [
+                "cats"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/cae45efeae1f8a1e995af47dabc5b9ef",
+            "isNew": false
+        },
+        {
+            "text": "σκύλοι",
+            "translations": [
+                "dogs"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/de029a9f35a727d4657d03627c352447",
+            "isNew": false
+        },
+        {
+            "text": "ελέφαντες",
+            "translations": [
+                "elephants"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/fc413b3530f59d05935e6e7f751370cb",
+            "isNew": false
+        },
+        {
+            "text": "εφημερίδες",
+            "translations": [
+                "newspapers",
+                "papers"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9167f0e36a79a45513d246f436e30700",
+            "isNew": false
+        },
+        {
+            "text": "βιβλία",
+            "translations": [
+                "books"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/95b58aa55f0ab3f2971b640a4d76710b",
+            "isNew": false
+        },
+        {
+            "text": "μήλα",
+            "translations": [
+                "apples",
+                "dodgeball"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/41341e81fe3f0d05cb247fde6dcb74e1",
+            "isNew": false
+        },
+        {
+            "text": "ζέβρα",
+            "translations": [
+                "zebra"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8f205424187e9708875c91e3cc2a8974",
+            "isNew": false
+        },
+        {
+            "text": "τίγρης",
+            "translations": [
+                "tiger"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/90ab67cc10ae5e8b2861832afdc6e1c0",
+            "isNew": false
+        },
+        {
+            "text": "ερπετό",
+            "translations": [
+                "reptile",
+                "a reptile",
+                "crawler"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a7a3f3bd8cf347c96be0d4b8003465c3",
+            "isNew": false
+        },
+        {
+            "text": "λύκος",
+            "translations": [
+                "wolf"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6b6a39e8bef74adb73cfc63522c4c837",
+            "isNew": false
+        },
+        {
+            "text": "αλεπού",
+            "translations": [
+                "fox"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8a468b3b20f70f857e512dcfc6f8a746",
+            "isNew": false
+        },
+        {
+            "text": "λαγός",
+            "translations": [
+                "hare",
+                "jack rabbit"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6016c502fbc5782777c0fa75fc7b488a",
+            "isNew": false
+        },
+        {
+            "text": "φίδι",
+            "translations": [
+                "snake",
+                "serpent",
+                "a snake"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c8b426dab438329415e9fb730742cb31",
+            "isNew": false
+        },
+        {
+            "text": "λιοντάρι",
+            "translations": [
+                "lion"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8f6b6558010e9270169fb1c353dfae54",
+            "isNew": false
+        },
+        {
+            "text": "θηλαστικό",
+            "translations": [
+                "mammal",
+                "a mammal"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a8d2a5b3830345a2b956f643d5ff88da",
+            "isNew": false
+        },
+        {
+            "text": "χάμστερ",
+            "translations": [
+                "hamster",
+                "hamsters"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/bd0068e88edebe4fbe60104b8a6587f3",
+            "isNew": false
+        },
+        {
+            "text": "κότα",
+            "translations": [
+                "chicken",
+                "hen"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d5ef279a28102432fff2ce074685c9fa",
+            "isNew": false
+        },
+        {
+            "text": "έντομο",
+            "translations": [
+                "insect",
+                "bug",
+                "an insect"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/46e0176cc17ba7ff8e94a658b2052015",
+            "isNew": false
+        },
+        {
+            "text": "πεταλούδα",
+            "translations": [
+                "butterfly"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/48db5aed0e4d0eee06e3c81dab65cadd",
+            "isNew": false
+        },
+        {
+            "text": "καμηλοπάρδαλη",
+            "translations": [
+                "giraffe"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6b90949dc0950781b3984ffcd4644e70",
+            "isNew": false
+        },
+        {
+            "text": "αετός",
+            "translations": [
+                "eagle"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5a6ad5850a9fe0679fcefe74aff00250",
+            "isNew": false
+        },
+        {
+            "text": "καμήλα",
+            "translations": [
+                "camel"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e11c014c35deb430b1193f571d6273db",
+            "isNew": false
+        },
+        {
+            "text": "πίθηκος",
+            "translations": [
+                "ape",
+                "monkey"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/3f85262a287f32d0de71713a6fd60418",
+            "isNew": false
+        },
+        {
+            "text": "αράχνη",
+            "translations": [
+                "spider",
+                "a spider"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/08378e8474e16d943b16855824a3716c",
+            "isNew": false
+        },
+        {
+            "text": "ποντίκι",
+            "translations": [
+                "mouse",
+                "a mouse"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/7e10f03141b53eba1f738b9c2d2b9bbb",
+            "isNew": false
+        },
+        {
+            "text": "πελεκάνος",
+            "translations": [
+                "pelican"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e8655e3bd8f296528b1a61cb0ef0b5a4",
+            "isNew": false
+        },
+        {
+            "text": "καβούρι",
+            "translations": [
+                "crab"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/021de02c0c86457d10d15a5bbdff66fc",
+            "isNew": false
+        },
+        {
+            "text": "κατοικίδιο",
+            "translations": [
+                "pet",
+                "a pet"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f6160fd8c4e2ffa97fea7f3291dd303b",
+            "isNew": false
+        },
+        {
+            "text": "ζώο",
+            "translations": [
+                "animal",
+                "an animal"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a60696c8690bcc00ebc59cdd89605807",
+            "isNew": false
+        },
+        {
+            "text": "αρκούδα",
+            "translations": [
+                "bear"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8e430f6d33a178fa722b384eb73a65a1",
+            "isNew": false
+        },
+        {
+            "text": "κουτάβι",
+            "translations": [
+                "puppy",
+                "pup"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/30983626e2247d5888639b1bf3a69ee6",
+            "isNew": false
+        },
+        {
+            "text": "σκύλος",
+            "translations": [
+                "dog",
+                "a dog"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/219511dad49d5d0cc27affeb93a88a1d",
+            "isNew": false
+        },
+        {
+            "text": "ελέφαντας",
+            "translations": [
+                "elephant"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f43bd365dcdff5c095e8f99f9809541a",
+            "isNew": false
+        },
+        {
+            "text": "χελώνα",
+            "translations": [
+                "turtle",
+                "tortoise",
+                "a turtle"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4caa1565e6c06f919e06f840bd5f2be7",
+            "isNew": false
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 638,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 300,
+        "nextStartIndex": 400
+    }
+}

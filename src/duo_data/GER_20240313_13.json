@@ -1,0 +1,546 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "Englisch",
+            "translations": [
+                "English"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/48097f1b90bbc1edd7d0ff6906e4c43b",
+            "isNew": true
+        },
+        {
+            "text": "kein",
+            "translations": [
+                "any",
+                "no",
+                "not an",
+                "don't",
+                "not a",
+                "not any",
+                "does not",
+                "not",
+                "doesn't",
+                "n't"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6f0d8d86f4911e05a7db757a8553b2ff",
+            "isNew": true
+        },
+        {
+            "text": "freut mich",
+            "translations": [
+                "nice to meet you",
+                "nice"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/bc425b5860656a6711ebb6e5596c5815",
+            "isNew": true
+        },
+        {
+            "text": "wie",
+            "translations": [
+                "as",
+                "such",
+                "like",
+                "how do",
+                "what",
+                "how",
+                "such as"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/aeba210f837b8b6c880fccb6138f0320",
+            "isNew": true
+        },
+        {
+            "text": "heiße",
+            "translations": [
+                "hot",
+                "am called"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4209e99af5c824ae86d7a2ab80d9e33f",
+            "isNew": true
+        },
+        {
+            "text": "heißen",
+            "translations": [
+                "hot",
+                "name",
+                "go",
+                "tell",
+                "are called",
+                "call",
+                "are the names of",
+                "called",
+                "names"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c334ddf83de6a97c11e4aaa7921d136f",
+            "isNew": true
+        },
+        {
+            "text": "kommen",
+            "translations": [
+                "arrives",
+                "comes on",
+                "do come",
+                "get",
+                "arrive",
+                "come on",
+                "come",
+                "coming",
+                "are coming",
+                "are",
+                "went",
+                "comes"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f908b2a5ebffbc97bed5972675bec3b9",
+            "isNew": true
+        },
+        {
+            "text": "sind",
+            "translations": [
+                "feel",
+                "have",
+                "are",
+                "have been",
+                "are being",
+                "are there",
+                "is",
+                "being",
+                "were",
+                "been",
+                "did"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fb2f7203a6f5eec795ad5aa63219fbc8",
+            "isNew": true
+        },
+        {
+            "text": "Herr",
+            "translations": [
+                "Mr.",
+                "gentleman"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c1af8d590d3e5e966870b84be7e0bc7b",
+            "isNew": true
+        },
+        {
+            "text": "Sie",
+            "translations": [
+                "They",
+                "It",
+                "your",
+                "you're",
+                "She's",
+                "She",
+                "you'll",
+                "you"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/20155d2cfe36254433d9b82ca8be7976",
+            "isNew": true
+        },
+        {
+            "text": "Kanzlerin",
+            "translations": [
+                "chancellor",
+                "the chancellor",
+                "a chancellor"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9cdab022160554f507950636fc92217f",
+            "isNew": true
+        },
+        {
+            "text": "U-Bahnstation",
+            "translations": [
+                "subway station"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fc17d797c01dc169d8bb8d348e634a60",
+            "isNew": true
+        },
+        {
+            "text": "Geldautomat",
+            "translations": [
+                "ATM",
+                "cash dispenser",
+                "cashpoint",
+                "bank machine",
+                "cash machine"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c23f90e7b05db744a7f6909aee0370dc",
+            "isNew": true
+        },
+        {
+            "text": "neu",
+            "translations": [
+                "new"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/16a182a1ba061ba1b9347e8c5bd34f48",
+            "isNew": true
+        },
+        {
+            "text": "weit weg",
+            "translations": [
+                "far away",
+                "far"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d45ab38039dff0efabff3846103b4336",
+            "isNew": true
+        },
+        {
+            "text": "je",
+            "translations": [
+                "for each",
+                "per",
+                "once",
+                "ever",
+                "the"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5fd2c8b3211411cd22c82bab8f7d9232",
+            "isNew": true
+        },
+        {
+            "text": "Universität",
+            "translations": [
+                "university",
+                "uni",
+                "college"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/714e1fb46a711f9b8faded7681662440",
+            "isNew": true
+        },
+        {
+            "text": "Kino",
+            "translations": [
+                "movie theater",
+                "cinema",
+                "movie theatre",
+                "movie house",
+                "theater",
+                "theatre",
+                "cinema hall"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/282cbef2c0ca1a2d8a27ea8831567631",
+            "isNew": true
+        },
+        {
+            "text": "rechts",
+            "translations": [
+                "on the right",
+                "right",
+                "the right",
+                "to the right",
+                "on the right side",
+                "on the right-hand side"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4bc44ee5159375a72b4d7134df84b6d3",
+            "isNew": true
+        },
+        {
+            "text": "links",
+            "translations": [
+                "on the left",
+                "left",
+                "to the left",
+                "on the left side",
+                "on the left-hand side"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/83ae4339460118e173720cbc74ac7e52",
+            "isNew": true
+        },
+        {
+            "text": "Bäckerei",
+            "translations": [
+                "bakery",
+                "baker's"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8b0b0a296f8abac532e8d2fcadfd7a3b",
+            "isNew": true
+        },
+        {
+            "text": "Supermarkt",
+            "translations": [
+                "supermarket",
+                "grocery store"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c012f90565bdc2fc9dfda91b75c42c6c",
+            "isNew": true
+        },
+        {
+            "text": "ha",
+            "translations": [
+                "ha"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/720deb70ffb0268c3e858b6c3a9c1124",
+            "isNew": true
+        },
+        {
+            "text": "Museum",
+            "translations": [
+                "museum"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a9a5806b915b0367fd8c24f2222650ac",
+            "isNew": true
+        },
+        {
+            "text": "Hotel",
+            "translations": [
+                "hotel"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d018721eb0a32e3d5e50c59044db142f",
+            "isNew": true
+        },
+        {
+            "text": "billig",
+            "translations": [
+                "cheap",
+                "inexpensive"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3f9cce745f9680fcab17b0fcca901311",
+            "isNew": true
+        },
+        {
+            "text": "elegant",
+            "translations": [
+                "elegant"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/888d515c6e3618d8ac80ac42396a6cf7",
+            "isNew": true
+        },
+        {
+            "text": "Café",
+            "translations": [
+                "coffee shop",
+                "cafe",
+                "coffeehouse",
+                "café",
+                "coffee bar"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b15b9d554bf03ebae95fddedeb3060d2",
+            "isNew": true
+        },
+        {
+            "text": "alt",
+            "translations": [
+                "old"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/354a3b1b767efaf217332362782cdc97",
+            "isNew": true
+        },
+        {
+            "text": "in der Nähe",
+            "translations": [
+                "close",
+                "nearby",
+                "near"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ed9dcb099e43ef826348329879dd8ad7",
+            "isNew": true
+        },
+        {
+            "text": "Kirche",
+            "translations": [
+                "church",
+                "kirk"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/469470f3db0e3616b8ae31ff4e4d153a",
+            "isNew": true
+        },
+        {
+            "text": "Apotheke",
+            "translations": [
+                "pharmacy",
+                "drugstore",
+                "chemist",
+                "chemist's"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/513f01be81db7bfc00055874c874871b",
+            "isNew": true
+        },
+        {
+            "text": "Bibliothek",
+            "translations": [
+                "library"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/23907c5dd690a7bc1ede7cbaa01af4ce",
+            "isNew": true
+        },
+        {
+            "text": "Bahnhof",
+            "translations": [
+                "train station",
+                "railway station",
+                "rail station"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/43ecb8f93e5c66fdb834d20772416887",
+            "isNew": true
+        },
+        {
+            "text": "Markt",
+            "translations": [
+                "market",
+                "marketplace"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/107c11357403906ccdee35e405a0436a",
+            "isNew": true
+        },
+        {
+            "text": "da drüben",
+            "translations": [
+                "over there"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/79bf6ffb26370869ab9e79f3f569fa55",
+            "isNew": true
+        },
+        {
+            "text": "Park",
+            "translations": [
+                "park"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e4e598f8a7a442560e387905f0399449",
+            "isNew": true
+        },
+        {
+            "text": "Taxistand",
+            "translations": [
+                "taxi stand"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f5db5cd7e7b746446d25d2e18b6dad50",
+            "isNew": true
+        },
+        {
+            "text": "Klavier",
+            "translations": [
+                "piano"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7289816275126dadb3f161e1912fd521",
+            "isNew": true
+        },
+        {
+            "text": "spiele",
+            "translations": [
+                "am playing",
+                "play",
+                "playing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/74edba6c3e858041968745e205923b6a",
+            "isNew": true
+        },
+        {
+            "text": "spielst",
+            "translations": [
+                "are playing",
+                "playing",
+                "play",
+                "do play",
+                "are"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/36db330f06cd35149cd400f5db574ee6",
+            "isNew": true
+        },
+        {
+            "text": "Schach",
+            "translations": [
+                "chess"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/cb22468dc9b3017d4a021a292b6c7b1c",
+            "isNew": true
+        },
+        {
+            "text": "spielt",
+            "translations": [
+                "is",
+                "are playing",
+                "is playing",
+                "play",
+                "plays",
+                "playing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/08026542c01e5eae20115b0e860b7d45",
+            "isNew": true
+        },
+        {
+            "text": "oft",
+            "translations": [
+                "often"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f975fc67440f6feba5fae2cbc5f9cd3b",
+            "isNew": true
+        },
+        {
+            "text": "schwimmt",
+            "translations": [
+                "swim",
+                "is swimming",
+                "are floating",
+                "floats",
+                "float",
+                "swims",
+                "are swimming",
+                "swimming"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/43b7dd80c4530c473270dc56b23c9690",
+            "isNew": true
+        },
+        {
+            "text": "malt",
+            "translations": [
+                "is drawing",
+                "paints",
+                "draws",
+                "draw",
+                "paint",
+                "is painting"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a94efcee6f2145f6712acdebc17cca2f",
+            "isNew": true
+        },
+        {
+            "text": "kocht",
+            "translations": [
+                "make",
+                "cooks",
+                "is cooking",
+                "cook",
+                "cooking"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7067d319a44027e9856ab39522fb6fa3",
+            "isNew": true
+        },
+        {
+            "text": "immer",
+            "translations": [
+                "always"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/662163ffc0b1561a79474d202ff3deae",
+            "isNew": true
+        },
+        {
+            "text": "schwimmst",
+            "translations": [
+                "swim",
+                "are floating",
+                "float",
+                "are swimming"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/69dc9876f03a601ef0a5e6a181b66f6e",
+            "isNew": true
+        },
+        {
+            "text": "kochst",
+            "translations": [
+                "are boiling",
+                "make",
+                "boil",
+                "cooking",
+                "are making",
+                "are cooking",
+                "do the cooking",
+                "cook"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0e6e0bb487de5df849c51f6d88632f9d",
+            "isNew": true
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 741,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 500,
+        "nextStartIndex": 600
+    }
+}

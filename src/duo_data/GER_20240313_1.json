@@ -1,0 +1,484 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "kaputt",
+            "translations": [
+                "broken",
+                "broken down",
+                "busted",
+                "ruined",
+                "wrecked",
+                "kaput",
+                "defective",
+                "out of order"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7188bb33a9d301fc2b23fdb23cc75d09",
+            "isNew": true
+        },
+        {
+            "text": "Fenster",
+            "translations": [
+                "window"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/63b334530111c8320196fee0ec2b73a9",
+            "isNew": true
+        },
+        {
+            "text": "Internet",
+            "translations": [
+                "internet"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3216bcd86616736c87801391d946e311",
+            "isNew": true
+        },
+        {
+            "text": "Tür",
+            "translations": [
+                "door",
+                "doorway"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/80b8b206125dd1230295f67410a149f3",
+            "isNew": true
+        },
+        {
+            "text": "Dusche",
+            "translations": [
+                "shower"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e55bb6f7f9b7ea5912ddc67defac6d84",
+            "isNew": true
+        },
+        {
+            "text": "funktioniert",
+            "translations": [
+                "work",
+                "works",
+                "is working",
+                "worked",
+                "working"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/314130b49b883f168ddf4b6018414fa7",
+            "isNew": true
+        },
+        {
+            "text": "Frühstück",
+            "translations": [
+                "breakfast"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a772be7c841c3d2d1a977ef451d889b8",
+            "isNew": true
+        },
+        {
+            "text": "Sessel",
+            "translations": [
+                "armchair",
+                "reclining chair",
+                "easy chair"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a222a108ceb6d690907003c895e5d6f7",
+            "isNew": true
+        },
+        {
+            "text": "Rezeption",
+            "translations": [
+                "reception desk",
+                "reception"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b51a807851f8f1ea509f37a3cbe2994a",
+            "isNew": true
+        },
+        {
+            "text": "Fernseher",
+            "translations": [
+                "TV",
+                "TV set",
+                "television"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5d04256dd3cc8277057685d14ba4b53d",
+            "isNew": true
+        },
+        {
+            "text": "ruhig",
+            "translations": [
+                "quiet",
+                "peaceful",
+                "still",
+                "serene",
+                "tranquil"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3d52db6f01b0e112b8785fd7e5bf48c7",
+            "isNew": true
+        },
+        {
+            "text": "Fitnessstudio",
+            "translations": [
+                "gym",
+                "health club",
+                "exercise centre",
+                "exercize center"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d9e8885c57f612ed6a2e175780865929",
+            "isNew": true
+        },
+        {
+            "text": "Balkon",
+            "translations": [
+                "balcony"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3ad916e00439e1ecfd0eb91e85891ec8",
+            "isNew": true
+        },
+        {
+            "text": "Buchladen",
+            "translations": [
+                "bookstore",
+                "bookshop"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c2b7b0da25f74f8a6979ccecb0a4e976",
+            "isNew": true
+        },
+        {
+            "text": "gibt es",
+            "translations": [
+                "is",
+                "there are",
+                "is there",
+                "are there",
+                "there is",
+                "there's",
+                "come"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8bb38fdd4ded0b4376d5bba0a32ccc30",
+            "isNew": true
+        },
+        {
+            "text": "Flughafen",
+            "translations": [
+                "airport"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/53750fe0994a8046ba13b30d62907f5d",
+            "isNew": true
+        },
+        {
+            "text": "Strand",
+            "translations": [
+                "beach",
+                "shore"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/cdaae0db7496ee2d1d2845d0db3cfa5b",
+            "isNew": true
+        },
+        {
+            "text": "Bar",
+            "translations": [
+                "bar"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6761ebeffeadd95263cacd3602f46860",
+            "isNew": true
+        },
+        {
+            "text": "Ausflug",
+            "translations": [
+                "excursion"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9516c55335c82a89340e70d86b67722d",
+            "isNew": true
+        },
+        {
+            "text": "Schlüssel",
+            "translations": [
+                "key"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b6210897c8ac267bf433d3bfaab3812e",
+            "isNew": true
+        },
+        {
+            "text": "Zimmer",
+            "translations": [
+                "room"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/de918b6883ff66194c5f7346152a14ae",
+            "isNew": true
+        },
+        {
+            "text": "willkommen",
+            "translations": [
+                "welcome"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/590eec8692b1170720a70753928a5eeb",
+            "isNew": true
+        },
+        {
+            "text": "Ihren",
+            "translations": [
+                "It",
+                "your",
+                "yours",
+                "Their",
+                "Its",
+                "you",
+                "Her",
+                "Hers",
+                "Theirs"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b478d1b44a66729d5483a572b5c4e190",
+            "isNew": true
+        },
+        {
+            "text": "Pass",
+            "translations": [
+                "passport"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/790248d4e667c4e94b65b37f0c8b97f7",
+            "isNew": true
+        },
+        {
+            "text": "nehme",
+            "translations": [
+                "will have",
+                "participate",
+                "take",
+                "am participating",
+                "am taking",
+                "will take",
+                "use",
+                "am recording",
+                "taking"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e60ebec3193a82cd4b2ce4ee1cd06ccd",
+            "isNew": true
+        },
+        {
+            "text": "Einzelzimmer",
+            "translations": [
+                "single room"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3dfca2317790625660a9f0781c0e4543",
+            "isNew": true
+        },
+        {
+            "text": "Nacht",
+            "translations": [
+                "night"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fe43dc6f3a3f7632f7f0464d5ce4620c",
+            "isNew": true
+        },
+        {
+            "text": "Doppelzimmer",
+            "translations": [
+                "double room"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/74cd1b993f60e312fda67c88fd81f7a0",
+            "isNew": true
+        },
+        {
+            "text": "hundert",
+            "translations": [
+                "one hundred"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d18f63099347c616f107a8c545be62e8",
+            "isNew": true
+        },
+        {
+            "text": "Nächte",
+            "translations": [
+                "nights"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/96b3ced28e28c6232003853604835a30",
+            "isNew": true
+        },
+        {
+            "text": "rot",
+            "translations": [
+                "red"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/dbefb51009b1ad18201259c3ef4512ff",
+            "isNew": true
+        },
+        {
+            "text": "Bild",
+            "translations": [
+                "painting",
+                "picture",
+                "photo",
+                "photograph"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5a4ff819052e6ae26e53297cdbc3ad76",
+            "isNew": true
+        },
+        {
+            "text": "Kopfkissen",
+            "translations": [
+                "pillow"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/50b35d4ed8b29103d69a8d724a8f5063",
+            "isNew": true
+        },
+        {
+            "text": "weich",
+            "translations": [
+                "soft",
+                "squishy"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6ec81876db3f5e8455a6296155366434",
+            "isNew": true
+        },
+        {
+            "text": "Pflanzen",
+            "translations": [
+                "plants"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/57d3296efac669de066927323a859d4f",
+            "isNew": true
+        },
+        {
+            "text": "Bettdecke",
+            "translations": [
+                "bedspread",
+                "blanket",
+                "bed blanket",
+                "quilt",
+                "duvet",
+                "comforter"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a3e9d282d7828c89ed2d66d269850f7b",
+            "isNew": true
+        },
+        {
+            "text": "Esszimmer",
+            "translations": [
+                "dining room"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0ca6b83612e080abcd978a13e3a3d010",
+            "isNew": true
+        },
+        {
+            "text": "Stühle",
+            "translations": [
+                "chairs"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8523651d612f1cdc0b7be8acc6aa038c",
+            "isNew": true
+        },
+        {
+            "text": "Küche",
+            "translations": [
+                "kitchen"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/cafdc4f7fb76b5a5f10da176d243b133",
+            "isNew": true
+        },
+        {
+            "text": "schmutzig",
+            "translations": [
+                "dirty",
+                "filthy",
+                "grimy"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/336015d4c21c383e5c9452a737eae0db",
+            "isNew": true
+        },
+        {
+            "text": "Kühlschrank",
+            "translations": [
+                "refrigerator",
+                "fridge",
+                "fridge freezer",
+                "icebox"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3b02e4f12d96e9f80bfa3c08f9acd806",
+            "isNew": true
+        },
+        {
+            "text": "Mikrowelle",
+            "translations": [
+                "microwave",
+                "microwave oven"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b0a5990988269ff818608efc6b88817e",
+            "isNew": true
+        },
+        {
+            "text": "Bücher",
+            "translations": [
+                "books"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/244bd13e3b05d20436013634eb4a90ec",
+            "isNew": true
+        },
+        {
+            "text": "Kaffeetisch",
+            "translations": [
+                "coffee table"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d6251e32a11d12968ba00e6393c4b72f",
+            "isNew": true
+        },
+        {
+            "text": "Regal",
+            "translations": [
+                "shelf",
+                "rack",
+                "shelving",
+                "shelves"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f01ae8bf133126d507a3fb76c430527c",
+            "isNew": true
+        },
+        {
+            "text": "Wohnzimmer",
+            "translations": [
+                "living room",
+                "lounge",
+                "sitting room",
+                "family room",
+                "front room",
+                "parlour",
+                "parlor"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2fe2eb47540b28a58e59c7e9bdc561df",
+            "isNew": true
+        },
+        {
+            "text": "Sofa",
+            "translations": [
+                "sofa"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f844d6bf38873a513982dba9c67e1399",
+            "isNew": true
+        },
+        {
+            "text": "Blumen",
+            "translations": [
+                "flowers"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0f39431054e2caf97a8bb17d6f2ddcbf",
+            "isNew": true
+        },
+        {
+            "text": "Vase",
+            "translations": [
+                "vase"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a34e0711b765ce88f653f23fc0b7dbd0",
+            "isNew": true
+        },
+        {
+            "text": "Nachbar",
+            "translations": [
+                "neighbor",
+                "neighbour"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7cd0e05e6f3039c6d77ef6b362030c56",
+            "isNew": true
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 741,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": null,
+        "nextStartIndex": 50
+    }
+}

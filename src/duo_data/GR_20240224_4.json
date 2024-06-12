@@ -1,0 +1,456 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "δώδεκα",
+            "translations": [
+                "twelve"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/00a2127aba32ba3a8cf9d3b98b2b0de1",
+            "isNew": false
+        },
+        {
+            "text": "δεκαπέντε",
+            "translations": [
+                "fifteen"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/c05f8c9769c8c676ea0b20f36d5eff2d",
+            "isNew": false
+        },
+        {
+            "text": "δεκαοκτώ",
+            "translations": [
+                "eighteen"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/15e8303ba3ea44f842b21292b1990dff",
+            "isNew": false
+        },
+        {
+            "text": "δεκατέσσερα",
+            "translations": [
+                "fourteen"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ed096652049d5c3bae8a1c1558bf9b61",
+            "isNew": false
+        },
+        {
+            "text": "έντεκα",
+            "translations": [
+                "eleven"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/0c064ca659ac8b786029fd5a74ead1e9",
+            "isNew": false
+        },
+        {
+            "text": "δεκαέξι",
+            "translations": [
+                "sixteen"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/70844cbbdaf81b63c784f156c9ef9486",
+            "isNew": false
+        },
+        {
+            "text": "δεκατρία",
+            "translations": [
+                "thirteen"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/cf5189fadef84c55bbd8acc5104a7ddf",
+            "isNew": false
+        },
+        {
+            "text": "δεκαεφτά",
+            "translations": [
+                "seventeen"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ab0b592650440144ee6228395a347403",
+            "isNew": false
+        },
+        {
+            "text": "δέκα",
+            "translations": [
+                "ten"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5fb57e467f1c39452a327b3da96c9946",
+            "isNew": false
+        },
+        {
+            "text": "δύο",
+            "translations": [
+                "two"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ce4c768caac7894a1f07d554f940127c",
+            "isNew": false
+        },
+        {
+            "text": "επτά",
+            "translations": [
+                "seven"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4ff77e0c8a379425ff7697b1b10cf043",
+            "isNew": false
+        },
+        {
+            "text": "τρία",
+            "translations": [
+                "three"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/7bdb284a4d2fb959365dbceef7263324",
+            "isNew": false
+        },
+        {
+            "text": "έξι",
+            "translations": [
+                "six"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/d9fb61a791d3b007430940eb242b258b",
+            "isNew": false
+        },
+        {
+            "text": "εννέα",
+            "translations": [
+                "nine"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f7cdbfa3de4f05261ac22df8d935ba10",
+            "isNew": false
+        },
+        {
+            "text": "οκτώ",
+            "translations": [
+                "eight"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/32920caacdda808b0ac74d68e022a57f",
+            "isNew": false
+        },
+        {
+            "text": "τέσσερα",
+            "translations": [
+                "four"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5ac48b18efd3ab56e573129588c7fe6a",
+            "isNew": false
+        },
+        {
+            "text": "πέντε",
+            "translations": [
+                "five"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/02b0622c0d01f7582e61a6c091326efa",
+            "isNew": false
+        },
+        {
+            "text": "κοντά",
+            "translations": [
+                "nearby",
+                "close to"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5d1c93511b05e716c123bb9269b05113",
+            "isNew": false
+        },
+        {
+            "text": "εκτός",
+            "translations": [
+                "except"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/e507eb116156d934da56cd04f1dc29d3",
+            "isNew": false
+        },
+        {
+            "text": "λόγω",
+            "translations": [
+                "because (of)",
+                "due to",
+                "because of"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1430091c93daf3ea5bb8476455b9423e",
+            "isNew": false
+        },
+        {
+            "text": "κατά",
+            "translations": [
+                "according",
+                "against",
+                "by",
+                "cons"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/901bab2bae5e6134c9b5fe5a02bcb30c",
+            "isNew": false
+        },
+        {
+            "text": "προς",
+            "translations": [
+                "towards",
+                "to"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9def70783d603cac25f130e8fe7daa31",
+            "isNew": false
+        },
+        {
+            "text": "αντί",
+            "translations": [
+                "instead"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/94da46659466bebd5ad07934a41d49f7",
+            "isNew": false
+        },
+        {
+            "text": "μεταξύ",
+            "translations": [
+                "between"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/de45caf82cdf2480be7e7065f8a288e9",
+            "isNew": false
+        },
+        {
+            "text": "μετά",
+            "translations": [
+                "after",
+                "then"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/81969fd318c7db5a44d11eb464f258f1",
+            "isNew": false
+        },
+        {
+            "text": "κάτω",
+            "translations": [
+                "down"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1d0191c056659d2bef33b14d4ba2dd03",
+            "isNew": false
+        },
+        {
+            "text": "χωρίς",
+            "translations": [
+                "without"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/92744084575d11a77abb412a8fc6a704",
+            "isNew": false
+        },
+        {
+            "text": "πάνω",
+            "translations": [
+                "on",
+                "over",
+                "on top of",
+                "up"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/dd9cfdee605e14439aac697dd41061ca",
+            "isNew": false
+        },
+        {
+            "text": "έξω",
+            "translations": [
+                "out",
+                "outside"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/0106a4a743d267b593cb0830a3d989cc",
+            "isNew": false
+        },
+        {
+            "text": "όπως",
+            "translations": [
+                "like",
+                "as",
+                "such as",
+                "the way",
+                "what"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5d6aa34553beca71446bdaabae6b4b8d",
+            "isNew": false
+        },
+        {
+            "text": "εξαιτίας",
+            "translations": [
+                "because of",
+                "due to"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/895f43a01dda67a217835d2097bddf23",
+            "isNew": false
+        },
+        {
+            "text": "πίσω",
+            "translations": [
+                "behind",
+                "back"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1df69378fa912dd852159fef591dbca7",
+            "isNew": false
+        },
+        {
+            "text": "μέσα",
+            "translations": [
+                "inside",
+                "into",
+                "in"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/bd062e6244c8e8b8fa154c359d0a004a",
+            "isNew": false
+        },
+        {
+            "text": "δίπλα",
+            "translations": [
+                "next to",
+                "near",
+                "by"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9b44fd8eb64d2a24380f82075dad28de",
+            "isNew": false
+        },
+        {
+            "text": "σαν",
+            "translations": [
+                "like",
+                "as",
+                "in",
+                "san"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/7ad2b4e9e1dd0f6b763660b041c03e93",
+            "isNew": false
+        },
+        {
+            "text": "για",
+            "translations": [
+                "for",
+                "about"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/3ce88d825d303b0256c8b22cb4a6b7ee",
+            "isNew": false
+        },
+        {
+            "text": "ανάμεσα",
+            "translations": [
+                "among",
+                "between",
+                "Amidst"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/96d7ffea12ab0409f272daeb4a0a86cd",
+            "isNew": false
+        },
+        {
+            "text": "εμάς",
+            "translations": [
+                "us",
+                "to us"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/00da8df4e009b6d83dd4aa4efbdff55b",
+            "isNew": false
+        },
+        {
+            "text": "εμένα",
+            "translations": [
+                "me"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b36b8acbd1cf68a17ee6881e0c1572a9",
+            "isNew": false
+        },
+        {
+            "text": "αέρας",
+            "translations": [
+                "wind",
+                "air"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/92f17ecd1f4c01f10330b6f36eeb4560",
+            "isNew": false
+        },
+        {
+            "text": "ομίχλη",
+            "translations": [
+                "fog"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b484e037c8df7a0b9b32d4caf8660299",
+            "isNew": false
+        },
+        {
+            "text": "χιονίζει",
+            "translations": [
+                "it's snowing",
+                "snows",
+                "it has been snowing",
+                "It snows",
+                "it snows/is snowing",
+                "snowing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6d7a4b4b9120f35539bac439fcc8db7d",
+            "isNew": false
+        },
+        {
+            "text": "ζέστη",
+            "translations": [
+                "heat",
+                "hot"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f8c614a73b65b306375e5fd1d1ce6b2f",
+            "isNew": false
+        },
+        {
+            "text": "ήλιος",
+            "translations": [
+                "sun"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/3af265ebde21c36f74b97cc2823e4bab",
+            "isNew": false
+        },
+        {
+            "text": "καιρός",
+            "translations": [
+                "weather",
+                "time"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a80c1da3968c9d1eeba9af160ac458d6",
+            "isNew": false
+        },
+        {
+            "text": "βρέχει",
+            "translations": [
+                "rain",
+                "it rains",
+                "It is raining",
+                "rains",
+                "it's raining",
+                "does it rain"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b75f7dcbc7206cf13a3dec92baa4cb98",
+            "isNew": false
+        },
+        {
+            "text": "συννεφιά",
+            "translations": [
+                "cloudiness",
+                "cloudy"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/fad1e428b494c657485120a05d06e115",
+            "isNew": false
+        },
+        {
+            "text": "κρύο",
+            "translations": [
+                "cold"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9868796e41f6e48c3ade76e9fc14b0bb",
+            "isNew": false
+        },
+        {
+            "text": "μήλου",
+            "translations": [
+                "apple"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1e42297ef2d1da1af27994a3518112d0",
+            "isNew": false
+        },
+        {
+            "text": "πρωινού",
+            "translations": [
+                "breakfast",
+                "the breakfast plate",
+                "the breakfast dish"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/9a23113e98be5f06387bc895d32c20cc",
+            "isNew": false
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 638,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 100,
+        "nextStartIndex": 200
+    }
+}

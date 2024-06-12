@@ -1,0 +1,531 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "Samstag",
+            "translations": [
+                "Saturday"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8834c3334e491644f21d838006295062",
+            "isNew": true
+        },
+        {
+            "text": "Zeit",
+            "translations": [
+                "time"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3717989e173d834f6afcf593e5d09463",
+            "isNew": true
+        },
+        {
+            "text": "schwimmen",
+            "translations": [
+                "swim",
+                "to float"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e7d7b26ca59a9f26a2f961c17d0b8d3f",
+            "isNew": true
+        },
+        {
+            "text": "ins",
+            "translations": [
+                "this",
+                "to the",
+                "that",
+                "in the",
+                "into the",
+                "to",
+                "which"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/765b769b9ee6ac2a7841a4e6055e134e",
+            "isNew": true
+        },
+        {
+            "text": "Geld",
+            "translations": [
+                "money"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/47d35d96c8bfd9e91475bffdd02ca729",
+            "isNew": true
+        },
+        {
+            "text": "Schwimmbad",
+            "translations": [
+                "swimming pool"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ba65518bd8fc644db4d5988bd6f4b73a",
+            "isNew": true
+        },
+        {
+            "text": "gehen",
+            "translations": [
+                "go",
+                "walk",
+                "leave"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/27aeb212d26614fcfae28a50a8519a59",
+            "isNew": true
+        },
+        {
+            "text": "möchte",
+            "translations": [
+                "would like to",
+                "would like"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b9f91ad7313d78f0785882bdb21958b2",
+            "isNew": true
+        },
+        {
+            "text": "möchtest",
+            "translations": [
+                "would like to",
+                "like",
+                "would like",
+                "do want"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/154288c0af8e5bce26a76a4c34a3b45e",
+            "isNew": true
+        },
+        {
+            "text": "am Wochenende",
+            "translations": [
+                "on the weekend"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2f90e3698daf964201c5f7fc0f969858",
+            "isNew": true
+        },
+        {
+            "text": "Freunde",
+            "translations": [
+                "friends",
+                "friends'"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/239cd519305dfb5b0ae647c4f5b24e8a",
+            "isNew": true
+        },
+        {
+            "text": "joggen",
+            "translations": [
+                "to jog",
+                "jogging"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e40c843b04778293038b71d5f0f6b6ce",
+            "isNew": true
+        },
+        {
+            "text": "spielen",
+            "translations": [
+                "playing",
+                "are playing",
+                "will play",
+                "play",
+                "plays"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f56a1c78881764df5fa07c3e1bb2f5e2",
+            "isNew": true
+        },
+        {
+            "text": "singst",
+            "translations": [
+                "sing",
+                "are singing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d27b01372b2d4864ede79a3349f3968d",
+            "isNew": true
+        },
+        {
+            "text": "gern",
+            "translations": [
+                "like",
+                "liked to",
+                "happy to",
+                "does like to",
+                "likes",
+                "liked",
+                "do like to",
+                "likes to",
+                "like to",
+                "be happy to",
+                "are happy to",
+                "enjoy",
+                "fond"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4519d61870db21a2d4dc7e09c60c01d8",
+            "isNew": true
+        },
+        {
+            "text": "singt",
+            "translations": [
+                "sings",
+                "sing",
+                "is singing",
+                "singing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3882b520ea756e03bd6f9e5f9205d6d4",
+            "isNew": true
+        },
+        {
+            "text": "singe",
+            "translations": [
+                "sing",
+                "am singing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7ade073879318655338090cd5dd07034",
+            "isNew": true
+        },
+        {
+            "text": "fotografiere",
+            "translations": [
+                "take photos",
+                "take pictures"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d55408e59a10818b06434a9248b1b771",
+            "isNew": true
+        },
+        {
+            "text": "surft",
+            "translations": [
+                "goes surfing",
+                "is surfing",
+                "surfs",
+                "surfing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ee9d7013a887f0356be193ad35c4a958",
+            "isNew": true
+        },
+        {
+            "text": "jogge",
+            "translations": [
+                "am jogging",
+                "jog",
+                "jogging"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e190652a577e077049eec024b5ef69ef",
+            "isNew": true
+        },
+        {
+            "text": "Basketball",
+            "translations": [
+                "basketball"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1fcdca21e4e08ea2ac8dacce42c071b1",
+            "isNew": true
+        },
+        {
+            "text": "frühstückt",
+            "translations": [
+                "are eating breakfast",
+                "eats breakfast",
+                "is eating breakfast",
+                "eat breakfast"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/79aa7f174ff7fd712930ac7a4a79d14c",
+            "isNew": true
+        },
+        {
+            "text": "Morgen",
+            "translations": [
+                "morning"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/bf6381e91fc85ff8592a02f596cd5e93",
+            "isNew": true
+        },
+        {
+            "text": "Fußball",
+            "translations": [
+                "soccer",
+                "football"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b3738e5901ecab496745002613e61b06",
+            "isNew": true
+        },
+        {
+            "text": "Volleyball",
+            "translations": [
+                "volleyball"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2d1b4c9497a1088f39aa8f52cc44e853",
+            "isNew": true
+        },
+        {
+            "text": "Urlaub",
+            "translations": [
+                "vacation",
+                "a vacation",
+                "holidays"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/59e0f0a6527094c73d62af23618b683b",
+            "isNew": true
+        },
+        {
+            "text": "joggt",
+            "translations": [
+                "jogs",
+                "is jogging"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9d1eefb8219ed73e90b11f77897819d1",
+            "isNew": true
+        },
+        {
+            "text": "jeden",
+            "translations": [
+                "any",
+                "all",
+                "each",
+                "everybody",
+                "every",
+                "anyone"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d6f6104ca876490cd0cdfc3eccb83dc2",
+            "isNew": true
+        },
+        {
+            "text": "Tag",
+            "translations": [
+                "day"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/dee7cf8bb8ddca8e4d29b83cba0402d8",
+            "isNew": true
+        },
+        {
+            "text": "surfe",
+            "translations": [
+                "surf",
+                "go surfing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c3fe75dff84ca68d6dd3e8a1d07b3d8b",
+            "isNew": true
+        },
+        {
+            "text": "surfst",
+            "translations": [
+                "surf",
+                "go surfing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f4b933e9093253333e2b655f19879591",
+            "isNew": true
+        },
+        {
+            "text": "frühstücke",
+            "translations": [
+                "eat breakfast",
+                "am eating breakfast"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0a8fda6b3a38af591c8b2570b95637d6",
+            "isNew": true
+        },
+        {
+            "text": "joggst",
+            "translations": [
+                "jog",
+                "are jogging"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/18a7031aa710c1de1142aec9430359da",
+            "isNew": true
+        },
+        {
+            "text": "so",
+            "translations": [
+                "that",
+                "as",
+                "so",
+                "like this",
+                "such",
+                "about",
+                "like that"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/03cea47b3094ad1454e0e43a98061e9d",
+            "isNew": true
+        },
+        {
+            "text": "heute Morgen",
+            "translations": [
+                "this morning"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/46e0e7e876a56154b7ae0bff2eeb6ff6",
+            "isNew": true
+        },
+        {
+            "text": "machst",
+            "translations": [
+                "work",
+                "are doing",
+                "are taking",
+                "make",
+                "create",
+                "take",
+                "will do",
+                "get",
+                "having",
+                "do",
+                "have",
+                "are making",
+                "turn",
+                "doing"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9529d4e1a3ff507c7e069b9234e94eeb",
+            "isNew": true
+        },
+        {
+            "text": "frühstückst",
+            "translations": [
+                "are eating breakfast",
+                "eat breakfast"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5d21ea219aecb27f375caf7372544fa6",
+            "isNew": true
+        },
+        {
+            "text": "warum",
+            "translations": [
+                "why"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9afa696ff7059f8f4d7a944f771fafd6",
+            "isNew": true
+        },
+        {
+            "text": "spricht",
+            "translations": [
+                "speaks",
+                "does speak",
+                "speak",
+                "pronounce",
+                "talks",
+                "is speaking",
+                "talk",
+                "leaves",
+                "is talking",
+                "talking"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6d7ef45d87da2b988d6a2ab6b3a88b6b",
+            "isNew": true
+        },
+        {
+            "text": "lernt",
+            "translations": [
+                "learns",
+                "is studying",
+                "learn",
+                "studies",
+                "study",
+                "is learning",
+                "are learning",
+                "learning"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a248d1b2edbbd170d9b6a7c88423bbba",
+            "isNew": true
+        },
+        {
+            "text": "Muttersprache",
+            "translations": [
+                "mother tongue",
+                "native language",
+                "first language",
+                "native tongue"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/94d447356fb13f3f39f14059048d418e",
+            "isNew": true
+        },
+        {
+            "text": "viele",
+            "translations": [
+                "many",
+                "a lot of",
+                "lots of",
+                "heaps of",
+                "plenty of",
+                "loads of"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a3cd487764b318b3742077271a5a872d",
+            "isNew": true
+        },
+        {
+            "text": "Russisch",
+            "translations": [
+                "Russian"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5f0f5e6f471f8301228645a6ebe996c8",
+            "isNew": true
+        },
+        {
+            "text": "lernst",
+            "translations": [
+                "learn",
+                "study",
+                "are studying",
+                "are learning",
+                "studying",
+                "learning"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/83d8a02ea22a34b3f7ef345af886b2af",
+            "isNew": true
+        },
+        {
+            "text": "lerne",
+            "translations": [
+                "learn",
+                "am meeting",
+                "study",
+                "am studying",
+                "am learning",
+                "meet",
+                "learning"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0feb532af1dcf1c3bfbdea7074387814",
+            "isNew": true
+        },
+        {
+            "text": "Spanisch",
+            "translations": [
+                "Spanish"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/15056467c8dbbf076b8f6c5ea3ec0f98",
+            "isNew": true
+        },
+        {
+            "text": "schnell",
+            "translations": [
+                "quickly",
+                "rapidly"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/342d0fed81f8bbcee269553fe53833fd",
+            "isNew": true
+        },
+        {
+            "text": "sprichst",
+            "translations": [
+                "are speaking",
+                "speak",
+                "talk",
+                "pronounce",
+                "are talking"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a470015266536eaace4ab946a19fdad0",
+            "isNew": true
+        },
+        {
+            "text": "nur",
+            "translations": [
+                "only",
+                "just",
+                "merely"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/934728689ca64074c15642b669394372",
+            "isNew": true
+        },
+        {
+            "text": "welche",
+            "translations": [
+                "which"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c36ba86fded287bf3854746c259e938b",
+            "isNew": true
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 741,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 350,
+        "nextStartIndex": 450
+    }
+}

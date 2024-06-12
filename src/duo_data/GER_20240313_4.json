@@ -1,0 +1,497 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "neunzehn",
+            "translations": [
+                "nineteen"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9cdb953f1f2818b47daad298ccd38265",
+            "isNew": true
+        },
+        {
+            "text": "studieren",
+            "translations": [
+                "study",
+                "are studying",
+                "have studied"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/eaae582c03656999af0dc819f2c9b542",
+            "isNew": true
+        },
+        {
+            "text": "glücklich",
+            "translations": [
+                "happy"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c7cba794ad1ca12b07bc6d6144e93073",
+            "isNew": true
+        },
+        {
+            "text": "gute Besserung",
+            "translations": [
+                "feel better",
+                "get well"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/be18c4d9f228c9e82eec69dd03213835",
+            "isNew": true
+        },
+        {
+            "text": "hurra",
+            "translations": [
+                "hooray",
+                "woohoo",
+                "yippie",
+                "hurrah"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3fce940860e19bf777910d56733c2e29",
+            "isNew": true
+        },
+        {
+            "text": "gesund",
+            "translations": [
+                "healthy",
+                "fit",
+                "well",
+                "in good health"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3c8d20b100e68978c2a807219784a43b",
+            "isNew": true
+        },
+        {
+            "text": "mehr",
+            "translations": [
+                "more",
+                "anymore",
+                "left"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5e5f2566518c35573bb902c1f9fc9075",
+            "isNew": true
+        },
+        {
+            "text": "Zahnschmerzen",
+            "translations": [
+                "toothache"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/01804f5e628fe568cb4d611da7ba60c5",
+            "isNew": true
+        },
+        {
+            "text": "im Bett",
+            "translations": [
+                "in bed"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0e1b22190c342aaff18195aa2dbab2c0",
+            "isNew": true
+        },
+        {
+            "text": "schlafen",
+            "translations": [
+                "sleep"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/39381b0df93661b0788fd99ffda43a95",
+            "isNew": true
+        },
+        {
+            "text": "Fieber",
+            "translations": [
+                "fever"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/84455059efe9a7a1153587dbbea8841a",
+            "isNew": true
+        },
+        {
+            "text": "Bauchschmerzen",
+            "translations": [
+                "stomachache",
+                "tummyache"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0818344a4681e3b33acaa63857cb1674",
+            "isNew": true
+        },
+        {
+            "text": "müssen",
+            "translations": [
+                "have got to",
+                "have to",
+                "need to",
+                "has to",
+                "must"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d405eefcffe4f945298f2c248e3d2b54",
+            "isNew": true
+        },
+        {
+            "text": "bleiben",
+            "translations": [
+                "stay",
+                "being",
+                "stopped",
+                "continue",
+                "are staying",
+                "keep",
+                "keeps"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/209136681d82f2818154e508268c1b3c",
+            "isNew": true
+        },
+        {
+            "text": "Name",
+            "translations": [
+                "name"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ba2656a368dffc6e23e6eb6460569f93",
+            "isNew": true
+        },
+        {
+            "text": "siebzehn",
+            "translations": [
+                "seventeen"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b1bdc48aaee4a8796dcc186912cc7602",
+            "isNew": true
+        },
+        {
+            "text": "wie viel Uhr",
+            "translations": [
+                "what time"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2bd3c1a693a3ba22d41cd7bba2ae5474",
+            "isNew": true
+        },
+        {
+            "text": "machen",
+            "translations": [
+                "go on",
+                "makes",
+                "offered",
+                "work",
+                "made",
+                "are doing",
+                "are taking",
+                "making",
+                "make",
+                "create",
+                "take",
+                "get",
+                "are closing",
+                "having",
+                "taking",
+                "prepare",
+                "do",
+                "does",
+                "close",
+                "have",
+                "are making",
+                "given",
+                "went",
+                "doing",
+                "going"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/684e8e9464276fe27bb11883af1685e4",
+            "isNew": true
+        },
+        {
+            "text": "sechzehn",
+            "translations": [
+                "sixteen"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/164b8a9b798b43cfec2390207290af48",
+            "isNew": true
+        },
+        {
+            "text": "Termin",
+            "translations": [
+                "appointment",
+                "date",
+                "deadline",
+                "due date"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fb4cf5522ef1a80ade8f2082a73c43d8",
+            "isNew": true
+        },
+        {
+            "text": "Tablette",
+            "translations": [
+                "pill",
+                "tablet"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/11bba3b1cd506db8b3af08bca1792304",
+            "isNew": true
+        },
+        {
+            "text": "geh",
+            "translations": [
+                "go",
+                "leave"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c375abe46b3efe0f2b5deb501e0d5db6",
+            "isNew": true
+        },
+        {
+            "text": "iss",
+            "translations": [
+                "eat"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/90e62778f78f17100f4a9099e8359590",
+            "isNew": true
+        },
+        {
+            "text": "Kopfschmerzen",
+            "translations": [
+                "headache",
+                "headaches"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8b141eebcfc8fbc2fbbbbcec6bb0e833",
+            "isNew": true
+        },
+        {
+            "text": "Krankenhaus",
+            "translations": [
+                "hospital"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/939366728792a29acfd8fd13b2fd2ad7",
+            "isNew": true
+        },
+        {
+            "text": "trink",
+            "translations": [
+                "drink"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5fb401e70392f26f72e58b3b1b5222d7",
+            "isNew": true
+        },
+        {
+            "text": "schlafe",
+            "translations": [
+                "sleep",
+                "am asleep",
+                "am sleeping",
+                "sleeping"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6782e5f86a4e4dcf426de441451aee01",
+            "isNew": true
+        },
+        {
+            "text": "viel",
+            "translations": [
+                "much"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/47a39902494bc1de20d220a1f7b425ec",
+            "isNew": true
+        },
+        {
+            "text": "müde",
+            "translations": [
+                "tired",
+                "sleepy",
+                "weary"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9b64b3f29a58044559063a08726e6a47",
+            "isNew": true
+        },
+        {
+            "text": "traurig",
+            "translations": [
+                "sad",
+                "unhappy"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0001cce244fe4e8ab610af49420c0928",
+            "isNew": true
+        },
+        {
+            "text": "nachts",
+            "translations": [
+                "at night",
+                "at nighttime"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a4d4457075f059514915b914e88b09b0",
+            "isNew": true
+        },
+        {
+            "text": "Durst",
+            "translations": [
+                "thirst",
+                "thirsty"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c824d93beea32291138c926609d21c95",
+            "isNew": true
+        },
+        {
+            "text": "krank",
+            "translations": [
+                "sick"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/95ccfd59d904d3c5d9acea1c571ddf06",
+            "isNew": true
+        },
+        {
+            "text": "arbeiten",
+            "translations": [
+                "work"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ec79a94139522bfdbc2b02c5e099efd4",
+            "isNew": true
+        },
+        {
+            "text": "Lust",
+            "translations": [
+                "desire",
+                "in the mood"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/41029abe625d2526874c495a2a339e56",
+            "isNew": true
+        },
+        {
+            "text": "leider",
+            "translations": [
+                "unfortunately",
+                "sadly",
+                "regrettably",
+                "regretfully"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7125eee3cd9ca58fd6776c9debb6c259",
+            "isNew": true
+        },
+        {
+            "text": "Mittwoch",
+            "translations": [
+                "Wednesday"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9c6bcbd3d0b9f41fe112fb7effc43d79",
+            "isNew": true
+        },
+        {
+            "text": "schon",
+            "translations": [
+                "already",
+                "yet"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5ec2cad4a4cb7b18f6b55f3af14d18f8",
+            "isNew": true
+        },
+        {
+            "text": "Pläne",
+            "translations": [
+                "plans"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fab36be0ea37292cdb303e74d8d881b2",
+            "isNew": true
+        },
+        {
+            "text": "lernen",
+            "translations": [
+                "learn",
+                "studies",
+                "study",
+                "are studying",
+                "learned",
+                "are learning",
+                "learning"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c5d5d5a9585968138f70abe93243e73a",
+            "isNew": true
+        },
+        {
+            "text": "grillen",
+            "translations": [
+                "grill"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ea74e42a91704164648a43b2622a91a3",
+            "isNew": true
+        },
+        {
+            "text": "wollt",
+            "translations": [
+                "want",
+                "wish",
+                "will"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3820338089e7f53fd87c9ff9ec5da355",
+            "isNew": true
+        },
+        {
+            "text": "Woche",
+            "translations": [
+                "week"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/323f7aba6b5ac1e5f051e9ce343b99e5",
+            "isNew": true
+        },
+        {
+            "text": "Wald",
+            "translations": [
+                "forest",
+                "wood",
+                "woods"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1a4d9380797955db48586d84959c73ee",
+            "isNew": true
+        },
+        {
+            "text": "Hexe",
+            "translations": [
+                "witch"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/fed46dcecfa468b3e791cd0e6dcb4f16",
+            "isNew": true
+        },
+        {
+            "text": "campe",
+            "translations": [
+                "am camping",
+                "go camping",
+                "camp",
+                "camping"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6a6023c998de395ae874910c58774738",
+            "isNew": true
+        },
+        {
+            "text": "Podcasts",
+            "translations": [
+                "podcasts"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a9f3fb769d3420b48be2c0088879e3bd",
+            "isNew": true
+        },
+        {
+            "text": "will",
+            "translations": [
+                "wants",
+                "wants to",
+                "want",
+                "want to"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8196d659744a9fac0e0a7c7c9627e637",
+            "isNew": true
+        },
+        {
+            "text": "hört",
+            "translations": [
+                "hears",
+                "hear",
+                "listens to",
+                "listen",
+                "listening",
+                "learn"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b378f5cf76a8dba8f9e23725de0856c9",
+            "isNew": true
+        },
+        {
+            "text": "Jazz",
+            "translations": [
+                "jazz"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/717ddd0b4949c59146b7f490c7a077d4",
+            "isNew": true
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 741,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": 100,
+        "nextStartIndex": 200
+    }
+}

@@ -1,0 +1,446 @@
+{
+    "learnedLexemes": [
+        {
+            "text": "παρά",
+            "translations": [
+                "but",
+                "spite",
+                "before",
+                "to",
+                "despite"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1c8b6a090c5e8adbc3da12791cc36676",
+            "isNew": false
+        },
+        {
+            "text": "πάλι",
+            "translations": [
+                "again"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/a8496babd5f24937abbee59bb1c3c3fe",
+            "isNew": false
+        },
+        {
+            "text": "μέχρι",
+            "translations": [
+                "until",
+                "to",
+                "by the time"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/75ceeadfc1716becd3e7c269a2902856",
+            "isNew": false
+        },
+        {
+            "text": "μισή",
+            "translations": [
+                "half"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/2f9f24459f2950b93877142ba6bd1a9b",
+            "isNew": false
+        },
+        {
+            "text": "τέταρτο",
+            "translations": [
+                "fourth",
+                "quarter"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1a8d58ba05cd9e34e16acb6a7c3b31e1",
+            "isNew": false
+        },
+        {
+            "text": "δεκαετία",
+            "translations": [
+                "decade"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/27a8765fe4e05190edf88090e8b0a8d0",
+            "isNew": false
+        },
+        {
+            "text": "ημερολόγιο",
+            "translations": [
+                "calendar",
+                "diary",
+                "a calendar"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/cddcfd6bc5d9cfcc552dc83744684d95",
+            "isNew": false
+        },
+        {
+            "text": "γέννηση",
+            "translations": [
+                "birth"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/70e47c6734aabd044409c0beed214f5c",
+            "isNew": false
+        },
+        {
+            "text": "πριν",
+            "translations": [
+                "before"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/57b48c1f6c6781c0e705913b6b831a14",
+            "isNew": false
+        },
+        {
+            "text": "πέρυσι",
+            "translations": [
+                "last year"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1d2e3e89509b21cdca575e8fe30b0758",
+            "isNew": false
+        },
+        {
+            "text": "φέτος",
+            "translations": [
+                "this year"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6b26bb90cdee1930a321223bcd7be50d",
+            "isNew": false
+        },
+        {
+            "text": "δευτερόλεπτο",
+            "translations": [
+                "second"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/7ff2d1eb6966025463d2fc74f9775f35",
+            "isNew": false
+        },
+        {
+            "text": "περίοδος",
+            "translations": [
+                "period",
+                "time"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/1c3ef98fb193c32f3e34acc45affab10",
+            "isNew": false
+        },
+        {
+            "text": "γενιά",
+            "translations": [
+                "generation"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/85a486e7432c80087c6f7f9a05937b81",
+            "isNew": false
+        },
+        {
+            "text": "λεπτό",
+            "translations": [
+                "moment",
+                "1/60 of an hour",
+                "1/100 of a euro/dollar",
+                "minute",
+                "penny",
+                "cent"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/cbbfb332d49b846356d95a040080f74e",
+            "isNew": false
+        },
+        {
+            "text": "αιώνας",
+            "translations": [
+                "century"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/533c90ee9beb465f0d763dcc687801f8",
+            "isNew": false
+        },
+        {
+            "text": "στιγμές",
+            "translations": [
+                "moments"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/486b94025e550ecda6d0508a12f2519e",
+            "isNew": false
+        },
+        {
+            "text": "άνοιξη",
+            "translations": [
+                "spring",
+                "springtime"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/15fd2ead9a928cb2fb57e5e145fd7ded",
+            "isNew": false
+        },
+        {
+            "text": "εποχή",
+            "translations": [
+                "season",
+                "epoch",
+                "era",
+                "age"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/42087764971322b1bf448dbbbaa20c93",
+            "isNew": false
+        },
+        {
+            "text": "ιούνιος",
+            "translations": [
+                "June"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/25d5386756fb5aec93faad35f9a0f1af",
+            "isNew": false
+        },
+        {
+            "text": "χειμώνας",
+            "translations": [
+                "winter"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/127bef681f543c83ce7780664acf1dab",
+            "isNew": false
+        },
+        {
+            "text": "δεκέμβριος",
+            "translations": [
+                "december"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8ec92304569df025ec58796bb3b1136f",
+            "isNew": false
+        },
+        {
+            "text": "νοέμβριος",
+            "translations": [
+                "november"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/f28e512617486ab951a96deee3d1839d",
+            "isNew": false
+        },
+        {
+            "text": "φθινόπωρο",
+            "translations": [
+                "fall",
+                "autumn"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4012cdd4e1085945d9529de6d4560ea3",
+            "isNew": false
+        },
+        {
+            "text": "καλοκαίρι",
+            "translations": [
+                "summer",
+                "summertime"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/0ec76e463e54679f38c9f534a3cdb23a",
+            "isNew": false
+        },
+        {
+            "text": "χιλιετία",
+            "translations": [
+                "millennium"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b000d2ed6ac36290143d6ee5342353ce",
+            "isNew": false
+        },
+        {
+            "text": "φεβρουάριος",
+            "translations": [
+                "february"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/8959a6209410301ffc3ce3d335eebe05",
+            "isNew": false
+        },
+        {
+            "text": "ιούλιος",
+            "translations": [
+                "July",
+                "of July"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/0c001faddfc2692fddc9eefdceb948e5",
+            "isNew": false
+        },
+        {
+            "text": "ιανουάριος",
+            "translations": [
+                "january"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5e7430feece96288d72f17697afe4633",
+            "isNew": false
+        },
+        {
+            "text": "σεπτέμβριος",
+            "translations": [
+                "September"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/06af3b4f0dff3ea79e155ec5a665fad7",
+            "isNew": false
+        },
+        {
+            "text": "μάιος",
+            "translations": [
+                "May"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/dfa4e96b7dcae338d06d38d38d324cf3",
+            "isNew": false
+        },
+        {
+            "text": "οκτώβριος",
+            "translations": [
+                "October"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/153e151a9e127e7683987138f2310976",
+            "isNew": false
+        },
+        {
+            "text": "απρίλιος",
+            "translations": [
+                "april"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/565b986bf12ef2009227d623463e4170",
+            "isNew": false
+        },
+        {
+            "text": "αύγουστος",
+            "translations": [
+                "August"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/15aa99c022a9af04ca3347cded181c69",
+            "isNew": false
+        },
+        {
+            "text": "μάρτιος",
+            "translations": [
+                "March"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/ba7aac0620ec0a26be093c0ed8797838",
+            "isNew": false
+        },
+        {
+            "text": "χθες",
+            "translations": [
+                "yesterday"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/22cc07bbe50b8374e83b63f52c91c822",
+            "isNew": false
+        },
+        {
+            "text": "μεσάνυχτα",
+            "translations": [
+                "midnight"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/cb3562a118bd9e43d73a9ac30c65403e",
+            "isNew": false
+        },
+        {
+            "text": "μήνας",
+            "translations": [
+                "month"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/edfaa56c80afb4a24301b4e177832d21",
+            "isNew": false
+        },
+        {
+            "text": "χρόνος",
+            "translations": [
+                "time",
+                "year"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/71e18a572847a55b1b2d72998b737120",
+            "isNew": false
+        },
+        {
+            "text": "εβδομάδα",
+            "translations": [
+                "week"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/227d922b2b0e65df028ce9ca1c11cc5e",
+            "isNew": false
+        },
+        {
+            "text": "ηλικία",
+            "translations": [
+                "age"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/7d75655266b9d44686922d9fc1b38039",
+            "isNew": false
+        },
+        {
+            "text": "κυριακή",
+            "translations": [
+                "Sunday"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/562addc766ae6f23f67bdb3c3d2a1a4e",
+            "isNew": false
+        },
+        {
+            "text": "σαββατοκύριακο",
+            "translations": [
+                "weekend"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4f4acc3f954c58832674112fd9343964",
+            "isNew": false
+        },
+        {
+            "text": "ημερομηνία",
+            "translations": [
+                "date",
+                "a date"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/505d9dda09e565521eb0bd010d999c11",
+            "isNew": false
+        },
+        {
+            "text": "ώρα",
+            "translations": [
+                "time",
+                "hour"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/b07b352649f24e14087b29f2c8d80968",
+            "isNew": false
+        },
+        {
+            "text": "μεσημέρι",
+            "translations": [
+                "afternoon",
+                "midday",
+                "noon",
+                "lunchtime"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/194989848a9935767b49bb6d21033183",
+            "isNew": false
+        },
+        {
+            "text": "παρασκευή",
+            "translations": [
+                "Friday",
+                "on Friday"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/5c1b4420888fe2f7696a74403b368835",
+            "isNew": false
+        },
+        {
+            "text": "αρχή",
+            "translations": [
+                "start",
+                "origin",
+                "beginning",
+                "principle",
+                "outset",
+                "from scratch",
+                "begin"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/efb149d0fd3e7db30c0acfd933de8f14",
+            "isNew": false
+        },
+        {
+            "text": "σάββατο",
+            "translations": [
+                "Saturday"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/4ca132835b4571b7f711eef493dccc12",
+            "isNew": false
+        },
+        {
+            "text": "τετάρτη",
+            "translations": [
+                "Wednesday"
+            ],
+            "audioURL": "https://d1vq87e9lcf771.cloudfront.net/cora/6b959fa367492c5fbac7857aee8c6797",
+            "isNew": false
+        }
+    ],
+    "pagination": {
+        "totalLexemes": 638,
+        "requestedPageSize": 50,
+        "pageSize": 50,
+        "previousStartIndex": null,
+        "nextStartIndex": 50
+    }
+}
